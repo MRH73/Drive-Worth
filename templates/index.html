@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>AutoValue ML</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}" />
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  </head>
+  <body>
+    <main class="app-shell">
+      <section class="workspace">
+        <header class="topbar">
+          <div>
+            <p class="eyebrow">Regression ML Pipeline</p>
+            <h1>AutoValue ML</h1>
+          </div>
+          <div class="model-pill">
+            <span>Best model</span>
+            <strong>{{ best_model }}</strong>
+          </div>
+        </header>
+
+        <section class="grid">
+          <form id="prediction-form" class="panel form-panel">
+            <div class="panel-heading">
+              <h2>Vehicle Details</h2>
+              <p>Enter a car profile and estimate its resale price.</p>
+            </div>
+
+            <div class="field-grid">
+              <label>
+                Brand
+                <select name="brand" required>
+                  {% for brand in brands %}
+                  <option value="{{ brand }}">{{ brand }}</option>
+                  {% endfor %}
+                </select>
+              </label>
+
+              <label>
+                Year
+                <input name="year" type="number" min="2005" max="2025" value="2020" required />
+              </label>
+
+              <label>
+                Mileage
+                <input name="mileage" type="number" min="0" max="250000" value="42000" required />
+              </label>
+
+              <label>
+                Engine Size
+                <input name="engine_size" type="number" min="1" max="7" step="0.1" value="2.4" required />
+              </label>
+
+              <label>
+                Horsepower
+                <input name="horsepower" type="number" min="70" max="600" value="210" required />
+              </label>
+
+              <label>
+                Fuel Type
+                <select name="fuel_type" required>
+                  {% for fuel_type in fuel_types %}
+                  <option value="{{ fuel_type }}">{{ fuel_type }}</option>
+                  {% endfor %}
+                </select>
+              </label>
+
+              <label>
+                Transmission
+                <select name="transmission" required>
+                  {% for transmission in transmissions %}
+                  <option value="{{ transmission }}">{{ transmission }}</option>
+                  {% endfor %}
+                </select>
+              </label>
+
+              <label>
+                Body Type
+                <select name="body_type" required>
+                  {% for body_type in body_types %}
+                  <option value="{{ body_type }}">{{ body_type }}</option>
+                  {% endfor %}
+                </select>
+              </label>
+
+              <label>
+                Accident History
+                <select name="accident_history" required>
+                  <option value="0">No accident</option>
+                  <option value="1">Has accident</option>
+                </select>
+              </label>
+
+              <label>
+                Previous Owners
+                <input name="owners" type="number" min="1" max="4" value="1" required />
+              </label>
+            </div>
+
+            <button type="submit">Predict Price</button>
+          </form>
+
+          <section class="panel result-panel">
+            <div class="panel-heading">
+              <h2>Prediction</h2>
+              <p>Model output from the deployed Flask API.</p>
+            </div>
+            <div class="price-display" id="price-display">$0</div>
+            <p class="result-copy" id="result-copy">Submit a vehicle to generate a prediction.</p>
+            <div class="impact-list" id="impact-list"></div>
+          </section>
+        </section>
+
+        <section class="dashboard-grid">
+          <section class="panel">
+            <div class="panel-heading">
+              <h2>Model Comparison</h2>
+              <p>Lower MAE and RMSE are better. Higher R2 is better.</p>
+            </div>
+            <canvas id="metrics-chart"></canvas>
+          </section>
+
+          <section class="panel">
+            <div class="panel-heading">
+              <h2>Biggest Impact</h2>
+              <p>Permutation importance shows which inputs change predictions most.</p>
+            </div>
+            <canvas id="impact-chart"></canvas>
+          </section>
+        </section>
+      </section>
+    </main>
+
+    <script src="{{ url_for('static', filename='js/app.js') }}"></script>
+  </body>
+</html>
