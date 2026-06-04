@@ -1,112 +1,174 @@
 from pathlib import Path
 
-import numpy as np
 import pandas as pd
 
 
-BRANDS = ["Toyota", "Honda", "Ford", "Chevrolet", "BMW", "Mercedes", "Hyundai", "Kia"]
-FUEL_TYPES = ["Gasoline", "Hybrid", "Diesel", "Electric"]
-TRANSMISSIONS = ["Automatic", "Manual"]
-BODY_TYPES = ["Sedan", "SUV", "Hatchback", "Truck", "Coupe"]
+# Public CSV source used by the project.
+# It is a GitHub Gist CSV with brand, model, year, mileage, fuel, transmission,
+# condition, and price columns.
+SOURCE_DATA_URL = (
+    "https://gist.githubusercontent.com/harshitmanda35/"
+    "888474a03966b678294d2dfb29bff888/raw/car_price_prediction.csv"
+)
+
+# These are the columns we keep for the beginner version of the model.
+# We skip engine size and horsepower because the user asked to avoid them.
+REQUIRED_COLUMNS = [
+    "brand",
+    "model",
+    "year",
+    "mileage",
+    "fuel_type",
+    "transmission",
+    "condition",
+    "price",
+]
 
 
-def generate_car_price_data(rows: int = 1800, random_state: int = 42) -> pd.DataFrame:
-    # The random generator makes fake data.
-    # The random_state keeps the results reproducible.
-    rng = np.random.default_rng(random_state)
+# If the online CSV cannot be downloaded, this small local dataset keeps the
+# project runnable. It is only a fallback, not the preferred source.
+FALLBACK_ROWS = [
+    ("Toyota", "Corolla", 2020, 42000, "Gasoline", "Automatic", "Used", 18500),
+    ("Toyota", "Camry", 2021, 35000, "Hybrid", "Automatic", "Used", 24500),
+    ("Toyota", "RAV4", 2022, 28000, "Gasoline", "Automatic", "Like New", 31500),
+    ("Honda", "Civic", 2019, 51000, "Gasoline", "Automatic", "Used", 17800),
+    ("Honda", "Accord", 2020, 44000, "Gasoline", "Automatic", "Used", 22600),
+    ("Honda", "CR-V", 2021, 39000, "Gasoline", "Automatic", "Like New", 28900),
+    ("Ford", "Focus", 2018, 68000, "Gasoline", "Manual", "Used", 11900),
+    ("Ford", "Explorer", 2020, 58000, "Gasoline", "Automatic", "Used", 27500),
+    ("Ford", "Mustang", 2021, 26000, "Gasoline", "Automatic", "Like New", 36900),
+    ("Chevrolet", "Malibu", 2019, 61000, "Gasoline", "Automatic", "Used", 15700),
+    ("Chevrolet", "Equinox", 2020, 53000, "Gasoline", "Automatic", "Used", 21900),
+    ("Chevrolet", "Silverado", 2021, 47000, "Diesel", "Automatic", "Used", 38200),
+    ("BMW", "3 Series", 2020, 42000, "Gasoline", "Automatic", "Used", 30900),
+    ("BMW", "5 Series", 2021, 31000, "Hybrid", "Automatic", "Like New", 43800),
+    ("BMW", "X5", 2022, 25000, "Gasoline", "Automatic", "Like New", 57900),
+    ("Mercedes", "C-Class", 2020, 39000, "Gasoline", "Automatic", "Used", 33500),
+    ("Mercedes", "E-Class", 2021, 33000, "Hybrid", "Automatic", "Like New", 48900),
+    ("Mercedes", "GLC", 2022, 26000, "Gasoline", "Automatic", "Like New", 54800),
+    ("Hyundai", "Elantra", 2020, 48000, "Gasoline", "Automatic", "Used", 16800),
+    ("Hyundai", "Tucson", 2021, 36000, "Gasoline", "Automatic", "Used", 24800),
+    ("Hyundai", "Santa Fe", 2022, 29000, "Hybrid", "Automatic", "Like New", 33500),
+    ("Kia", "Forte", 2020, 46000, "Gasoline", "Automatic", "Used", 15900),
+    ("Kia", "Sportage", 2021, 37000, "Gasoline", "Automatic", "Used", 23900),
+    ("Kia", "Sorento", 2022, 30000, "Hybrid", "Automatic", "Like New", 34900),
+    ("Tesla", "Model 3", 2021, 33000, "Electric", "Automatic", "Used", 32900),
+    ("Tesla", "Model Y", 2022, 24000, "Electric", "Automatic", "Like New", 42900),
+    ("Tesla", "Model X", 2021, 28000, "Electric", "Automatic", "Used", 64900),
+    ("Audi", "A3", 2020, 41000, "Gasoline", "Automatic", "Used", 27900),
+    ("Audi", "A4", 2021, 34000, "Gasoline", "Automatic", "Like New", 36500),
+    ("Audi", "Q5", 2022, 27000, "Hybrid", "Automatic", "Like New", 47200),
+    ("Nissan", "Altima", 2020, 50000, "Gasoline", "Automatic", "Used", 17900),
+    ("Nissan", "Rogue", 2021, 39000, "Gasoline", "Automatic", "Used", 24400),
+    ("Volkswagen", "Jetta", 2020, 47000, "Gasoline", "Automatic", "Used", 17400),
+    ("Volkswagen", "Tiguan", 2021, 36000, "Gasoline", "Automatic", "Used", 26200),
+]
 
-    # Create random car information.
-    # The probabilities make common cars appear more often than rare cars.
-    brand = rng.choice(BRANDS, size=rows, p=[0.18, 0.16, 0.14, 0.12, 0.12, 0.1, 0.1, 0.08])
-    year = rng.integers(2005, 2025, size=rows)
 
-    # Mileage is generated around an average, then clipped to realistic limits.
-    mileage = np.clip(rng.normal(70000, 38000, size=rows), 2000, 220000).round()
-    engine_size = np.clip(rng.normal(2.4, 0.9, size=rows), 1.0, 6.5).round(1)
-    horsepower = np.clip(engine_size * rng.normal(88, 14, size=rows), 90, 520).round()
-    fuel_type = rng.choice(FUEL_TYPES, size=rows, p=[0.68, 0.15, 0.12, 0.05])
-    transmission = rng.choice(TRANSMISSIONS, size=rows, p=[0.78, 0.22])
-    body_type = rng.choice(BODY_TYPES, size=rows, p=[0.32, 0.33, 0.16, 0.14, 0.05])
-    accident_history = rng.choice([0, 1], size=rows, p=[0.82, 0.18])
-    owners = rng.choice([1, 2, 3, 4], size=rows, p=[0.42, 0.34, 0.18, 0.06])
+def _fallback_dataset() -> pd.DataFrame:
+    # Convert the fallback rows into a pandas DataFrame.
+    return pd.DataFrame(FALLBACK_ROWS, columns=REQUIRED_COLUMNS)
 
-    # These dictionaries simulate how different categories affect car price.
-    # Example: luxury brands usually cost more than economy brands.
-    brand_value = {
-        "Toyota": 2600,
-        "Honda": 2300,
-        "Ford": 1200,
-        "Chevrolet": 900,
-        "BMW": 8200,
-        "Mercedes": 9000,
-        "Hyundai": 500,
-        "Kia": 300,
-    }
-    fuel_value = {"Gasoline": 0, "Hybrid": 2200, "Diesel": 900, "Electric": 5400}
-    transmission_value = {"Automatic": 900, "Manual": -800}
-    body_value = {"Sedan": 0, "SUV": 3000, "Hatchback": -700, "Truck": 4200, "Coupe": 1800}
 
-    # Age is one of the strongest factors in car price.
-    age = 2025 - year
-    base_price = 31500
-
-    # These helper variables create non-linear behavior.
-    # That gives tree models something more interesting to learn.
-    premium_brand = np.isin(brand, ["BMW", "Mercedes"]).astype(int)
-    suv_or_truck = np.isin(body_type, ["SUV", "Truck"]).astype(int)
-    high_mileage_penalty = np.maximum(mileage - 95000, 0) * 0.045
-
-    # This formula creates the target value: price.
-    # It is fake data, but the logic tries to act like real used-car pricing.
-    price = (
-        base_price
-        - np.power(age, 1.18) * 1150
-        - mileage * 0.075
-        - high_mileage_penalty
-        + engine_size * 1900
-        + horsepower * 52
-        - accident_history * 4300
-        - (owners - 1) * 1200
-        + premium_brand * horsepower * 18
-        + suv_or_truck * engine_size * 650
-        - accident_history * age * 210
-        + np.vectorize(brand_value.get)(brand)
-        + np.vectorize(fuel_value.get)(fuel_type)
-        + np.vectorize(transmission_value.get)(transmission)
-        + np.vectorize(body_value.get)(body_type)
-        + rng.normal(0, 2600, size=rows)
-    )
-
-    # Keep prices inside a realistic range.
-    price = np.clip(price, 2500, 95000).round(2)
-
-    # Return everything as a pandas table.
-    return pd.DataFrame(
-        {
-            "brand": brand,
-            "year": year,
-            "mileage": mileage.astype(int),
-            "engine_size": engine_size,
-            "horsepower": horsepower.astype(int),
-            "fuel_type": fuel_type,
-            "transmission": transmission,
-            "body_type": body_type,
-            "accident_history": accident_history,
-            "owners": owners,
-            "price": price,
+def _clean_source_data(data: pd.DataFrame) -> pd.DataFrame:
+    # The source CSV uses names like "Fuel Type".
+    # Rename them to clean snake_case names used by our code.
+    renamed = data.rename(
+        columns={
+            "Brand": "brand",
+            "Model": "model",
+            "Year": "year",
+            "model_year": "year",
+            "Mileage": "mileage",
+            "milage": "mileage",
+            "Fuel Type": "fuel_type",
+            "Transmission": "transmission",
+            "Condition": "condition",
+            "Price": "price",
         }
     )
 
+    # The OpenDataBay/Kaggle-style dataset may not have a condition column.
+    # Keep the app simple by filling it with Unknown when it is missing.
+    if "condition" not in renamed.columns:
+        renamed["condition"] = "Unknown"
 
-def ensure_dataset(path: str | Path = "data/car_prices.csv") -> Path:
-    # This function makes sure the dataset exists before training starts.
+    # Keep only the beginner-friendly columns.
+    cleaned = renamed[REQUIRED_COLUMNS].copy()
+
+    # Convert numeric values to real numbers and remove broken rows.
+    cleaned["year"] = pd.to_numeric(cleaned["year"], errors="coerce")
+    cleaned["mileage"] = pd.to_numeric(
+        cleaned["mileage"].astype(str).str.replace(r"[^0-9.]", "", regex=True),
+        errors="coerce",
+    )
+    cleaned["price"] = pd.to_numeric(
+        cleaned["price"].astype(str).str.replace(r"[^0-9.]", "", regex=True),
+        errors="coerce",
+    )
+    cleaned = cleaned.dropna(subset=REQUIRED_COLUMNS)
+
+    # Normalize text so dropdown values are consistent.
+    text_columns = ["brand", "model", "fuel_type", "transmission", "condition"]
+    for column in text_columns:
+        cleaned[column] = cleaned[column].astype(str).str.strip()
+
+    # Cast numeric columns after removing missing values.
+    cleaned["year"] = cleaned["year"].astype(int)
+    cleaned["mileage"] = cleaned["mileage"].astype(int)
+    cleaned["price"] = cleaned["price"].astype(float)
+
+    return cleaned
+
+
+def load_source_dataset() -> tuple[pd.DataFrame, str]:
+    # First try to read the online CSV.
+    # If the internet is unavailable, fall back to the small local sample.
+    try:
+        source_data = pd.read_csv(SOURCE_DATA_URL)
+        return _clean_source_data(source_data), SOURCE_DATA_URL
+    except Exception:
+        return _fallback_dataset(), "local fallback sample"
+
+
+def ensure_dataset(path: str | Path = "data/car_prices.csv") -> tuple[Path, str]:
+    # This function makes sure the training CSV exists and has the right columns.
     dataset_path = Path(path)
     dataset_path.parent.mkdir(parents=True, exist_ok=True)
 
-    if not dataset_path.exists():
-        # If there is no CSV yet, generate one and save it.
-        data = generate_car_price_data()
-        data.to_csv(dataset_path, index=False)
+    if dataset_path.exists():
+        existing = pd.read_csv(dataset_path)
+        if set(REQUIRED_COLUMNS).issubset(existing.columns):
+            return dataset_path, "existing local CSV"
+        try:
+            cleaned_existing = _clean_source_data(existing)
+            cleaned_existing.to_csv(dataset_path, index=False)
+            return dataset_path, "downloaded public CSV"
+        except Exception:
+            pass
 
-    # Return the path so the training code can read the file.
-    return dataset_path
+    # Download and clean the public source if possible.
+    data, source_name = load_source_dataset()
+    data.to_csv(dataset_path, index=False)
+
+    return dataset_path, source_name
+
+
+def dataset_options(path: str | Path = "data/car_prices.csv") -> dict[str, object]:
+    # The UI uses this to build dropdowns.
+    dataset_path, _source_name = ensure_dataset(path)
+    data = pd.read_csv(dataset_path)
+
+    brand_model_map = {}
+    for brand, group in data.groupby("brand"):
+        brand_model_map[brand] = sorted(group["model"].unique().tolist())
+
+    return {
+        "brands": sorted(data["brand"].unique().tolist()),
+        "brand_model_map": brand_model_map,
+        "fuel_types": sorted(data["fuel_type"].unique().tolist()),
+        "transmissions": sorted(data["transmission"].unique().tolist()),
+        "conditions": sorted(data["condition"].unique().tolist()),
+        "min_year": int(data["year"].min()),
+        "max_year": int(data["year"].max()),
+    }

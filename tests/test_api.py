@@ -20,15 +20,12 @@ def test_prediction_endpoint_returns_price():
     # This is the same kind of input the frontend sends to the API.
     payload = {
         "brand": "Toyota",
+        "model": "Corolla",
         "year": 2020,
         "mileage": 42000,
-        "engine_size": 2.4,
-        "horsepower": 210,
-        "fuel_type": "Hybrid",
+        "fuel_type": "Gasoline",
         "transmission": "Automatic",
-        "body_type": "SUV",
-        "accident_history": 0,
-        "owners": 1,
+        "condition": "Used",
     }
 
     # Send the payload to the prediction endpoint.

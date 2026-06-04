@@ -3,7 +3,7 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>AutoValue ML</title>
+    <title>Drive Worth</title>
     <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}" />
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
   </head>
@@ -13,10 +13,10 @@
         <header class="topbar">
           <div>
             <p class="eyebrow">Regression ML Pipeline</p>
-            <h1>AutoValue ML</h1>
+            <h1>Drive Worth</h1>
           </div>
           <div class="model-pill">
-            <span>Best model</span>
+            <span>Model</span>
             <strong>{{ best_model }}</strong>
           </div>
         </header>
@@ -39,23 +39,18 @@
               </label>
 
               <label>
+                Model
+                <select name="model" required></select>
+              </label>
+
+              <label>
                 Year
-                <input name="year" type="number" min="2005" max="2025" value="2020" required />
+                <input name="year" type="number" min="{{ min_year }}" max="{{ max_year }}" value="{{ max_year - 4 }}" required />
               </label>
 
               <label>
                 Mileage
                 <input name="mileage" type="number" min="0" max="250000" value="42000" required />
-              </label>
-
-              <label>
-                Engine Size
-                <input name="engine_size" type="number" min="1" max="7" step="0.1" value="2.4" required />
-              </label>
-
-              <label>
-                Horsepower
-                <input name="horsepower" type="number" min="70" max="600" value="210" required />
               </label>
 
               <label>
@@ -77,25 +72,12 @@
               </label>
 
               <label>
-                Body Type
-                <select name="body_type" required>
-                  {% for body_type in body_types %}
-                  <option value="{{ body_type }}">{{ body_type }}</option>
+                Condition
+                <select name="condition" required>
+                  {% for condition in conditions %}
+                  <option value="{{ condition }}">{{ condition }}</option>
                   {% endfor %}
                 </select>
-              </label>
-
-              <label>
-                Accident History
-                <select name="accident_history" required>
-                  <option value="0">No accident</option>
-                  <option value="1">Has accident</option>
-                </select>
-              </label>
-
-              <label>
-                Previous Owners
-                <input name="owners" type="number" min="1" max="4" value="1" required />
               </label>
             </div>
 
@@ -117,7 +99,7 @@
           <section class="panel">
             <div class="panel-heading">
               <h2>Model Comparison</h2>
-              <p>Lower MAE and RMSE are better. Higher R2 is better.</p>
+              <p>Only Linear Regression is used in this beginner version.</p>
             </div>
             <canvas id="metrics-chart"></canvas>
           </section>
@@ -133,6 +115,11 @@
       </section>
     </main>
 
+    <script>
+      window.brandModelMap = {{ brand_model_map | tojson }};
+      window.dataSource = {{ data_source | tojson }};
+      window.rowCount = {{ row_count | tojson }};
+    </script>
     <script src="{{ url_for('static', filename='js/app.js') }}"></script>
   </body>
 </html>

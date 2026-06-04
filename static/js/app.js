@@ -1,4 +1,6 @@
 const form = document.querySelector("#prediction-form");
+const brandSelect = document.querySelector('select[name="brand"]');
+const modelSelect = document.querySelector('select[name="model"]');
 const priceDisplay = document.querySelector("#price-display");
 const resultCopy = document.querySelector("#result-copy");
 const impactList = document.querySelector("#impact-list");
@@ -14,6 +16,17 @@ function formPayload() {
   // Collect all form fields and turn them into a simple object.
   const data = new FormData(form);
   return Object.fromEntries(data.entries());
+}
+
+function updateModelDropdown() {
+  // Find the models for the selected brand.
+  const selectedBrand = brandSelect.value;
+  const models = window.brandModelMap[selectedBrand] || [];
+
+  // Rebuild the model dropdown every time the brand changes.
+  modelSelect.innerHTML = models
+    .map((model) => `<option value="${model}">${model}</option>`)
+    .join("");
 }
 
 function readableFeatureName(feature) {
@@ -138,6 +151,12 @@ async function loadDashboard() {
 
 // Listen for form submissions.
 form.addEventListener("submit", predict);
+
+// Rebuild the model dropdown when the brand changes.
+brandSelect.addEventListener("change", updateModelDropdown);
+
+// Fill the model dropdown on first page load.
+updateModelDropdown();
 
 // Load charts when the page opens.
 loadDashboard();

@@ -7,8 +7,10 @@ if __name__ == "__main__":
 
     # Print the winner in the terminal.
     print(f"Best model: {bundle['best_model_name']}")
+    print(f"Data source: {bundle['data_source']}")
+    print(f"Rows used: {bundle['row_count']}")
 
-    # Print the score for every model so we can compare them.
+    # Print the score for the Linear Regression model.
     for result in bundle["metrics"]:
         print(
             f"{result['name']}: "

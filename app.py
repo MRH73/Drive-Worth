@@ -1,7 +1,7 @@
 from flask import Flask, jsonify, render_template, request
 import pandas as pd
 
-from src.data import BODY_TYPES, BRANDS, FUEL_TYPES, TRANSMISSIONS
+from src.data import dataset_options
 from src.training import load_or_train_model
 
 
@@ -11,6 +11,7 @@ app = Flask(__name__)
 # Load the trained model when the server starts.
 # If the model file does not exist yet, the app will train one automatically.
 model_bundle = load_or_train_model()
+ui_options = dataset_options()
 
 
 def _prediction_input(payload: dict) -> pd.DataFrame:
@@ -20,16 +21,13 @@ def _prediction_input(payload: dict) -> pd.DataFrame:
         # Numeric fields are converted to int or float.
         "year": int(payload["year"]),
         "mileage": int(payload["mileage"]),
-        "engine_size": float(payload["engine_size"]),
-        "horsepower": int(payload["horsepower"]),
-        "accident_history": int(payload["accident_history"]),
-        "owners": int(payload["owners"]),
         # Text fields stay as strings.
         # The scikit-learn pipeline will encode these categories later.
         "brand": payload["brand"],
+        "model": payload["model"],
         "fuel_type": payload["fuel_type"],
         "transmission": payload["transmission"],
-        "body_type": payload["body_type"],
+        "condition": payload["condition"],
     }
     return pd.DataFrame([row])
 
@@ -40,11 +38,16 @@ def index():
     # These lists fill the dropdown menus in the form.
     return render_template(
         "index.html",
-        brands=BRANDS,
-        fuel_types=FUEL_TYPES,
-        transmissions=TRANSMISSIONS,
-        body_types=BODY_TYPES,
+        brands=ui_options["brands"],
+        brand_model_map=ui_options["brand_model_map"],
+        fuel_types=ui_options["fuel_types"],
+        transmissions=ui_options["transmissions"],
+        conditions=ui_options["conditions"],
+        min_year=ui_options["min_year"],
+        max_year=ui_options["max_year"],
         best_model=model_bundle["best_model_name"],
+        data_source=model_bundle.get("data_source", "unknown"),
+        row_count=model_bundle.get("row_count", 0),
     )
 
 
@@ -84,6 +87,8 @@ def metrics():
             "best_model": model_bundle["best_model_name"],
             "metrics": model_bundle["metrics"],
             "feature_impact": model_bundle["feature_impact"],
+            "data_source": model_bundle.get("data_source", "unknown"),
+            "row_count": model_bundle.get("row_count", 0),
         }
     )
 
