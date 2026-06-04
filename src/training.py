@@ -1,150 +1,145 @@
 from __future__ import annotations
 
+import json
 from pathlib import Path
 
-import joblib
 import numpy as np
 import pandas as pd
-from sklearn.compose import ColumnTransformer
-from sklearn.inspection import permutation_importance
-from sklearn.linear_model import LinearRegression
-from sklearn.metrics import mean_absolute_error, r2_score, root_mean_squared_error
-from sklearn.model_selection import train_test_split
-from sklearn.pipeline import Pipeline
-from sklearn.preprocessing import OneHotEncoder, StandardScaler
 
 from src.data import ensure_dataset
 
 
-# Numeric columns are already numbers.
-# We removed engine_size and horsepower because the user asked to skip them.
-NUMERIC_FEATURES = ["year", "mileage"]
-
-# Categorical columns are text values.
-# OneHotEncoder will convert them into model-friendly 0/1 columns.
-CATEGORICAL_FEATURES = ["brand", "model", "fuel_type", "transmission", "condition"]
-
-# This is the number we want to predict.
+# This beginner version uses only numeric inputs.
+# That lets us train Linear Regression directly with NumPy.
+FEATURES = ["year", "mileage"]
 TARGET = "price"
 
 
-def _preprocessor() -> ColumnTransformer:
-    # A ColumnTransformer lets us process numeric and categorical columns differently.
-    return ColumnTransformer(
-        transformers=[
-            # Scaling helps Linear Regression compare numeric features fairly.
-            ("numeric", StandardScaler(), NUMERIC_FEATURES),
-            # One-hot encoding turns category values into binary columns.
-            ("categorical", OneHotEncoder(handle_unknown="ignore"), CATEGORICAL_FEATURES),
-        ]
-    )
+def _prepare_arrays(data: pd.DataFrame) -> tuple[np.ndarray, np.ndarray]:
+    # X is the input matrix: each row is one car example.
+    # y is the output vector: each value is the real car price.
+    x_values = data[FEATURES].to_numpy(dtype=float)
+    y_values = data[TARGET].to_numpy(dtype=float)
+    return x_values, y_values
 
 
-def _model() -> Pipeline:
-    # The whole ML pipeline has two parts:
-    # 1. preprocess the data
-    # 2. train a Linear Regression model
-    return Pipeline(
-        steps=[
-            ("preprocessor", _preprocessor()),
-            ("model", LinearRegression()),
-        ]
-    )
+def _scale_features(x_values: np.ndarray) -> tuple[np.ndarray, np.ndarray, np.ndarray]:
+    # Scaling keeps year and mileage on a similar range.
+    # This makes gradient descent easier to train.
+    mean = x_values.mean(axis=0)
+    std = x_values.std(axis=0)
+    std[std == 0] = 1
+    x_scaled = (x_values - mean) / std
+    return x_scaled, mean, std
 
 
-def _metrics(y_true: pd.Series, predictions: np.ndarray) -> dict[str, float]:
-    # MAE: average dollar error.
-    # RMSE: dollar error that punishes very large mistakes more.
-    # R2: how much variation in price the model explains.
+def compute_cost(x_values: np.ndarray, y_values: np.ndarray, weights: np.ndarray, bias: float) -> float:
+    # Cost function for Linear Regression:
+    # J(w, b) = (1 / 2m) * sum((prediction - real_price)^2)
+    example_count = len(y_values)
+    predictions = x_values @ weights + bias
+    errors = predictions - y_values
+    return float((errors @ errors) / (2 * example_count))
+
+
+def train_linear_regression(
+    x_values: np.ndarray,
+    y_values: np.ndarray,
+    learning_rate: float = 0.03,
+    iterations: int = 1200,
+) -> tuple[np.ndarray, float, list[float]]:
+    # Start with weights and bias equal to zero.
+    weights = np.zeros(x_values.shape[1])
+    bias = 0.0
+    cost_history = []
+    example_count = len(y_values)
+
+    for iteration in range(iterations):
+        # Make predictions for every training example.
+        predictions = x_values @ weights + bias
+        errors = predictions - y_values
+
+        # Gradients say how to move weights and bias to reduce cost.
+        weight_gradient = (x_values.T @ errors) / example_count
+        bias_gradient = errors.mean()
+
+        # Update the parameters.
+        weights = weights - learning_rate * weight_gradient
+        bias = bias - learning_rate * bias_gradient
+
+        # Save some cost values so the UI can show training progress.
+        if iteration % 25 == 0 or iteration == iterations - 1:
+            cost_history.append(round(compute_cost(x_values, y_values, weights, bias), 2))
+
+    return weights, bias, cost_history
+
+
+def _metrics(y_true: np.ndarray, predictions: np.ndarray) -> dict[str, float]:
+    errors = predictions - y_true
+    mae = np.mean(np.abs(errors))
+    rmse = np.sqrt(np.mean(errors**2))
+    total_variation = np.sum((y_true - y_true.mean()) ** 2)
+    unexplained_variation = np.sum(errors**2)
+    r2 = 1 - unexplained_variation / total_variation if total_variation else 0.0
+
     return {
-        "mae": round(mean_absolute_error(y_true, predictions), 2),
-        "rmse": round(root_mean_squared_error(y_true, predictions), 2),
-        "r2": round(r2_score(y_true, predictions), 4),
+        "mae": round(float(mae), 2),
+        "rmse": round(float(rmse), 2),
+        "r2": round(float(r2), 4),
     }
-
-
-def _feature_impact(model: Pipeline, x_test: pd.DataFrame, y_test: pd.Series) -> list[dict[str, float | str]]:
-    # Permutation importance explains which inputs matter most.
-    # It shuffles one feature at a time and measures how much accuracy drops.
-    importance = permutation_importance(
-        model,
-        x_test,
-        y_test,
-        n_repeats=8,
-        random_state=42,
-        scoring="neg_mean_absolute_error",
-        n_jobs=1,
-    )
-
-    rows = []
-    for feature, value in zip(x_test.columns, importance.importances_mean):
-        rows.append({"feature": feature, "impact": round(float(value), 2)})
-
-    return sorted(rows, key=lambda item: item["impact"], reverse=True)
 
 
 def train_and_save(
     dataset_path: str | Path = "data/car_prices.csv",
-    model_path: str | Path = "models/best_model.joblib",
+    model_path: str | Path = "models/linear_model.json",
 ) -> dict[str, object]:
-    # Get the dataset path. This may download the public CSV if needed.
     dataset, source_name = ensure_dataset(dataset_path)
     data = pd.read_csv(dataset)
 
-    # X contains the information we know about the car.
-    # y contains the price we want the model to learn.
-    x = data[NUMERIC_FEATURES + CATEGORICAL_FEATURES]
-    y = data[TARGET]
+    x_values, y_values = _prepare_arrays(data)
+    x_scaled, feature_mean, feature_std = _scale_features(x_values)
+    weights, bias, cost_history = train_linear_regression(x_scaled, y_values)
+    predictions = x_scaled @ weights + bias
+    metrics = _metrics(y_values, predictions)
 
-    # Keep 20% of the rows for testing.
-    x_train, x_test, y_train, y_test = train_test_split(
-        x,
-        y,
-        test_size=0.2,
-        random_state=42,
-    )
-
-    # Train only Linear Regression.
-    model = _model()
-    model.fit(x_train, y_train)
-
-    # Evaluate the model on rows it did not train on.
-    predictions = model.predict(x_test)
-    metrics = _metrics(y_test, predictions)
-    impact = _feature_impact(model, x_test, y_test)
-
-    # Store everything Flask needs for predictions and dashboard display.
-    bundle = {
-        "model": model,
-        "best_model_name": "Linear Regression",
-        "metrics": [{"name": "Linear Regression", **metrics}],
-        "feature_impact": impact,
-        "numeric_features": NUMERIC_FEATURES,
-        "categorical_features": CATEGORICAL_FEATURES,
-        "input_features": NUMERIC_FEATURES + CATEGORICAL_FEATURES,
+    model = {
+        "model_name": "NumPy Linear Regression",
+        "features": FEATURES,
+        "weights": weights.round(6).tolist(),
+        "bias": round(float(bias), 6),
+        "feature_mean": feature_mean.round(6).tolist(),
+        "feature_std": feature_std.round(6).tolist(),
+        "final_cost": cost_history[-1],
+        "cost_history": cost_history,
+        "metrics": metrics,
         "data_source": source_name,
         "row_count": int(len(data)),
+        "cost_function": "J(w, b) = (1 / 2m) * sum((prediction - actual_price)^2)",
     }
 
-    # Save the trained model bundle so the app can load it quickly.
     model_file = Path(model_path)
     model_file.parent.mkdir(parents=True, exist_ok=True)
-    joblib.dump(bundle, model_file)
+    model_file.write_text(json.dumps(model, indent=2), encoding="utf-8")
 
-    return bundle
+    return model
 
 
-def load_or_train_model(model_path: str | Path = "models/best_model.joblib") -> dict[str, object]:
-    # If the saved model exists, use it.
+def load_or_train_model(model_path: str | Path = "models/linear_model.json") -> dict[str, object]:
     model_file = Path(model_path)
     if not model_file.exists():
         return train_and_save(model_path=model_file)
 
-    bundle = joblib.load(model_file)
-    expected_features = NUMERIC_FEATURES + CATEGORICAL_FEATURES
+    return json.loads(model_file.read_text(encoding="utf-8"))
 
-    # If an older model was saved with different inputs, retrain it.
-    if bundle.get("input_features") != expected_features:
-        return train_and_save(model_path=model_file)
 
-    return bundle
+def predict_price(model: dict[str, object], year: float, mileage: float) -> float:
+    # Apply the same scaling used during training, then use w*x + b.
+    x_values = np.array([year, mileage], dtype=float)
+    mean = np.array(model["feature_mean"], dtype=float)
+    std = np.array(model["feature_std"], dtype=float)
+    weights = np.array(model["weights"], dtype=float)
+    bias = float(model["bias"])
+
+    x_scaled = (x_values - mean) / std
+    prediction = x_scaled @ weights + bias
+    return round(float(max(prediction, 0)), 2)

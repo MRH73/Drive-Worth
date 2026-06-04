@@ -1,128 +1,74 @@
 # Drive Worth
 
-Drive Worth is a beginner-friendly machine learning web app that predicts a used car price with Linear Regression.
+Drive Worth is a simple machine learning web app that predicts a used car price using Linear Regression trained from scratch with NumPy.
 
-The project has a complete flow:
+The goal of this project is to show the full basic ML flow without extra complexity:
 
 ```text
-CSV data
--> pandas cleaning
--> scikit-learn preprocessing
--> Linear Regression training
--> saved model
--> Flask API
--> HTML/CSS/JavaScript UI
+real CSV data -> NumPy training -> saved model parameters -> Flask API -> web UI
 ```
 
-## What The App Does
+## What It Does
 
-- Loads used-car data from a public CSV when possible.
-- Cleans the data into simple columns.
-- Trains one Linear Regression model.
-- Uses brand, model, year, mileage, fuel type, transmission, and condition.
-- Skips engine size and horsepower to keep the project simpler.
-- Saves the trained model with Joblib.
-- Serves predictions through a Flask API.
-- Shows a web form with brand and model dropdowns.
-- Shows which features had the biggest impact on the prediction.
-- Includes simple API tests.
+- Loads real used-car data from a public CSV.
+- Keeps only three columns: `year`, `mileage`, and `price`.
+- Trains Linear Regression with NumPy and gradient descent.
+- Shows the cost function on the web page.
+- Shows the final training cost and simple error metrics.
+- Lets a user enter year and mileage through a web form.
+- Sends the form data to a Flask API.
+- Returns and displays a predicted car price.
 
 ## Data Source
 
-The first version of this project used generated fake data from `src/data.py`.
-
-The current version tries to use this public CSV first:
+The app uses this public CSV when available:
 
 ```text
 https://gist.githubusercontent.com/harshitmanda35/888474a03966b678294d2dfb29bff888/raw/car_price_prediction.csv
 ```
 
-This CSV includes:
+The original CSV has more fields, but this beginner version only uses:
 
-- Brand
-- Model
-- Year
-- Mileage
-- Fuel Type
-- Transmission
-- Condition
-- Price
+- `Year`
+- `Mileage`
+- `Price`
 
-There is also a stronger recommended dataset for a future upgrade:
+The cleaned copy is saved here:
 
 ```text
-https://www.opendatabay.com/data/consumer/7d8bf56f-b0e3-42e9-a9d3-a0ed4f3896e9
+data/car_prices.csv
 ```
 
-That dataset is described as coming from cars.com, with 4,009 vehicle listings, 57 brands, 1,898 models, model years from 1974 to 2024, and a CC BY 4.0 license. It is better for a serious portfolio version, but the direct CSV download is not as simple as the GitHub Gist source.
+If the CSV cannot be downloaded, the app uses a tiny local fallback sample so the project still runs.
 
-## Important Data Note
+## How The Model Works
 
-The current public GitHub CSV is easy to download, but its Linear Regression score is weak:
+This project uses a simple linear equation:
 
 ```text
-MAE:  $23,868.80
-RMSE: $27,791.13
-R2:   -0.0195
+predicted_price = w1 * year + w2 * mileage + b
 ```
 
-That means the model is not very accurate with this dataset and the simplified features.
+Because year and mileage have very different sizes, the code scales them before training.
 
-This is still useful for learning because it shows an honest machine learning lesson: simple models are easier to understand, but they need good data and useful features. Removing engine size and horsepower also removes information that may help the model.
-
-## Features Used By The Model
-
-The model uses:
-
-- `brand`
-- `model`
-- `year`
-- `mileage`
-- `fuel_type`
-- `transmission`
-- `condition`
-
-The model does not use:
-
-- `engine_size`
-- `horsepower`
-- `body_type`
-- `accident_history`
-- `owners`
-
-## Why Linear Regression
-
-Linear Regression predicts a number by learning weighted relationships between inputs and the target.
-
-In this project, the target is:
+The cost function is:
 
 ```text
-price
+J(w, b) = (1 / 2m) * sum((prediction - actual_price)^2)
 ```
 
-Example idea:
+The model starts with weights equal to zero. During training, gradient descent updates the weights many times to reduce the cost.
 
-```text
-newer year -> higher predicted price
-higher mileage -> lower predicted price
-premium brand/model -> different predicted price
-```
+## Tech Stack
 
-Text values like brand and model cannot go directly into Linear Regression. The app uses OneHotEncoder to convert categories into numeric 0/1 columns first.
+- **Python**: main language for backend and ML code.
+- **NumPy**: trains Linear Regression from scratch.
+- **pandas**: loads and cleans the CSV data.
+- **Flask**: serves the web page and prediction API.
+- **HTML/CSS/JavaScript**: builds the browser interface.
+- **Chart.js**: draws the training cost chart.
 
-## Technology Stack
-
-- **Python**: main language for backend and machine learning.
-- **pandas**: loads, cleans, and saves the CSV data.
-- **scikit-learn**: builds the preprocessing pipeline and trains Linear Regression.
-- **Flask**: creates the web server and prediction API.
-- **HTML**: creates the form and page structure.
-- **CSS**: styles the page.
-- **JavaScript**: updates the model dropdown and sends prediction requests.
-- **Chart.js**: displays metric and feature-impact charts.
-- **Joblib**: saves and loads the trained model.
-- **Pytest**: tests the Flask API.
-- **Docker**: packages the app for deployment.
+No Docker. No tests. No scikit-learn. This version is intentionally small.
 
 ## Project Structure
 
@@ -130,28 +76,22 @@ Text values like brand and model cannot go directly into Linear Regression. The 
 .
 ├── app.py
 ├── train.py
-├── Dockerfile
 ├── requirements.txt
 ├── data/
 │   └── car_prices.csv
 ├── models/
-│   └── best_model.joblib
+│   └── linear_model.json
 ├── src/
 │   ├── data.py
 │   └── training.py
 ├── static/
 │   ├── css/style.css
 │   └── js/app.js
-├── templates/
-│   └── index.html
-└── tests/
-    ├── conftest.py
-    └── test_api.py
+└── templates/
+    └── index.html
 ```
 
 ## Run From Zero
-
-Use Python 3.11 or 3.12.
 
 Go to the project folder:
 
@@ -189,7 +129,7 @@ Run the Flask app:
 flask --app app run --debug
 ```
 
-Open this URL:
+Open:
 
 ```text
 http://127.0.0.1:5000
@@ -201,50 +141,32 @@ http://127.0.0.1:5000
 curl -X POST http://127.0.0.1:5000/api/predict \
   -H "Content-Type: application/json" \
   -d '{
-    "brand": "Toyota",
-    "model": "Corolla",
     "year": 2020,
-    "mileage": 42000,
-    "fuel_type": "Gasoline",
-    "transmission": "Automatic",
-    "condition": "Used"
+    "mileage": 42000
   }'
 ```
 
-## Run Tests
+Example response:
 
-```bash
-pytest
-```
-
-## Docker
-
-Build the image:
-
-```bash
-docker build -t drive-worth .
-```
-
-Run the container:
-
-```bash
-docker run -p 5000:5000 drive-worth
+```json
+{
+  "cost_function": "J(w, b) = (1 / 2m) * sum((prediction - actual_price)^2)",
+  "final_cost": 371851013.5,
+  "metrics": {
+    "mae": 23666.37,
+    "rmse": 27270.9,
+    "r2": 0.0014
+  },
+  "model_name": "NumPy Linear Regression",
+  "predicted_price": 51719.31
+}
 ```
 
 ## Portfolio Talking Points
 
-- Built a full-stack machine learning app with Flask and scikit-learn.
-- Trained and deployed a Linear Regression model.
-- Added data cleaning for a public CSV dataset.
-- Added dependent brand and model dropdowns.
-- Removed complex vehicle specs to keep the model beginner-friendly.
-- Added feature-impact explanation with permutation importance.
-- Added API tests and Docker support.
-
-## Future Improvements
-
-- Replace the public Gist CSV with the cars.com-based OpenDataBay/Kaggle dataset.
-- Add more real-world fields such as accident history and clean title.
-- Compare Linear Regression with Ridge, Random Forest, and Gradient Boosting again.
-- Add better model validation and data quality checks.
-- Deploy the app on Render, Railway, or Fly.io.
+- Built Linear Regression from scratch using NumPy.
+- Used gradient descent to minimize a cost function.
+- Connected a trained ML model to a Flask API.
+- Built a simple web UI for live predictions.
+- Used real CSV data and documented the data source.
+- Kept the project beginner-friendly and easy to explain.

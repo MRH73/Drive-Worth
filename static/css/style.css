@@ -211,6 +211,33 @@ button:hover {
   color: var(--surface-strong);
 }
 
+.data-facts {
+  display: grid;
+  gap: 12px;
+  margin: 0;
+}
+
+.data-facts div {
+  padding: 12px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: #fbfcff;
+}
+
+.data-facts dt {
+  color: var(--muted);
+  font-size: 0.78rem;
+  font-weight: 800;
+  text-transform: uppercase;
+}
+
+.data-facts dd {
+  margin: 4px 0 0;
+  color: var(--surface-strong);
+  overflow-wrap: anywhere;
+  font-weight: 800;
+}
+
 canvas {
   width: 100%;
   max-height: 320px;

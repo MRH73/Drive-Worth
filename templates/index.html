@@ -12,72 +12,31 @@
       <section class="workspace">
         <header class="topbar">
           <div>
-            <p class="eyebrow">Regression ML Pipeline</p>
+            <p class="eyebrow">NumPy Linear Regression</p>
             <h1>Drive Worth</h1>
           </div>
           <div class="model-pill">
             <span>Model</span>
-            <strong>{{ best_model }}</strong>
+            <strong>{{ model_name }}</strong>
           </div>
         </header>
 
         <section class="grid">
           <form id="prediction-form" class="panel form-panel">
             <div class="panel-heading">
-              <h2>Vehicle Details</h2>
-              <p>Enter a car profile and estimate its resale price.</p>
+              <h2>Predict Used Car Price</h2>
+              <p>Enter two numeric values. The model was trained from real CSV examples using NumPy.</p>
             </div>
 
             <div class="field-grid">
               <label>
-                Brand
-                <select name="brand" required>
-                  {% for brand in brands %}
-                  <option value="{{ brand }}">{{ brand }}</option>
-                  {% endfor %}
-                </select>
-              </label>
-
-              <label>
-                Model
-                <select name="model" required></select>
-              </label>
-
-              <label>
                 Year
-                <input name="year" type="number" min="{{ min_year }}" max="{{ max_year }}" value="{{ max_year - 4 }}" required />
+                <input name="year" type="number" min="1970" max="2026" placeholder="0" required />
               </label>
 
               <label>
                 Mileage
-                <input name="mileage" type="number" min="0" max="250000" value="42000" required />
-              </label>
-
-              <label>
-                Fuel Type
-                <select name="fuel_type" required>
-                  {% for fuel_type in fuel_types %}
-                  <option value="{{ fuel_type }}">{{ fuel_type }}</option>
-                  {% endfor %}
-                </select>
-              </label>
-
-              <label>
-                Transmission
-                <select name="transmission" required>
-                  {% for transmission in transmissions %}
-                  <option value="{{ transmission }}">{{ transmission }}</option>
-                  {% endfor %}
-                </select>
-              </label>
-
-              <label>
-                Condition
-                <select name="condition" required>
-                  {% for condition in conditions %}
-                  <option value="{{ condition }}">{{ condition }}</option>
-                  {% endfor %}
-                </select>
+                <input name="mileage" type="number" min="0" max="300000" placeholder="0" required />
               </label>
             </div>
 
@@ -87,39 +46,66 @@
           <section class="panel result-panel">
             <div class="panel-heading">
               <h2>Prediction</h2>
-              <p>Model output from the deployed Flask API.</p>
+              <p>Flask sends your inputs to the NumPy model and returns a price.</p>
             </div>
             <div class="price-display" id="price-display">$0</div>
-            <p class="result-copy" id="result-copy">Submit a vehicle to generate a prediction.</p>
-            <div class="impact-list" id="impact-list"></div>
+            <p class="result-copy" id="result-copy">Complete the form to generate a prediction.</p>
           </section>
         </section>
 
         <section class="dashboard-grid">
           <section class="panel">
             <div class="panel-heading">
-              <h2>Model Comparison</h2>
-              <p>Only Linear Regression is used in this beginner version.</p>
+              <h2>Cost Function</h2>
+              <p>{{ cost_function }}</p>
             </div>
-            <canvas id="metrics-chart"></canvas>
+            <dl class="data-facts">
+              <div>
+                <dt>Final cost</dt>
+                <dd id="final-cost">${{ "{:,.2f}".format(final_cost) }}</dd>
+              </div>
+              <div>
+                <dt>MAE</dt>
+                <dd>${{ "{:,.2f}".format(metrics.mae) }}</dd>
+              </div>
+              <div>
+                <dt>RMSE</dt>
+                <dd>${{ "{:,.2f}".format(metrics.rmse) }}</dd>
+              </div>
+            </dl>
           </section>
 
           <section class="panel">
             <div class="panel-heading">
-              <h2>Biggest Impact</h2>
-              <p>Permutation importance shows which inputs change predictions most.</p>
+              <h2>Training Cost</h2>
+              <p>The line shows the cost getting smaller while gradient descent trains.</p>
             </div>
-            <canvas id="impact-chart"></canvas>
+            <canvas id="cost-chart"></canvas>
+          </section>
+
+          <section class="panel data-panel">
+            <div class="panel-heading">
+              <h2>Training Data</h2>
+              <p>
+                The app trains from a real used-car CSV and keeps the project simple by using only
+                <strong>year</strong>, <strong>mileage</strong>, and <strong>price</strong>.
+              </p>
+            </div>
+            <dl class="data-facts">
+              <div>
+                <dt>Rows used</dt>
+                <dd>{{ row_count }}</dd>
+              </div>
+              <div>
+                <dt>Current source</dt>
+                <dd>{{ data_source }}</dd>
+              </div>
+            </dl>
           </section>
         </section>
       </section>
     </main>
 
-    <script>
-      window.brandModelMap = {{ brand_model_map | tojson }};
-      window.dataSource = {{ data_source | tojson }};
-      window.rowCount = {{ row_count | tojson }};
-    </script>
     <script src="{{ url_for('static', filename='js/app.js') }}"></script>
   </body>
 </html>

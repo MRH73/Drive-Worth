@@ -6,15 +6,13 @@ if __name__ == "__main__":
     bundle = train_and_save()
 
     # Print the winner in the terminal.
-    print(f"Best model: {bundle['best_model_name']}")
+    print(f"Model: {bundle['model_name']}")
     print(f"Data source: {bundle['data_source']}")
     print(f"Rows used: {bundle['row_count']}")
-
-    # Print the score for the Linear Regression model.
-    for result in bundle["metrics"]:
-        print(
-            f"{result['name']}: "
-            f"MAE=${result['mae']:,.2f}, "
-            f"RMSE=${result['rmse']:,.2f}, "
-            f"R2={result['r2']:.4f}"
-        )
+    print(f"Final cost: ${bundle['final_cost']:,.2f}")
+    print(
+        f"Metrics: "
+        f"MAE=${bundle['metrics']['mae']:,.2f}, "
+        f"RMSE=${bundle['metrics']['rmse']:,.2f}, "
+        f"R2={bundle['metrics']['r2']:.4f}"
+    )

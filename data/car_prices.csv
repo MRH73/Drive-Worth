@@ -1,2501 +1,2501 @@
-brand,model,year,mileage,fuel_type,transmission,condition,price
-Tesla,Model X,2016,114832,Petrol,Manual,New,26613.92
-BMW,5 Series,2018,143190,Electric,Manual,Used,14679.61
-Audi,A4,2013,181601,Electric,Manual,New,44402.61
-Tesla,Model Y,2011,68682,Diesel,Automatic,New,86374.33
-Ford,Mustang,2009,223009,Diesel,Manual,Like New,73577.1
-Audi,Q7,2019,246553,Diesel,Automatic,Like New,88969.76
-Audi,Q5,2020,135486,Electric,Automatic,Used,63498.75
-Tesla,Model Y,2017,83030,Hybrid,Automatic,New,17381.19
-Honda,Civic,2023,120360,Electric,Manual,Like New,15905.62
-Ford,Explorer,2010,135009,Electric,Automatic,Like New,9560.22
-Tesla,Model 3,2001,298875,Diesel,Automatic,Like New,58872.6
-Ford,Mustang,2017,169737,Electric,Automatic,Used,28074.19
-Ford,Fiesta,2006,114360,Petrol,Automatic,New,74766.45
-Audi,Q7,2023,263894,Electric,Automatic,Like New,70193.74
-BMW,X3,2014,65018,Electric,Automatic,New,35220.52
-Ford,Mustang,2010,240904,Electric,Automatic,Used,21796.16
-Mercedes,GLA,2017,136817,Electric,Automatic,New,14728.03
-Audi,A3,2022,192803,Hybrid,Automatic,Like New,75044.95
-Honda,Civic,2011,86984,Electric,Automatic,New,47791.89
-BMW,X5,2005,290595,Petrol,Automatic,New,35735.34
-Mercedes,C-Class,2019,192608,Petrol,Automatic,Used,86382.04
-Mercedes,E-Class,2022,12150,Electric,Manual,Used,61393.26
-Honda,CR-V,2012,275550,Diesel,Manual,New,54210.22
-BMW,X5,2019,150853,Hybrid,Automatic,New,75621.02
-Audi,Q5,2015,188489,Electric,Automatic,New,82480.4
-Toyota,Camry,2017,18325,Electric,Automatic,Used,70176.95
-BMW,X3,2009,199756,Electric,Manual,Used,46800.6
-Honda,Accord,2022,204541,Diesel,Manual,New,41033.39
-Mercedes,GLC,2007,17669,Diesel,Manual,Used,78308.17
-Audi,A3,2017,207836,Diesel,Automatic,Like New,54201.18
-BMW,X5,2020,132915,Hybrid,Automatic,Used,71916.68
-Toyota,Corolla,2000,196681,Petrol,Automatic,Used,89587.88
-Toyota,Corolla,2022,50812,Hybrid,Automatic,Used,92009.61
-Ford,Fiesta,2007,278203,Diesel,Manual,Like New,31382.99
-Ford,Mustang,2005,252862,Petrol,Automatic,Like New,22849.55
-Tesla,Model 3,2004,171840,Petrol,Manual,Like New,29822.3
-Honda,Fit,2014,25395,Diesel,Manual,New,76380.32
-BMW,5 Series,2021,282346,Diesel,Automatic,New,40155.51
-BMW,X3,2014,229707,Hybrid,Manual,Like New,21471.98
-Tesla,Model X,2001,247181,Diesel,Manual,New,14346.62
-Mercedes,E-Class,2000,204120,Petrol,Manual,New,36094.75
-Mercedes,GLA,2022,224839,Electric,Manual,New,17932.96
-Tesla,Model Y,2022,219882,Diesel,Automatic,Like New,19855.49
-Mercedes,C-Class,2010,103235,Diesel,Automatic,Used,69968.98
-Ford,Explorer,2009,45510,Hybrid,Manual,Like New,6874.55
-BMW,5 Series,2017,87945,Hybrid,Automatic,Like New,16167.56
-Tesla,Model S,2017,242802,Diesel,Manual,New,85214.72
-BMW,X5,2016,250168,Petrol,Automatic,New,85266.84
-Toyota,Prius,2007,2881,Petrol,Automatic,Used,36278.13
-Ford,Explorer,2014,111860,Electric,Automatic,Used,13355.54
-Audi,Q5,2007,166415,Diesel,Automatic,Used,71972.18
-Ford,Mustang,2016,139728,Hybrid,Automatic,Used,39212.51
-Tesla,Model S,2011,267885,Petrol,Manual,Like New,9319.14
-Audi,A4,2007,147733,Electric,Automatic,Used,19993.56
-Toyota,Camry,2013,290834,Diesel,Manual,Like New,18035.41
-Tesla,Model S,2003,294977,Petrol,Manual,New,60966.05
-Honda,CR-V,2000,102566,Diesel,Automatic,Used,90321.17
-BMW,5 Series,2000,71240,Diesel,Manual,New,80341.84
-Toyota,Prius,2018,106898,Petrol,Automatic,New,56919.02
-BMW,3 Series,2015,209304,Petrol,Manual,Like New,45104.74
-Mercedes,GLC,2013,80522,Petrol,Manual,Used,63774.29
-Honda,Accord,2020,145512,Diesel,Automatic,Like New,47162.21
-Honda,CR-V,2015,119107,Diesel,Automatic,New,28379.42
-Toyota,Camry,2004,22462,Electric,Automatic,Used,69523.76
-Honda,Fit,2008,279965,Hybrid,Automatic,New,87958.17
-Audi,A4,2001,92889,Diesel,Manual,New,40422.68
-Honda,CR-V,2017,88952,Hybrid,Automatic,Used,84946.15
-BMW,X3,2005,193596,Petrol,Manual,Used,45952.79
-BMW,5 Series,2008,177505,Diesel,Manual,Used,43126.91
-Tesla,Model X,2000,221576,Electric,Manual,Like New,7690.81
-BMW,5 Series,2008,219393,Electric,Manual,Like New,71051.5
-Tesla,Model S,2015,275455,Hybrid,Manual,New,81712.74
-BMW,X5,2012,254084,Petrol,Manual,Used,68037.91
-Audi,A3,2008,129466,Hybrid,Automatic,New,19379.29
-Tesla,Model S,2020,30531,Petrol,Manual,New,14812.88
-Ford,Fiesta,2012,14588,Electric,Manual,New,59421.58
-Mercedes,GLC,2008,143452,Hybrid,Manual,New,43144.04
-Toyota,RAV4,2010,173717,Electric,Automatic,New,45764.29
-BMW,X5,2003,161929,Electric,Automatic,Used,96941.02
-Honda,Fit,2001,21711,Petrol,Manual,Like New,73772.65
-BMW,5 Series,2005,136169,Hybrid,Automatic,Used,44119.84
-Honda,CR-V,2013,159465,Hybrid,Manual,Used,6814.43
-Mercedes,GLC,2003,284220,Electric,Automatic,Used,8239.09
-Mercedes,E-Class,2005,160389,Electric,Manual,Like New,70056.35
-Mercedes,GLC,2018,58480,Petrol,Automatic,Like New,84585.18
-Honda,Fit,2005,269188,Diesel,Automatic,Like New,72231.75
-BMW,X3,2001,250309,Diesel,Automatic,Used,43559.34
-Mercedes,C-Class,2017,55486,Electric,Manual,Like New,7957.9
-Audi,A3,2012,55162,Diesel,Manual,New,96903.15
-Tesla,Model S,2008,210359,Diesel,Manual,Like New,98701.93
-Honda,CR-V,2022,29882,Diesel,Automatic,Used,57189.63
-Honda,CR-V,2018,54078,Diesel,Automatic,Used,11713.74
-BMW,3 Series,2012,238680,Electric,Manual,New,56392.39
-Honda,CR-V,2010,108730,Diesel,Automatic,Like New,89772.15
-Honda,Fit,2000,174898,Diesel,Manual,Like New,69598.62
-Mercedes,C-Class,2023,98938,Petrol,Manual,New,73398.98
-BMW,5 Series,2021,118319,Electric,Manual,Used,13072.13
-Mercedes,E-Class,2006,32543,Hybrid,Manual,Used,15118.61
-Tesla,Model 3,2020,124279,Hybrid,Automatic,Like New,17098.13
-Tesla,Model 3,2014,29362,Petrol,Automatic,Like New,90915.8
-Mercedes,GLA,2000,158818,Petrol,Automatic,Like New,54955.72
-Tesla,Model S,2011,242721,Electric,Manual,Like New,80199.63
-BMW,X5,2006,165229,Hybrid,Automatic,Like New,15952.67
-Toyota,Camry,2014,142394,Diesel,Manual,Used,93126.06
-Mercedes,GLC,2020,69812,Petrol,Manual,Used,83008.5
-Audi,A4,2018,296161,Hybrid,Manual,Used,26352.59
-Audi,Q7,2000,228208,Electric,Manual,Used,88047.31
-Honda,Accord,2016,279773,Diesel,Manual,New,30027.06
-Tesla,Model 3,2016,128614,Electric,Manual,Used,24507.29
-Audi,Q5,2002,96950,Petrol,Automatic,New,30103.17
-Honda,Accord,2011,174942,Hybrid,Automatic,Used,91445.73
-Toyota,Camry,2005,64829,Hybrid,Automatic,Like New,91981.24
-BMW,X5,2010,245602,Hybrid,Automatic,Like New,36254.6
-BMW,3 Series,2002,10588,Hybrid,Manual,Like New,72016.25
-BMW,5 Series,2007,168217,Diesel,Manual,New,69195.8
-Audi,A3,2013,272743,Diesel,Automatic,Used,81623.45
-Toyota,Camry,2013,208502,Electric,Automatic,Used,33168.4
-Audi,Q5,2009,134011,Diesel,Automatic,New,53463.16
-Tesla,Model 3,2001,252856,Petrol,Automatic,New,68429.03
-Audi,Q5,2013,284293,Petrol,Automatic,New,7494.4
-Toyota,Camry,2008,197639,Hybrid,Automatic,New,40790.18
-Toyota,Prius,2002,141280,Petrol,Automatic,New,71109.39
-Tesla,Model S,2020,197170,Electric,Automatic,Like New,28996.53
-Toyota,Corolla,2007,180564,Diesel,Manual,Used,95981.89
-Toyota,Corolla,2015,20951,Diesel,Manual,New,7865.33
-BMW,X3,2001,179992,Diesel,Manual,Like New,96018.28
-Tesla,Model X,2005,46766,Petrol,Manual,New,25592.57
-Ford,Mustang,2020,159423,Diesel,Automatic,Like New,9638.09
-Ford,Explorer,2011,87122,Hybrid,Manual,New,32785.03
-Toyota,Corolla,2004,271452,Hybrid,Automatic,Used,79696.82
-Ford,Explorer,2001,83211,Hybrid,Manual,New,76481.99
-Ford,Focus,2015,126534,Petrol,Automatic,New,24839.84
-Toyota,RAV4,2004,8720,Diesel,Automatic,Used,23695.06
-Ford,Focus,2014,79993,Petrol,Manual,Used,66045.09
-Audi,Q5,2011,219973,Diesel,Manual,New,48517.86
-Honda,Accord,2003,25905,Electric,Automatic,Used,80267.55
-Tesla,Model 3,2014,204580,Electric,Automatic,Used,7292.61
-Honda,Accord,2010,50385,Petrol,Automatic,Like New,62989.13
-Toyota,Corolla,2015,30653,Hybrid,Manual,Used,74413.84
-BMW,3 Series,2022,91865,Petrol,Manual,Used,99371.68
-Tesla,Model 3,2005,125813,Hybrid,Automatic,New,69484.26
-Toyota,Prius,2013,145871,Diesel,Manual,New,27025.29
-BMW,5 Series,2017,191175,Hybrid,Automatic,Like New,15277.69
-Honda,Fit,2011,248535,Hybrid,Manual,New,65887.09
-Toyota,Camry,2010,15052,Diesel,Manual,Used,54702.39
-Tesla,Model Y,2012,137116,Electric,Manual,Used,90418.8
-Tesla,Model 3,2020,150943,Diesel,Manual,Used,74027.76
-Mercedes,E-Class,2022,220375,Petrol,Manual,New,53425.53
-Audi,Q7,2010,21381,Petrol,Automatic,Used,43341.0
-Ford,Focus,2022,148346,Petrol,Automatic,Used,43415.6
-BMW,3 Series,2015,243234,Petrol,Manual,Like New,26498.91
-Mercedes,GLA,2014,256017,Petrol,Automatic,Like New,6645.97
-Ford,Mustang,2020,235020,Electric,Automatic,Like New,59616.51
-Ford,Mustang,2014,49892,Electric,Manual,New,25179.4
-Toyota,Camry,2003,181593,Hybrid,Automatic,Used,24791.06
-Ford,Mustang,2010,214992,Petrol,Manual,Used,16911.22
-Audi,A3,2018,280064,Diesel,Automatic,Used,23011.57
-Tesla,Model 3,2014,278846,Petrol,Automatic,Like New,8019.97
-Mercedes,C-Class,2003,256216,Electric,Automatic,Used,69051.99
-Ford,Fiesta,2020,264038,Petrol,Automatic,Used,43132.73
-Toyota,Camry,2012,293129,Electric,Automatic,Used,58344.84
-Audi,A4,2021,159359,Hybrid,Automatic,Used,65510.97
-Honda,Civic,2018,258771,Hybrid,Automatic,Used,97386.03
-Tesla,Model Y,2001,125702,Hybrid,Manual,New,11485.26
-Tesla,Model 3,2013,73527,Electric,Manual,Used,44702.18
-Mercedes,E-Class,2003,146511,Petrol,Manual,New,28360.3
-Tesla,Model Y,2015,225692,Petrol,Manual,Used,50287.63
-Ford,Explorer,2020,158731,Diesel,Automatic,New,92444.87
-Toyota,Corolla,2019,287120,Electric,Automatic,Used,73778.51
-Tesla,Model Y,2013,235311,Diesel,Automatic,Used,67885.21
-Tesla,Model S,2014,198937,Hybrid,Manual,Used,46918.36
-Honda,CR-V,2002,199378,Petrol,Manual,Used,68755.69
-Honda,CR-V,2007,56697,Electric,Manual,Like New,8075.66
-BMW,X3,2015,70382,Diesel,Automatic,Used,60692.67
-Audi,A3,2009,278795,Diesel,Manual,New,57608.77
-Ford,Fiesta,2003,180116,Diesel,Automatic,Like New,37930.84
-Tesla,Model 3,2017,14633,Petrol,Manual,Like New,24143.84
-Tesla,Model S,2001,79164,Petrol,Automatic,Used,81717.78
-Toyota,Prius,2016,262713,Petrol,Manual,New,10116.9
-BMW,X5,2012,123425,Electric,Automatic,New,11618.92
-Audi,Q7,2003,250220,Petrol,Manual,Like New,46849.57
-BMW,5 Series,2010,295182,Electric,Manual,New,28992.68
-Mercedes,GLA,2006,180160,Diesel,Automatic,Used,75817.98
-Audi,Q7,2011,204249,Diesel,Automatic,Used,65248.06
-Tesla,Model Y,2009,205538,Hybrid,Manual,Used,78390.81
-Tesla,Model X,2006,197865,Petrol,Automatic,Used,35844.5
-Audi,A4,2012,201466,Diesel,Manual,Used,75349.3
-Tesla,Model Y,2006,187223,Petrol,Automatic,Like New,86918.81
-Ford,Fiesta,2023,111174,Electric,Manual,Used,37801.08
-Audi,Q5,2016,137980,Diesel,Automatic,Used,37290.1
-BMW,X3,2009,68447,Petrol,Manual,Like New,90495.38
-Audi,Q5,2009,205599,Diesel,Manual,Like New,9730.07
-Tesla,Model X,2023,226301,Diesel,Manual,Like New,38267.99
-Ford,Fiesta,2003,279778,Petrol,Automatic,New,16273.89
-Ford,Fiesta,2019,286705,Diesel,Manual,New,7753.16
-Mercedes,GLA,2003,55063,Diesel,Automatic,Used,15722.59
-BMW,X3,2021,288065,Diesel,Automatic,Used,45968.35
-Honda,Accord,2006,19340,Diesel,Automatic,Used,70260.83
-Honda,CR-V,2021,62781,Electric,Manual,New,32481.83
-Audi,Q5,2000,277045,Diesel,Automatic,Used,85719.15
-Mercedes,GLA,2011,10638,Hybrid,Automatic,Used,46573.48
-Toyota,Prius,2023,217986,Diesel,Automatic,New,96981.66
-Audi,A3,2012,221668,Petrol,Manual,Like New,95644.79
-Mercedes,GLC,2009,294786,Hybrid,Automatic,New,78461.24
-BMW,3 Series,2014,25378,Electric,Automatic,Used,93578.52
-BMW,X3,2012,118171,Hybrid,Automatic,New,72174.13
-BMW,X3,2022,214801,Hybrid,Automatic,Like New,90080.4
-BMW,3 Series,2021,64377,Hybrid,Manual,Like New,27465.0
-BMW,X5,2021,260339,Petrol,Manual,Like New,37814.92
-Mercedes,C-Class,2020,54691,Petrol,Automatic,Like New,76528.36
-Mercedes,E-Class,2021,91782,Petrol,Automatic,Like New,45333.32
-Ford,Focus,2008,259896,Electric,Automatic,Like New,84546.11
-Honda,Fit,2008,78343,Petrol,Automatic,Used,88375.69
-Tesla,Model S,2014,121399,Petrol,Manual,Used,33474.3
-BMW,5 Series,2009,31357,Hybrid,Manual,New,83227.83
-Toyota,Corolla,2023,294458,Petrol,Manual,Used,19655.11
-Tesla,Model Y,2009,70283,Diesel,Manual,Like New,36748.69
-Mercedes,C-Class,2007,59567,Petrol,Automatic,Used,54206.67
-Toyota,Prius,2023,237778,Electric,Automatic,New,26512.16
-Toyota,Prius,2015,141758,Electric,Manual,Like New,60030.44
-Toyota,RAV4,2016,61606,Diesel,Manual,Used,59976.03
-Ford,Fiesta,2004,281035,Electric,Automatic,Used,24655.78
-Mercedes,GLA,2003,101732,Electric,Automatic,New,80585.93
-Toyota,RAV4,2017,191791,Hybrid,Automatic,Like New,65006.23
-BMW,X3,2023,292021,Diesel,Automatic,New,35187.25
-Audi,A4,2018,249465,Hybrid,Automatic,Like New,27057.55
-Toyota,Corolla,2003,224589,Hybrid,Manual,Like New,88481.26
-Ford,Fiesta,2006,14026,Petrol,Manual,Used,84395.51
-Tesla,Model Y,2009,282566,Diesel,Automatic,New,26827.26
-Mercedes,GLC,2017,295625,Petrol,Automatic,New,8382.5
-Ford,Explorer,2018,109384,Petrol,Manual,New,81430.6
-Toyota,Corolla,2003,252771,Hybrid,Automatic,Like New,63473.31
-Mercedes,C-Class,2009,58031,Electric,Manual,New,14583.79
-Audi,A3,2000,68232,Diesel,Manual,Like New,60799.03
-Toyota,Camry,2022,143084,Electric,Manual,New,47957.36
-Ford,Focus,2017,236503,Hybrid,Manual,New,78582.28
-Honda,Fit,2004,292104,Hybrid,Automatic,Used,24863.06
-BMW,X3,2014,87695,Hybrid,Automatic,New,48049.89
-Tesla,Model X,2016,130066,Hybrid,Manual,Used,19843.19
-Ford,Fiesta,2002,138982,Hybrid,Automatic,Used,95965.09
-Mercedes,GLA,2011,264837,Hybrid,Automatic,Like New,78980.12
-Toyota,Corolla,2001,115313,Electric,Automatic,New,74988.63
-BMW,3 Series,2000,28810,Petrol,Automatic,New,70569.63
-Toyota,Prius,2022,20092,Electric,Manual,New,45216.96
-Mercedes,C-Class,2020,58105,Diesel,Automatic,Used,92711.83
-Toyota,RAV4,2016,161577,Electric,Manual,New,11927.12
-Honda,Civic,2021,204300,Hybrid,Manual,Like New,81309.61
-BMW,3 Series,2015,290699,Electric,Automatic,Like New,25447.11
-BMW,X3,2004,71934,Petrol,Manual,New,35782.66
-Mercedes,GLA,2014,72788,Diesel,Automatic,Used,54345.82
-Tesla,Model S,2002,280083,Electric,Automatic,Like New,79352.23
-Honda,CR-V,2006,155223,Petrol,Manual,Like New,84660.82
-Ford,Explorer,2010,128068,Electric,Automatic,Used,60454.56
-Toyota,Camry,2009,36,Diesel,Manual,Like New,43288.37
-Audi,Q5,2008,39051,Electric,Manual,Used,94917.73
-Toyota,Camry,2013,80738,Hybrid,Automatic,Like New,28419.52
-Toyota,Camry,2012,60071,Electric,Automatic,Used,81293.98
-Ford,Focus,2001,130613,Petrol,Automatic,Like New,63144.71
-Toyota,Camry,2002,73601,Electric,Manual,New,40805.03
-Honda,Civic,2006,29873,Petrol,Automatic,Like New,5129.96
-Honda,Fit,2020,167720,Diesel,Manual,Like New,47426.93
-BMW,X3,2017,71468,Electric,Manual,New,31288.4
-Mercedes,E-Class,2002,288614,Diesel,Automatic,New,14912.93
-Tesla,Model 3,2009,196201,Diesel,Automatic,New,12140.06
-Audi,A3,2021,8328,Electric,Automatic,New,38018.04
-Toyota,Camry,2006,137405,Petrol,Manual,Used,63401.95
-Toyota,Prius,2008,251519,Diesel,Automatic,Used,84564.33
-Ford,Focus,2016,121173,Diesel,Manual,Like New,22438.51
-Mercedes,GLC,2010,46638,Electric,Automatic,Like New,45341.18
-Honda,Accord,2006,273412,Electric,Automatic,Like New,42235.83
-Audi,A4,2023,201675,Electric,Manual,Used,53772.43
-BMW,5 Series,2013,113920,Electric,Manual,Like New,81910.79
-Honda,CR-V,2018,171813,Electric,Automatic,Like New,57596.3
-Mercedes,E-Class,2003,7887,Hybrid,Automatic,Used,85432.22
-Tesla,Model S,2005,228978,Electric,Automatic,Like New,54262.42
-BMW,5 Series,2009,24918,Petrol,Automatic,Used,62365.5
-Tesla,Model X,2006,297641,Diesel,Automatic,Used,46551.41
-Ford,Fiesta,2012,192081,Petrol,Manual,New,83194.08
-Ford,Explorer,2013,274073,Petrol,Manual,New,92763.58
-Toyota,Corolla,2003,102201,Hybrid,Manual,Used,65718.75
-Tesla,Model X,2007,210171,Electric,Manual,Used,82974.33
-Mercedes,E-Class,2004,290690,Diesel,Automatic,New,10605.32
-Audi,Q7,2000,209496,Petrol,Manual,Like New,91080.62
-BMW,5 Series,2003,168410,Electric,Manual,Like New,22947.88
-Honda,CR-V,2002,82494,Electric,Manual,Like New,29369.44
-Mercedes,GLA,2008,215859,Hybrid,Automatic,Used,10066.36
-Mercedes,GLA,2007,233853,Hybrid,Manual,New,96713.01
-Ford,Fiesta,2000,128279,Hybrid,Automatic,Like New,85941.03
-Tesla,Model S,2005,81991,Diesel,Manual,New,91752.54
-Toyota,Camry,2008,290157,Petrol,Automatic,New,85485.54
-Toyota,Camry,2006,52132,Hybrid,Manual,Used,50555.4
-BMW,3 Series,2003,255069,Hybrid,Automatic,Like New,92787.78
-Ford,Explorer,2012,159156,Hybrid,Manual,New,97099.92
-Mercedes,E-Class,2016,152215,Petrol,Automatic,Used,52743.86
-Audi,A4,2001,91627,Petrol,Automatic,Used,21684.35
-Ford,Focus,2004,122772,Hybrid,Manual,Used,67569.14
-BMW,5 Series,2011,229415,Hybrid,Automatic,Like New,97666.64
-BMW,X5,2020,141294,Electric,Automatic,Like New,87853.95
-Ford,Focus,2007,259013,Hybrid,Manual,Used,86872.44
-BMW,5 Series,2005,16116,Diesel,Manual,Like New,93712.71
-Ford,Mustang,2007,182124,Diesel,Automatic,Like New,89925.46
-Honda,Accord,2017,51369,Hybrid,Manual,New,78746.76
-Ford,Explorer,2002,179889,Petrol,Manual,Used,73235.92
-Tesla,Model 3,2021,233982,Electric,Manual,Used,30152.88
-Ford,Explorer,2011,214275,Petrol,Automatic,Like New,64027.3
-BMW,X3,2002,205383,Hybrid,Automatic,Used,54541.42
-Tesla,Model Y,2021,291799,Diesel,Automatic,Used,86884.69
-BMW,X5,2005,188874,Electric,Automatic,Used,51712.69
-Toyota,Prius,2001,47632,Petrol,Automatic,Like New,17135.56
-Toyota,Prius,2022,211284,Petrol,Automatic,Like New,5472.39
-Tesla,Model S,2011,161848,Hybrid,Automatic,Like New,69397.95
-Honda,Civic,2001,191082,Electric,Manual,New,57241.3
-Toyota,RAV4,2005,213807,Diesel,Automatic,Used,36441.48
-Ford,Focus,2016,196523,Hybrid,Automatic,New,21052.35
-BMW,5 Series,2002,179884,Electric,Manual,Like New,49337.96
-Toyota,Corolla,2001,281039,Petrol,Manual,New,14527.21
-Toyota,Corolla,2022,235892,Hybrid,Manual,Used,36930.31
-Honda,Fit,2019,213408,Petrol,Automatic,Used,41025.13
-Tesla,Model X,2007,242718,Petrol,Manual,Like New,49233.78
-Tesla,Model X,2021,192879,Hybrid,Automatic,Like New,49328.97
-Mercedes,C-Class,2011,23086,Hybrid,Automatic,New,29415.54
-Honda,Fit,2003,85637,Hybrid,Automatic,Like New,85770.04
-Ford,Fiesta,2004,158279,Hybrid,Manual,New,38776.63
-Tesla,Model S,2012,151969,Hybrid,Manual,Used,26810.79
-BMW,X3,2014,63083,Petrol,Automatic,Used,21701.94
-Honda,Accord,2022,95028,Diesel,Automatic,Used,35644.95
-Toyota,RAV4,2015,97551,Diesel,Automatic,Used,11417.52
-BMW,5 Series,2009,138355,Hybrid,Manual,Used,8126.21
-BMW,5 Series,2022,94024,Petrol,Automatic,New,62488.51
-Toyota,RAV4,2015,262399,Diesel,Manual,Used,63818.98
-Honda,Civic,2011,207627,Diesel,Automatic,New,55310.88
-Toyota,Corolla,2016,15487,Diesel,Manual,Used,77417.09
-Mercedes,GLC,2015,19346,Petrol,Automatic,New,8719.3
-BMW,5 Series,2011,297194,Hybrid,Manual,New,93917.45
-Audi,Q7,2007,270888,Hybrid,Manual,New,14031.19
-Audi,A4,2019,61596,Hybrid,Manual,Like New,69032.18
-Ford,Mustang,2002,214469,Electric,Manual,New,17672.68
-Tesla,Model Y,2015,177175,Electric,Manual,New,88591.02
-Toyota,Prius,2012,153048,Electric,Manual,Used,53517.76
-Toyota,RAV4,2022,6277,Petrol,Automatic,New,12817.89
-Ford,Fiesta,2018,133332,Diesel,Automatic,New,63588.79
-Ford,Fiesta,2007,240515,Diesel,Automatic,Like New,5865.44
-Ford,Mustang,2021,260577,Petrol,Automatic,Used,78722.11
-BMW,X5,2004,196955,Petrol,Manual,Like New,66805.57
-Mercedes,E-Class,2019,286885,Hybrid,Automatic,Like New,25199.35
-Toyota,Camry,2007,299355,Hybrid,Manual,Like New,40601.34
-BMW,X5,2023,240464,Electric,Manual,New,5741.64
-Ford,Focus,2011,258445,Electric,Manual,Like New,70899.96
-Toyota,Corolla,2000,269013,Petrol,Automatic,Like New,35653.47
-BMW,3 Series,2020,94515,Electric,Manual,Used,59300.95
-Mercedes,GLC,2019,150494,Diesel,Automatic,Used,95889.12
-BMW,X5,2005,166685,Petrol,Automatic,Used,33449.34
-Mercedes,C-Class,2021,188088,Petrol,Automatic,Used,99072.6
-Ford,Focus,2017,60110,Diesel,Automatic,Like New,65109.2
-Mercedes,GLA,2007,219601,Hybrid,Automatic,Used,27998.42
-Toyota,Camry,2006,208994,Hybrid,Manual,New,46493.9
-Ford,Mustang,2000,296177,Diesel,Manual,Like New,75343.05
-Toyota,RAV4,2020,260705,Diesel,Automatic,Used,47415.4
-Audi,A4,2015,12938,Electric,Manual,Like New,11508.22
-Honda,Accord,2011,130842,Petrol,Automatic,Used,21017.35
-Mercedes,C-Class,2005,264418,Electric,Manual,Like New,80173.29
-Honda,Civic,2019,150033,Diesel,Manual,Used,66595.44
-Honda,Accord,2001,20044,Electric,Manual,New,59133.42
-Mercedes,E-Class,2013,99372,Diesel,Manual,Used,20924.09
-Ford,Fiesta,2003,276850,Electric,Manual,Like New,84586.96
-Audi,Q7,2000,137046,Electric,Manual,Like New,96270.31
-Toyota,Prius,2022,21213,Hybrid,Manual,New,8884.27
-BMW,X3,2017,1950,Diesel,Manual,Like New,12413.03
-Toyota,RAV4,2012,254043,Electric,Manual,New,89048.83
-BMW,X5,2001,216085,Petrol,Manual,Like New,82477.46
-Toyota,Prius,2008,272555,Electric,Manual,Like New,63703.77
-Mercedes,GLA,2020,148843,Electric,Manual,New,94771.69
-Audi,Q5,2001,297197,Petrol,Manual,Like New,66410.9
-BMW,3 Series,2008,248966,Diesel,Automatic,Like New,25518.6
-Tesla,Model X,2000,138117,Hybrid,Manual,New,74221.02
-Ford,Explorer,2010,29714,Hybrid,Manual,Used,66342.48
-Toyota,RAV4,2002,165458,Hybrid,Manual,New,98645.75
-Toyota,Corolla,2019,270706,Petrol,Manual,Like New,25320.09
-BMW,3 Series,2022,12026,Electric,Manual,Used,61799.07
-Ford,Fiesta,2003,106147,Diesel,Manual,Used,79115.91
-Ford,Fiesta,2017,31589,Electric,Automatic,Used,37203.39
-Mercedes,C-Class,2022,108199,Hybrid,Automatic,New,41069.56
-Tesla,Model Y,2005,288988,Electric,Automatic,Used,89350.67
-Mercedes,E-Class,2002,208574,Petrol,Manual,Used,43398.51
-Mercedes,GLA,2021,214340,Petrol,Manual,Used,64349.62
-Mercedes,GLC,2010,54708,Diesel,Manual,Like New,89477.62
-Mercedes,C-Class,2014,70825,Diesel,Automatic,New,24933.53
-Mercedes,GLA,2021,51574,Hybrid,Manual,New,98278.34
-Audi,A3,2004,232409,Diesel,Manual,Like New,71685.59
-Ford,Explorer,2019,186381,Electric,Automatic,Used,52131.56
-Mercedes,C-Class,2009,64230,Petrol,Automatic,Like New,45937.45
-Ford,Mustang,2011,254451,Petrol,Manual,Like New,95664.64
-Ford,Fiesta,2014,247174,Petrol,Manual,Used,24543.86
-Honda,CR-V,2016,219700,Diesel,Manual,Used,34609.91
-Audi,Q5,2009,287249,Petrol,Manual,New,34240.31
-Mercedes,GLA,2005,246514,Petrol,Automatic,Used,32455.6
-Toyota,RAV4,2017,264491,Petrol,Manual,Like New,49511.11
-BMW,5 Series,2012,226094,Hybrid,Manual,Like New,98972.03
-Tesla,Model X,2002,148182,Hybrid,Automatic,Used,89434.74
-Toyota,Corolla,2023,193242,Diesel,Manual,New,36155.21
-Audi,A4,2009,182873,Petrol,Manual,Like New,45172.66
-BMW,3 Series,2013,124926,Diesel,Automatic,Used,68600.67
-Audi,Q5,2005,81147,Petrol,Automatic,New,6629.41
-Ford,Explorer,2002,19199,Petrol,Manual,New,82914.6
-BMW,5 Series,2015,183208,Petrol,Automatic,Like New,88580.82
-Ford,Explorer,2006,220868,Diesel,Automatic,Like New,86434.03
-Toyota,Corolla,2019,120787,Diesel,Manual,New,40630.17
-Toyota,Corolla,2013,114427,Petrol,Automatic,New,48889.95
-BMW,3 Series,2008,148063,Electric,Manual,New,6176.89
-BMW,X5,2014,153625,Diesel,Manual,Used,42942.56
-Mercedes,GLA,2020,220782,Hybrid,Manual,Like New,48740.55
-Audi,Q7,2002,87493,Diesel,Manual,New,91162.56
-Mercedes,GLA,2001,274915,Petrol,Automatic,Like New,89928.83
-Audi,Q7,2001,125607,Electric,Manual,Like New,96779.22
-Mercedes,GLA,2002,246834,Petrol,Manual,Like New,89084.97
-Ford,Fiesta,2017,79876,Hybrid,Manual,New,5779.07
-BMW,3 Series,2013,167071,Diesel,Manual,Used,65938.78
-Toyota,Prius,2019,202959,Diesel,Automatic,New,11482.58
-Audi,A4,2017,243722,Petrol,Automatic,Like New,30896.46
-Audi,Q7,2009,44440,Petrol,Automatic,New,59939.22
-Toyota,Camry,2001,31655,Hybrid,Manual,New,71558.31
-Mercedes,GLA,2021,43039,Electric,Automatic,Like New,67190.04
-Audi,Q7,2000,72219,Hybrid,Automatic,Like New,9660.54
-Tesla,Model S,2003,186061,Electric,Manual,New,14842.37
-Ford,Fiesta,2013,273388,Diesel,Automatic,New,17215.75
-BMW,X3,2000,94594,Electric,Manual,New,13684.37
-Toyota,Prius,2013,170623,Electric,Automatic,New,21932.27
-BMW,5 Series,2015,194302,Diesel,Automatic,Used,70406.34
-Tesla,Model 3,2021,290515,Diesel,Automatic,New,83929.54
-Audi,Q5,2013,159950,Diesel,Automatic,Used,43837.32
-Audi,A3,2019,167229,Hybrid,Manual,Like New,70814.24
-Tesla,Model Y,2002,5914,Diesel,Manual,Used,24001.54
-Toyota,Prius,2002,214772,Petrol,Automatic,Like New,97461.61
-Ford,Fiesta,2008,289324,Diesel,Manual,Used,38249.76
-Honda,Accord,2005,227561,Diesel,Automatic,Like New,85357.36
-Toyota,Camry,2012,187435,Diesel,Automatic,New,94809.81
-Honda,Fit,2020,95213,Electric,Automatic,Used,87147.83
-Tesla,Model S,2001,37805,Hybrid,Automatic,Used,11371.43
-Mercedes,C-Class,2007,126599,Diesel,Automatic,Like New,66779.18
-Honda,Civic,2020,153775,Hybrid,Automatic,Like New,16408.62
-Ford,Mustang,2001,190093,Petrol,Manual,Used,5537.99
-Mercedes,GLA,2003,74176,Petrol,Manual,Like New,9919.43
-Honda,Civic,2014,94799,Diesel,Automatic,New,92034.17
-Tesla,Model 3,2003,98385,Petrol,Manual,Used,91304.03
-Mercedes,C-Class,2012,235654,Hybrid,Automatic,New,26453.32
-Tesla,Model Y,2011,88919,Electric,Manual,Used,56970.82
-Honda,Accord,2012,81462,Diesel,Manual,New,95727.68
-Tesla,Model Y,2013,179340,Petrol,Manual,Used,52187.08
-Ford,Mustang,2019,165320,Hybrid,Automatic,Like New,42389.89
-Honda,CR-V,2017,31159,Hybrid,Manual,Used,50908.63
-Honda,Fit,2005,42039,Petrol,Automatic,New,80070.5
-Honda,Civic,2010,232974,Hybrid,Automatic,Used,50341.38
-Toyota,Camry,2001,47800,Hybrid,Automatic,New,79411.38
-Toyota,Corolla,2022,94626,Diesel,Manual,New,46011.26
-Toyota,RAV4,2018,118368,Hybrid,Manual,New,28940.54
-Ford,Explorer,2018,174735,Petrol,Manual,Like New,36014.91
-Mercedes,C-Class,2004,80903,Diesel,Automatic,Used,12393.23
-Tesla,Model X,2018,118998,Petrol,Automatic,New,52251.21
-Audi,Q5,2001,241324,Electric,Manual,Like New,19070.54
-Honda,Accord,2009,233229,Petrol,Automatic,New,82096.97
-Tesla,Model S,2001,61748,Petrol,Manual,Used,44956.1
-Honda,CR-V,2010,41190,Diesel,Manual,Like New,77675.22
-Ford,Explorer,2017,40318,Hybrid,Manual,New,95673.74
-Honda,Accord,2023,168090,Petrol,Manual,New,85700.41
-Toyota,Camry,2014,124078,Diesel,Automatic,New,95389.05
-Audi,Q7,2008,39759,Electric,Manual,Used,58953.97
-BMW,X3,2022,278642,Diesel,Manual,Like New,20705.82
-Honda,Accord,2018,25989,Diesel,Manual,Like New,93862.62
-Tesla,Model X,2008,156640,Hybrid,Manual,Like New,87507.92
-Toyota,Corolla,2002,161171,Petrol,Manual,New,87119.23
-BMW,3 Series,2020,285626,Electric,Manual,Like New,70861.07
-Audi,Q7,2008,292192,Diesel,Manual,New,64367.04
-BMW,X5,2013,35814,Petrol,Automatic,Used,6398.77
-Toyota,Corolla,2018,190766,Petrol,Automatic,Like New,76065.14
-Mercedes,E-Class,2006,60204,Diesel,Automatic,New,13695.84
-Mercedes,GLA,2015,32844,Petrol,Automatic,Like New,29676.34
-BMW,X3,2015,248827,Diesel,Manual,Like New,57391.58
-Ford,Fiesta,2000,245256,Diesel,Automatic,Used,47914.6
-Tesla,Model X,2003,21518,Diesel,Automatic,Like New,6498.57
-Tesla,Model S,2003,23052,Electric,Automatic,Used,83278.58
-BMW,X3,2006,256346,Diesel,Manual,Like New,88486.09
-Honda,Fit,2007,69803,Hybrid,Automatic,Like New,69777.93
-Honda,Accord,2016,71524,Petrol,Automatic,Like New,56401.45
-Tesla,Model X,2004,224582,Electric,Manual,Like New,96270.09
-Tesla,Model 3,2006,67021,Petrol,Automatic,Like New,16395.84
-Mercedes,GLA,2019,211321,Electric,Manual,Like New,75101.46
-Ford,Explorer,2019,282187,Hybrid,Automatic,Used,17194.26
-Toyota,Prius,2003,2419,Electric,Manual,Used,41275.26
-Honda,Civic,2005,187964,Electric,Automatic,New,60621.03
-Tesla,Model S,2006,121831,Electric,Automatic,Like New,75023.33
-Mercedes,GLA,2017,244688,Petrol,Automatic,Used,5353.03
-Audi,Q5,2004,101799,Diesel,Manual,Like New,29756.8
-Mercedes,GLA,2019,194941,Petrol,Automatic,Like New,56129.04
-Honda,Fit,2002,176282,Diesel,Manual,Used,55623.0
-Honda,Civic,2006,108611,Petrol,Manual,Like New,65574.51
-Mercedes,C-Class,2021,137559,Hybrid,Manual,Used,33866.09
-Toyota,Corolla,2013,62112,Hybrid,Manual,Used,56350.28
-BMW,5 Series,2006,239040,Electric,Automatic,New,23029.74
-Honda,CR-V,2004,278504,Hybrid,Automatic,New,22752.86
-Mercedes,GLA,2021,233451,Electric,Automatic,New,59773.58
-Tesla,Model X,2004,221490,Diesel,Manual,New,70119.9
-Mercedes,GLA,2022,265161,Hybrid,Automatic,Like New,16438.0
-Ford,Mustang,2001,191196,Diesel,Manual,Like New,16665.04
-BMW,5 Series,2020,247418,Petrol,Manual,New,58703.76
-Audi,Q7,2021,221370,Diesel,Manual,Used,30659.1
-Toyota,Corolla,2005,189340,Petrol,Automatic,Used,42277.91
-Audi,A3,2014,66320,Diesel,Automatic,Used,43071.1
-BMW,X3,2020,235067,Diesel,Manual,Used,21962.52
-BMW,3 Series,2009,212373,Hybrid,Automatic,Like New,5124.89
-BMW,5 Series,2022,293271,Diesel,Automatic,Used,86049.42
-Audi,Q7,2023,180786,Hybrid,Manual,Used,72925.19
-Tesla,Model 3,2006,294065,Hybrid,Manual,New,70601.16
-BMW,3 Series,2004,266890,Electric,Automatic,Used,56917.99
-Mercedes,E-Class,2000,65350,Electric,Manual,Like New,71592.12
-Audi,A4,2012,181417,Petrol,Manual,Used,93890.4
-BMW,X5,2020,240678,Diesel,Automatic,Used,68239.0
-Mercedes,GLA,2017,22063,Petrol,Automatic,Like New,30183.68
-Tesla,Model X,2012,117116,Diesel,Manual,New,59203.2
-Ford,Fiesta,2020,177043,Electric,Automatic,Like New,47020.82
-Tesla,Model Y,2020,134670,Electric,Manual,New,57859.82
-BMW,5 Series,2017,10564,Diesel,Manual,Used,54173.0
-Audi,A4,2004,242124,Diesel,Automatic,New,86583.65
-Honda,CR-V,2012,227506,Electric,Manual,New,66921.01
-BMW,3 Series,2003,86134,Electric,Manual,New,22932.06
-Honda,Accord,2016,105940,Petrol,Manual,Used,10986.59
-Mercedes,E-Class,2002,62085,Electric,Automatic,New,45314.56
-Ford,Focus,2016,17862,Diesel,Automatic,New,6483.01
-Toyota,RAV4,2010,272409,Petrol,Automatic,Used,35238.25
-Tesla,Model Y,2020,140777,Diesel,Manual,Like New,39962.04
-Ford,Explorer,2019,186351,Hybrid,Manual,Like New,40680.94
-BMW,X3,2022,62471,Petrol,Automatic,Like New,98038.25
-Honda,Civic,2020,91080,Diesel,Automatic,Used,33870.58
-Tesla,Model X,2003,108007,Electric,Automatic,Used,30196.61
-Honda,Accord,2001,46104,Hybrid,Manual,Like New,17291.19
-Audi,A4,2019,40934,Diesel,Automatic,New,53545.84
-Honda,Fit,2015,254606,Petrol,Manual,Like New,19599.06
-Audi,A3,2017,6050,Diesel,Automatic,Used,63548.0
-Mercedes,E-Class,2007,175024,Hybrid,Manual,New,19740.18
-Tesla,Model X,2002,270628,Petrol,Manual,New,59783.97
-Tesla,Model S,2008,184750,Hybrid,Automatic,Used,83495.58
-Toyota,RAV4,2019,31323,Diesel,Manual,New,9039.84
-BMW,5 Series,2005,86332,Electric,Automatic,Like New,44875.96
-Audi,A3,2009,255540,Electric,Manual,Used,48799.65
-Toyota,Prius,2020,254547,Diesel,Manual,Used,80151.85
-Honda,CR-V,2009,272459,Diesel,Automatic,Used,49451.99
-Honda,Accord,2012,157591,Diesel,Manual,Used,58915.9
-Toyota,Prius,2016,271251,Petrol,Automatic,New,80164.4
-Tesla,Model S,2008,55781,Hybrid,Automatic,Used,58177.06
-Honda,Accord,2016,266013,Hybrid,Automatic,Used,39038.44
-Mercedes,C-Class,2023,7971,Hybrid,Manual,New,13155.02
-Mercedes,GLC,2008,254927,Diesel,Manual,Used,74341.98
-Toyota,RAV4,2008,287795,Hybrid,Manual,New,87758.12
-Audi,A4,2000,23446,Diesel,Automatic,New,97156.13
-Audi,A4,2001,257419,Petrol,Automatic,Used,93026.99
-Toyota,Corolla,2015,169180,Electric,Manual,Like New,80754.7
-Audi,Q5,2000,3823,Diesel,Manual,Used,66129.83
-Tesla,Model X,2009,144526,Diesel,Automatic,Like New,79238.71
-Tesla,Model X,2017,135004,Electric,Manual,New,46047.95
-Audi,A4,2007,205162,Electric,Automatic,Like New,61503.74
-Mercedes,GLA,2020,67965,Petrol,Manual,Used,38126.48
-Audi,Q7,2010,272654,Hybrid,Automatic,Used,36037.38
-Tesla,Model X,2022,141609,Diesel,Manual,Like New,76885.72
-Ford,Explorer,2001,105935,Hybrid,Manual,Used,48123.61
-BMW,X5,2007,233705,Diesel,Automatic,Like New,25155.32
-Honda,CR-V,2021,253978,Petrol,Automatic,New,24184.13
-Ford,Mustang,2007,144854,Electric,Automatic,Like New,86621.37
-Audi,A4,2016,78004,Petrol,Manual,Like New,69387.25
-Mercedes,GLC,2014,22072,Electric,Automatic,Like New,56874.38
-Toyota,Corolla,2016,81015,Hybrid,Automatic,Like New,43089.18
-Audi,Q5,2022,225075,Hybrid,Manual,New,45927.65
-Mercedes,GLA,2023,220010,Petrol,Automatic,New,10456.34
-BMW,3 Series,2012,72746,Electric,Automatic,New,48216.46
-Audi,Q5,2018,176774,Petrol,Automatic,Like New,80568.22
-Tesla,Model X,2004,128259,Electric,Manual,New,41858.72
-Toyota,Camry,2011,30916,Electric,Manual,Used,41440.22
-Mercedes,GLA,2000,27268,Hybrid,Manual,New,6493.08
-Mercedes,E-Class,2022,175050,Hybrid,Automatic,Like New,48494.35
-Mercedes,C-Class,2004,243966,Electric,Manual,Used,7407.08
-BMW,5 Series,2007,23259,Electric,Automatic,Like New,59183.2
-Audi,Q5,2012,79400,Electric,Automatic,Used,53144.42
-BMW,3 Series,2007,296437,Hybrid,Automatic,Like New,84800.81
-Honda,Accord,2022,111581,Hybrid,Manual,Like New,60269.16
-Honda,Accord,2010,7043,Diesel,Manual,Used,35725.6
-Audi,Q7,2000,181502,Electric,Automatic,New,54041.95
-Tesla,Model Y,2012,107009,Diesel,Automatic,Used,71472.1
-BMW,X5,2018,209137,Electric,Manual,Used,13926.56
-Toyota,RAV4,2023,161940,Hybrid,Manual,Used,64002.04
-Mercedes,E-Class,2002,288453,Diesel,Manual,Used,92079.5
-Mercedes,GLC,2023,285428,Diesel,Automatic,Used,33417.38
-Audi,A4,2016,113259,Petrol,Manual,Like New,64529.38
-Tesla,Model 3,2004,100804,Electric,Manual,Like New,83026.3
-Honda,Accord,2019,69000,Hybrid,Manual,New,53621.61
-Honda,Accord,2020,84179,Petrol,Automatic,New,73208.06
-Mercedes,C-Class,2007,291409,Petrol,Manual,Used,34545.98
-Audi,A3,2013,260226,Electric,Automatic,New,34075.55
-BMW,X3,2003,23880,Petrol,Automatic,New,68420.48
-Honda,Civic,2010,201264,Electric,Automatic,Used,72013.84
-BMW,X5,2019,172438,Petrol,Manual,Like New,94015.92
-Tesla,Model Y,2014,245352,Electric,Manual,Like New,26359.66
-Honda,Civic,2018,67396,Hybrid,Manual,New,49480.67
-Honda,CR-V,2006,279250,Electric,Automatic,Like New,28798.78
-Ford,Focus,2018,56731,Electric,Manual,Like New,12608.76
-Honda,Fit,2018,75010,Diesel,Automatic,New,43306.9
-Toyota,Prius,2010,249091,Hybrid,Manual,Used,40537.67
-Audi,A4,2004,294743,Hybrid,Manual,New,30691.24
-Audi,A4,2004,71326,Hybrid,Manual,New,33214.51
-BMW,3 Series,2021,248876,Petrol,Manual,New,39239.12
-Tesla,Model 3,2007,9004,Diesel,Automatic,Used,98939.58
-Honda,Civic,2009,115018,Hybrid,Automatic,Used,79380.99
-Toyota,Prius,2005,25792,Petrol,Automatic,Used,11783.11
-BMW,5 Series,2014,54645,Petrol,Automatic,Used,87879.25
-Ford,Fiesta,2015,7232,Petrol,Manual,New,65163.82
-BMW,X5,2016,54766,Diesel,Automatic,Like New,89606.41
-BMW,X5,2007,120601,Petrol,Automatic,New,37462.42
-Honda,Fit,2007,81588,Diesel,Automatic,Used,49129.29
-Ford,Focus,2008,179614,Electric,Manual,Like New,90141.57
-BMW,X3,2001,5913,Petrol,Automatic,New,30894.45
-Toyota,RAV4,2014,112406,Hybrid,Automatic,Like New,91972.58
-Toyota,Camry,2017,113693,Petrol,Manual,Used,83707.47
-Audi,Q7,2002,93449,Electric,Manual,Like New,98153.0
-Ford,Mustang,2016,10567,Electric,Automatic,Like New,35804.47
-Ford,Focus,2003,38379,Petrol,Automatic,Used,27396.55
-Audi,Q7,2003,206040,Electric,Manual,Like New,36432.36
-BMW,3 Series,2013,262463,Diesel,Automatic,New,95691.73
-Ford,Fiesta,2008,90005,Diesel,Manual,Like New,36641.96
-Toyota,Prius,2008,223098,Petrol,Automatic,New,58695.12
-Toyota,Camry,2022,4791,Diesel,Automatic,Like New,43349.53
-Honda,Fit,2017,131401,Diesel,Automatic,Like New,42640.91
-Ford,Explorer,2009,205459,Hybrid,Automatic,Used,23370.97
-BMW,X5,2020,61032,Petrol,Automatic,Used,56022.56
-Audi,A4,2003,175150,Electric,Manual,New,85693.4
-Audi,Q7,2011,21300,Petrol,Manual,Used,9701.08
-BMW,X3,2007,55609,Diesel,Automatic,Used,89476.53
-Tesla,Model 3,2001,191634,Hybrid,Automatic,Used,68219.93
-Mercedes,GLA,2021,90045,Petrol,Automatic,Used,63590.12
-Honda,Civic,2012,267847,Petrol,Manual,Used,64460.52
-Audi,Q7,2020,223717,Diesel,Manual,New,33145.63
-Ford,Focus,2015,219162,Diesel,Manual,New,44438.73
-Honda,Civic,2001,27676,Petrol,Manual,Used,80932.55
-Ford,Focus,2010,220412,Diesel,Manual,Used,34106.2
-Tesla,Model X,2009,176512,Diesel,Manual,New,49651.92
-Toyota,Corolla,2014,167995,Diesel,Manual,Like New,6865.07
-Honda,CR-V,2016,291946,Diesel,Manual,New,74688.04
-Audi,A4,2007,124786,Diesel,Automatic,Like New,44681.71
-Honda,Accord,2017,68147,Hybrid,Manual,Used,54909.08
-Honda,Civic,2022,22075,Diesel,Manual,Used,15895.49
-Honda,Accord,2008,205788,Electric,Manual,New,99212.85
-Mercedes,GLA,2007,9304,Petrol,Manual,Used,33734.44
-Honda,Civic,2013,129851,Hybrid,Automatic,Like New,65324.02
-Ford,Fiesta,2017,59622,Hybrid,Manual,Like New,60217.45
-Toyota,Camry,2021,108654,Diesel,Automatic,New,79583.76
-Tesla,Model S,2019,249109,Petrol,Automatic,Like New,32914.51
-BMW,X3,2019,286172,Electric,Automatic,New,76813.1
-Honda,CR-V,2020,39328,Diesel,Manual,New,41337.66
-Audi,Q5,2011,289445,Petrol,Manual,Like New,44060.29
-Honda,Accord,2018,218348,Diesel,Manual,Like New,68907.69
-Audi,A3,2013,36845,Diesel,Automatic,Like New,79507.15
-Ford,Explorer,2016,76394,Diesel,Automatic,Like New,68352.33
-Audi,Q7,2023,175231,Diesel,Automatic,Like New,90488.55
-BMW,3 Series,2020,80722,Diesel,Automatic,Like New,32090.11
-Toyota,Corolla,2002,287374,Diesel,Manual,Like New,90558.59
-Audi,A4,2022,92554,Diesel,Manual,Used,17432.03
-Audi,A4,2006,49262,Electric,Manual,New,67655.38
-Toyota,Corolla,2016,41722,Hybrid,Automatic,New,57024.91
-BMW,X5,2011,171231,Electric,Automatic,Like New,51990.41
-Honda,Civic,2008,240740,Diesel,Manual,New,34536.64
-Audi,A3,2014,87052,Diesel,Manual,Like New,52854.61
-Toyota,Camry,2017,100808,Electric,Automatic,Used,20368.47
-Ford,Explorer,2020,255416,Electric,Manual,New,40085.49
-Toyota,Camry,2012,262128,Hybrid,Manual,New,14374.69
-Ford,Focus,2020,221281,Electric,Automatic,Used,59325.43
-BMW,X5,2007,246052,Hybrid,Automatic,Used,14097.95
-Honda,Fit,2013,104697,Diesel,Automatic,Used,20232.74
-Toyota,RAV4,2007,231572,Petrol,Manual,New,13119.35
-Tesla,Model X,2013,232842,Petrol,Automatic,New,41224.51
-Tesla,Model Y,2006,96299,Petrol,Manual,Used,84986.05
-Mercedes,GLC,2022,165746,Petrol,Manual,Used,91155.16
-Audi,A3,2011,149177,Diesel,Automatic,Used,11829.5
-BMW,X5,2010,160811,Petrol,Manual,Used,65282.26
-Toyota,Prius,2021,163041,Electric,Automatic,Used,70016.62
-Tesla,Model X,2021,14497,Electric,Automatic,Like New,55708.14
-Audi,Q5,2010,254204,Petrol,Manual,Used,68363.56
-Tesla,Model Y,2021,257471,Electric,Manual,Like New,27200.62
-Toyota,RAV4,2012,92019,Hybrid,Automatic,New,51516.2
-Ford,Explorer,2017,190326,Diesel,Automatic,New,42133.21
-Toyota,Prius,2001,109017,Petrol,Automatic,Like New,13522.26
-Mercedes,C-Class,2020,218220,Petrol,Automatic,Used,64427.86
-Toyota,Corolla,2014,105153,Diesel,Automatic,New,52045.44
-Toyota,RAV4,2019,33826,Electric,Automatic,Used,31141.53
-Mercedes,C-Class,2017,110034,Diesel,Manual,Used,50000.1
-BMW,5 Series,2014,84242,Diesel,Manual,Like New,78653.31
-Toyota,RAV4,2018,50100,Electric,Manual,New,81157.49
-Mercedes,GLC,2022,221171,Diesel,Manual,New,66704.98
-Audi,Q5,2023,12809,Electric,Automatic,Like New,49436.04
-Ford,Explorer,2011,64450,Electric,Manual,Used,59696.22
-Ford,Focus,2012,111126,Diesel,Manual,Used,41576.46
-Toyota,RAV4,2021,264237,Hybrid,Automatic,New,17022.85
-BMW,X5,2010,44498,Electric,Manual,Like New,41633.96
-BMW,X3,2004,116251,Diesel,Automatic,Like New,55381.61
-Audi,Q7,2000,40985,Electric,Automatic,Used,61889.23
-Toyota,Corolla,2023,294153,Hybrid,Automatic,Used,93901.09
-Ford,Fiesta,2002,17718,Hybrid,Automatic,Like New,78846.68
-BMW,X3,2021,278849,Petrol,Automatic,New,19439.29
-Toyota,Prius,2018,62598,Electric,Manual,Used,21547.31
-Tesla,Model 3,2022,274383,Electric,Manual,Like New,14547.0
-BMW,3 Series,2006,46665,Diesel,Manual,Like New,75127.26
-Mercedes,C-Class,2011,294418,Electric,Automatic,Like New,72081.62
-Tesla,Model 3,2014,146075,Petrol,Manual,New,98704.48
-BMW,X5,2004,161938,Hybrid,Manual,Used,54592.22
-Ford,Focus,2014,153060,Hybrid,Manual,Used,83509.42
-Honda,CR-V,2007,221516,Petrol,Manual,Used,59761.79
-Tesla,Model Y,2009,136746,Electric,Automatic,New,88038.24
-Audi,A4,2015,201610,Electric,Manual,Used,73497.0
-Audi,A3,2007,66446,Petrol,Automatic,Used,66073.98
-Ford,Mustang,2000,29072,Diesel,Automatic,Used,58686.65
-BMW,3 Series,2011,33717,Hybrid,Manual,Used,73682.2
-Toyota,Prius,2004,218417,Petrol,Automatic,New,44867.12
-BMW,X3,2002,157723,Petrol,Automatic,Like New,14174.78
-Ford,Focus,2000,109525,Electric,Automatic,Like New,8798.68
-Audi,Q7,2003,213092,Hybrid,Automatic,Used,50507.25
-BMW,3 Series,2007,4646,Electric,Automatic,Used,61932.7
-Audi,A3,2002,175403,Petrol,Automatic,Used,12490.66
-Tesla,Model S,2009,284329,Diesel,Automatic,New,32255.84
-Toyota,Corolla,2001,229728,Hybrid,Manual,Used,35593.06
-Tesla,Model Y,2010,52107,Petrol,Manual,New,58465.58
-Audi,Q5,2009,244865,Petrol,Automatic,Used,31455.83
-Audi,A3,2020,279707,Diesel,Automatic,Used,14086.62
-Honda,Accord,2013,70729,Petrol,Manual,Like New,20661.39
-Honda,Civic,2006,277845,Petrol,Manual,Used,21525.04
-Tesla,Model S,2001,200144,Hybrid,Manual,New,85056.02
-Mercedes,GLC,2008,215494,Hybrid,Manual,Like New,32010.37
-Tesla,Model X,2015,252615,Hybrid,Automatic,New,72895.71
-Honda,Fit,2012,128331,Electric,Automatic,Like New,58944.68
-Audi,A4,2008,160482,Diesel,Manual,New,97818.68
-Ford,Fiesta,2019,99280,Hybrid,Manual,Like New,30918.15
-Tesla,Model S,2003,189787,Electric,Manual,New,20045.44
-Audi,A3,2021,38665,Electric,Manual,New,9943.59
-Ford,Explorer,2009,278101,Diesel,Automatic,Used,27891.17
-Ford,Focus,2021,259285,Diesel,Manual,Like New,69986.73
-Honda,CR-V,2011,163947,Petrol,Manual,Like New,13099.53
-Tesla,Model 3,2016,113828,Electric,Manual,Used,28246.68
-BMW,3 Series,2013,132698,Hybrid,Automatic,New,86254.29
-Toyota,RAV4,2013,90815,Diesel,Automatic,New,60380.53
-Honda,Fit,2001,194894,Electric,Automatic,Like New,11604.55
-Honda,Civic,2020,203485,Hybrid,Manual,New,9529.9
-BMW,X5,2019,164714,Electric,Manual,Like New,10806.67
-Toyota,Prius,2010,32356,Diesel,Manual,Like New,94478.13
-Audi,Q5,2015,265953,Petrol,Automatic,New,85737.79
-Mercedes,C-Class,2018,297019,Electric,Automatic,New,85269.3
-Tesla,Model 3,2022,241121,Hybrid,Manual,New,92800.59
-Mercedes,C-Class,2005,271609,Diesel,Manual,Used,52999.26
-Audi,Q7,2023,197167,Petrol,Automatic,Like New,28497.74
-Honda,Fit,2018,196322,Hybrid,Manual,New,43128.06
-Toyota,Prius,2004,15250,Hybrid,Manual,Used,73292.09
-Honda,Accord,2003,46023,Hybrid,Manual,New,88223.12
-Ford,Fiesta,2014,101350,Electric,Automatic,Like New,46333.64
-Honda,Fit,2003,177696,Diesel,Manual,Used,55861.19
-Honda,Accord,2019,16427,Hybrid,Manual,Like New,93519.38
-Audi,A3,2009,210084,Electric,Manual,New,15212.37
-Audi,A4,2023,134511,Diesel,Manual,New,86918.43
-Audi,A3,2021,218403,Diesel,Automatic,New,20134.21
-Mercedes,E-Class,2002,78672,Electric,Automatic,Used,50966.83
-Ford,Mustang,2004,17300,Electric,Automatic,Used,25750.2
-Audi,A3,2005,19659,Hybrid,Manual,Used,62280.02
-Toyota,Camry,2020,162475,Diesel,Automatic,Used,58064.48
-Mercedes,GLC,2021,245259,Petrol,Manual,New,41100.7
-BMW,X3,2007,10360,Electric,Automatic,New,87013.83
-Toyota,Camry,2006,283568,Diesel,Manual,New,67682.27
-Tesla,Model Y,2020,98035,Diesel,Automatic,Used,73514.49
-Tesla,Model X,2009,48791,Hybrid,Automatic,Used,19312.68
-Toyota,RAV4,2005,199867,Petrol,Automatic,New,88900.74
-Audi,Q5,2013,274444,Hybrid,Manual,New,20868.82
-BMW,X5,2003,33370,Petrol,Manual,Used,26164.57
-BMW,3 Series,2012,200903,Petrol,Manual,Like New,17165.24
-Mercedes,GLC,2019,27209,Electric,Automatic,New,46834.12
-BMW,5 Series,2016,283071,Diesel,Manual,New,89332.38
-Tesla,Model 3,2022,34579,Diesel,Manual,New,28982.51
-Ford,Mustang,2006,271176,Diesel,Manual,Used,40506.57
-Audi,A3,2003,93254,Petrol,Manual,New,85376.31
-BMW,3 Series,2013,113528,Diesel,Manual,New,63692.45
-Mercedes,GLA,2002,223274,Electric,Manual,New,76403.56
-Tesla,Model X,2023,238292,Petrol,Automatic,New,25330.0
-Ford,Focus,2004,181026,Petrol,Automatic,New,73066.54
-Honda,CR-V,2015,248342,Petrol,Manual,Like New,26623.0
-Honda,CR-V,2022,219437,Petrol,Automatic,Like New,98794.83
-Ford,Fiesta,2019,278076,Electric,Automatic,New,58189.18
-Tesla,Model 3,2003,287858,Diesel,Manual,New,71085.73
-Mercedes,E-Class,2023,57803,Electric,Manual,New,16248.15
-Ford,Mustang,2023,133624,Diesel,Automatic,New,28812.32
-Audi,A3,2001,56627,Electric,Manual,Used,18275.36
-Audi,Q5,2017,177059,Hybrid,Automatic,Used,42066.22
-Honda,Fit,2018,45380,Hybrid,Automatic,Used,31992.91
-BMW,5 Series,2018,160322,Hybrid,Automatic,Like New,74627.61
-Mercedes,E-Class,2016,199416,Hybrid,Manual,New,15327.35
-Honda,Fit,2013,146367,Petrol,Automatic,Used,76445.64
-BMW,X3,2018,272667,Petrol,Manual,New,9341.96
-BMW,X3,2021,259125,Electric,Manual,New,24191.69
-Audi,A4,2023,13769,Electric,Manual,Like New,80236.67
-Tesla,Model X,2012,112035,Hybrid,Manual,Like New,75563.78
-Toyota,Camry,2011,175717,Diesel,Manual,Used,50250.98
-Tesla,Model Y,2005,221815,Hybrid,Automatic,Used,9748.36
-Toyota,Camry,2020,231832,Electric,Manual,Like New,62939.91
-Ford,Focus,2003,156629,Hybrid,Manual,Like New,43638.79
-Audi,Q7,2018,234799,Electric,Manual,New,35070.17
-BMW,5 Series,2015,168157,Hybrid,Manual,New,65839.01
-Mercedes,GLA,2012,144542,Diesel,Manual,Used,46478.38
-Toyota,Corolla,2003,118643,Hybrid,Automatic,Used,13780.0
-Tesla,Model S,2022,210154,Diesel,Manual,Like New,92015.29
-BMW,3 Series,2016,137877,Diesel,Manual,Used,78956.84
-Toyota,Prius,2022,213396,Electric,Automatic,New,10355.93
-Toyota,Prius,2000,225956,Diesel,Manual,Like New,54881.07
-Toyota,Corolla,2017,181844,Petrol,Automatic,New,12920.87
-Mercedes,GLA,2019,101422,Petrol,Automatic,Like New,84542.54
-Audi,Q7,2016,268774,Petrol,Automatic,Like New,63236.33
-Mercedes,C-Class,2014,277845,Electric,Automatic,New,21382.67
-Honda,CR-V,2010,145931,Petrol,Manual,Used,6970.43
-BMW,5 Series,2021,117556,Electric,Manual,Used,8000.2
-Audi,Q7,2012,228495,Electric,Automatic,Used,53199.72
-Audi,Q7,2000,254809,Petrol,Automatic,Used,74765.48
-Audi,Q7,2016,205384,Diesel,Manual,New,16479.84
-Tesla,Model S,2005,15021,Hybrid,Automatic,Like New,26021.99
-Audi,Q5,2003,200935,Electric,Automatic,New,36089.69
-Mercedes,GLA,2019,204222,Petrol,Automatic,Used,25717.29
-Audi,Q7,2015,64361,Electric,Manual,Used,42176.97
-Ford,Explorer,2014,272499,Diesel,Automatic,New,58163.43
-BMW,5 Series,2014,98841,Diesel,Manual,Like New,70068.99
-Audi,A3,2005,180076,Petrol,Manual,New,96558.64
-BMW,5 Series,2014,246300,Electric,Manual,New,93430.15
-Ford,Explorer,2013,160786,Hybrid,Automatic,New,59162.06
-Ford,Explorer,2010,17198,Hybrid,Automatic,Like New,74744.26
-BMW,X3,2006,258466,Electric,Manual,New,95332.86
-Toyota,Corolla,2008,18740,Electric,Manual,New,12929.83
-Honda,Civic,2015,265954,Electric,Manual,Used,5535.3
-Tesla,Model Y,2004,258308,Petrol,Automatic,New,7830.98
-Toyota,Corolla,2019,99855,Diesel,Automatic,Used,58518.19
-Toyota,RAV4,2009,210192,Hybrid,Manual,Used,77469.18
-Mercedes,E-Class,2017,288927,Petrol,Manual,Used,39872.12
-Tesla,Model Y,2002,121701,Electric,Automatic,Like New,56797.72
-Tesla,Model Y,2012,271615,Electric,Manual,Used,54054.8
-Toyota,Corolla,2010,110771,Diesel,Automatic,New,14003.23
-Audi,A4,2016,6163,Electric,Automatic,New,35550.89
-Mercedes,GLA,2021,16065,Petrol,Manual,Used,6846.34
-Mercedes,C-Class,2012,241262,Petrol,Manual,Used,15517.04
-Ford,Fiesta,2005,248924,Diesel,Automatic,New,82126.53
-Tesla,Model 3,2016,179420,Petrol,Automatic,Used,83794.28
-Toyota,Camry,2012,281298,Hybrid,Automatic,Like New,81184.9
-Ford,Focus,2018,20229,Petrol,Automatic,Used,74047.77
-BMW,X5,2020,250470,Petrol,Automatic,Like New,80364.72
-Honda,Civic,2018,158069,Petrol,Manual,Like New,68743.32
-Mercedes,GLC,2009,21101,Hybrid,Automatic,Like New,68634.17
-BMW,3 Series,2002,40391,Electric,Automatic,Used,68399.37
-BMW,3 Series,2013,206935,Petrol,Automatic,Like New,53834.07
-Audi,Q7,2018,72723,Diesel,Manual,Like New,39517.99
-Honda,Civic,2004,226293,Hybrid,Manual,Used,74368.55
-BMW,5 Series,2004,190477,Diesel,Automatic,Like New,33371.37
-BMW,X5,2019,166020,Petrol,Automatic,Used,56575.7
-Honda,Accord,2016,290604,Diesel,Manual,New,46168.78
-Honda,CR-V,2020,197190,Petrol,Manual,Like New,31279.12
-BMW,3 Series,2009,179354,Hybrid,Manual,Used,97595.54
-Honda,Accord,2004,91725,Diesel,Manual,New,29581.41
-BMW,3 Series,2003,212139,Diesel,Automatic,Like New,34382.84
-BMW,3 Series,2005,85779,Petrol,Manual,Like New,20350.81
-Audi,A4,2003,3060,Petrol,Automatic,Used,83183.16
-Toyota,RAV4,2006,125806,Electric,Automatic,New,60725.99
-BMW,3 Series,2006,275875,Petrol,Manual,Used,63238.73
-Ford,Explorer,2017,115871,Petrol,Manual,Like New,82953.33
-Mercedes,GLC,2002,20719,Electric,Manual,Like New,37577.37
-Tesla,Model 3,2000,49116,Petrol,Manual,Like New,23395.18
-Toyota,RAV4,2023,26325,Petrol,Automatic,Like New,23848.51
-Toyota,RAV4,2003,14551,Electric,Automatic,New,74598.88
-Toyota,Prius,2005,286422,Hybrid,Automatic,New,63340.94
-Audi,Q7,2008,15141,Hybrid,Manual,Used,24602.19
-BMW,X3,2021,295759,Petrol,Automatic,Used,18781.21
-Audi,A4,2013,122058,Petrol,Manual,Used,16465.29
-BMW,X3,2011,193823,Electric,Automatic,Like New,64640.87
-Audi,A4,2019,112684,Electric,Manual,Used,5011.27
-Audi,A3,2023,289596,Hybrid,Automatic,New,6740.34
-Mercedes,C-Class,2003,50391,Diesel,Automatic,Used,42007.55
-Ford,Explorer,2020,120288,Petrol,Manual,Used,70678.24
-Audi,A3,2023,206132,Diesel,Automatic,New,71028.74
-Mercedes,GLC,2011,113535,Diesel,Automatic,New,45861.24
-Honda,CR-V,2009,142770,Electric,Manual,Like New,70651.99
-Ford,Mustang,2021,239947,Petrol,Manual,New,54504.14
-Audi,Q5,2006,86711,Petrol,Manual,New,97808.48
-Tesla,Model Y,2002,264509,Electric,Manual,Used,20433.72
-Toyota,Prius,2022,228625,Diesel,Manual,New,62063.39
-Honda,Civic,2013,43372,Electric,Automatic,Like New,51667.68
-Honda,CR-V,2023,44134,Hybrid,Manual,Used,23474.3
-Mercedes,GLA,2009,299967,Petrol,Automatic,Like New,76249.09
-Honda,Accord,2015,71158,Hybrid,Automatic,New,31173.26
-Ford,Fiesta,2015,237159,Electric,Manual,Like New,41262.43
-Audi,A3,2021,133021,Petrol,Automatic,Like New,40608.9
-Audi,Q7,2009,49396,Hybrid,Automatic,New,28199.42
-Tesla,Model S,2012,31912,Hybrid,Manual,New,45917.01
-Toyota,Prius,2005,56947,Diesel,Automatic,Used,49967.86
-Mercedes,E-Class,2011,44387,Petrol,Manual,Used,75701.06
-Toyota,Camry,2008,278652,Hybrid,Manual,Used,77681.51
-Honda,Civic,2012,109249,Hybrid,Manual,New,20062.82
-Tesla,Model 3,2003,1919,Diesel,Automatic,Like New,61313.37
-Toyota,Corolla,2023,140689,Hybrid,Automatic,Like New,90138.79
-Ford,Mustang,2010,33298,Hybrid,Automatic,Used,15334.73
-Audi,A3,2019,237225,Hybrid,Automatic,Used,49926.83
-Honda,Fit,2017,233725,Diesel,Manual,New,76283.55
-Tesla,Model X,2010,276600,Hybrid,Automatic,Like New,63091.68
-Toyota,Camry,2020,109599,Hybrid,Manual,Used,14555.64
-Mercedes,GLC,2003,83721,Petrol,Automatic,New,42677.58
-Ford,Explorer,2017,286384,Petrol,Automatic,Used,53187.75
-Ford,Focus,2000,271372,Diesel,Automatic,New,99605.33
-Toyota,Camry,2006,283830,Electric,Automatic,Like New,21967.75
-Audi,Q7,2005,11920,Petrol,Automatic,New,98330.26
-Toyota,Camry,2014,7432,Diesel,Manual,Used,40734.23
-Honda,Civic,2017,110507,Hybrid,Automatic,Used,24030.45
-Toyota,Corolla,2023,224647,Hybrid,Automatic,Like New,44340.36
-Ford,Focus,2010,164982,Diesel,Automatic,Like New,63329.54
-Tesla,Model X,2019,121764,Hybrid,Automatic,Used,25282.25
-Toyota,RAV4,2023,161298,Hybrid,Manual,Used,32686.71
-Audi,Q7,2014,204222,Electric,Automatic,Used,86181.92
-Tesla,Model S,2015,112557,Hybrid,Manual,Like New,99905.9
-Mercedes,C-Class,2006,18013,Petrol,Automatic,Used,35226.41
-BMW,3 Series,2020,21446,Hybrid,Manual,Like New,19141.4
-Toyota,Corolla,2009,201447,Diesel,Manual,Used,80351.23
-Audi,Q5,2011,102261,Electric,Manual,New,62043.29
-Tesla,Model X,2023,262701,Hybrid,Manual,New,14538.11
-Audi,Q7,2013,168461,Diesel,Manual,Used,94943.29
-Mercedes,GLC,2004,178772,Petrol,Automatic,New,12414.71
-Ford,Explorer,2020,130878,Hybrid,Manual,Like New,64408.86
-Audi,A3,2017,99143,Electric,Automatic,New,45274.04
-Tesla,Model 3,2004,24578,Hybrid,Manual,New,57879.27
-Audi,A4,2002,74779,Diesel,Manual,Like New,25255.35
-Audi,A3,2022,140668,Electric,Automatic,New,70370.49
-Audi,Q7,2004,72534,Hybrid,Manual,New,96173.37
-Honda,CR-V,2023,272273,Petrol,Manual,Used,48550.46
-Honda,CR-V,2016,197118,Electric,Manual,Like New,54681.04
-Ford,Fiesta,2018,273740,Petrol,Manual,Like New,27782.11
-Toyota,RAV4,2018,65355,Diesel,Automatic,Used,89727.46
-Audi,Q5,2020,12974,Hybrid,Manual,Used,97261.57
-Mercedes,C-Class,2011,197745,Petrol,Manual,New,79698.2
-Toyota,RAV4,2008,251366,Diesel,Automatic,New,56563.48
-Mercedes,GLA,2000,74442,Hybrid,Automatic,New,95895.7
-Toyota,Prius,2017,152890,Diesel,Manual,Used,19615.76
-Ford,Focus,2020,55598,Petrol,Manual,Like New,50456.63
-Audi,A4,2003,133726,Diesel,Automatic,New,56072.54
-Audi,Q7,2009,33758,Electric,Manual,Used,51732.06
-BMW,5 Series,2006,286348,Hybrid,Automatic,Like New,81229.74
-Mercedes,C-Class,2021,127309,Diesel,Manual,Used,68688.27
-Toyota,RAV4,2022,166000,Petrol,Automatic,New,17032.55
-Toyota,Camry,2000,184681,Hybrid,Automatic,Used,37912.87
-Honda,Civic,2016,30552,Electric,Automatic,Used,37212.3
-BMW,X3,2023,147278,Hybrid,Manual,Used,58735.06
-Tesla,Model Y,2001,34831,Electric,Manual,Used,32688.55
-Tesla,Model Y,2010,43563,Hybrid,Manual,Like New,16140.82
-Honda,Civic,2008,18361,Diesel,Manual,New,67099.85
-Honda,CR-V,2006,74469,Diesel,Automatic,Like New,85848.51
-Honda,Fit,2021,25816,Petrol,Automatic,Used,93502.77
-Mercedes,E-Class,2016,257422,Electric,Automatic,Used,97394.95
-Mercedes,GLC,2016,146691,Petrol,Manual,New,79206.1
-Ford,Focus,2001,234295,Diesel,Manual,New,18271.73
-Ford,Explorer,2005,92479,Electric,Manual,Like New,86045.62
-Honda,CR-V,2013,26819,Petrol,Automatic,Like New,42996.21
-BMW,5 Series,2005,8798,Petrol,Manual,New,74341.57
-Toyota,RAV4,2001,156215,Petrol,Manual,Like New,55470.46
-Mercedes,GLC,2000,243942,Petrol,Automatic,Used,83717.58
-BMW,5 Series,2009,230259,Petrol,Automatic,Used,45423.04
-Audi,Q5,2020,129544,Electric,Manual,New,10870.41
-Mercedes,GLA,2004,152254,Petrol,Automatic,Like New,57898.25
-Mercedes,C-Class,2001,253800,Electric,Manual,Used,21272.6
-Ford,Focus,2021,9415,Petrol,Automatic,New,96724.18
-Toyota,Camry,2015,87638,Diesel,Automatic,Like New,55061.49
-Toyota,RAV4,2001,18452,Diesel,Automatic,Used,57588.09
-Tesla,Model Y,2009,195457,Petrol,Manual,Like New,91190.24
-Tesla,Model Y,2001,110205,Hybrid,Manual,Like New,64335.6
-Tesla,Model 3,2015,18170,Diesel,Manual,Like New,33759.29
-Tesla,Model Y,2015,16259,Electric,Automatic,New,33128.99
-Audi,Q5,2018,284243,Petrol,Automatic,Used,52649.97
-Audi,A4,2006,140721,Electric,Automatic,New,87327.78
-Mercedes,GLA,2021,129394,Hybrid,Automatic,Used,80499.29
-Honda,Fit,2011,172109,Petrol,Manual,Used,96460.36
-Ford,Focus,2023,273949,Diesel,Manual,New,11829.18
-Ford,Focus,2014,254599,Electric,Manual,New,30490.98
-Tesla,Model S,2007,43147,Diesel,Automatic,Used,12619.73
-Mercedes,C-Class,2005,74280,Diesel,Automatic,Used,76352.52
-BMW,X3,2009,177125,Petrol,Manual,Used,18379.2
-Honda,Fit,2002,97841,Electric,Automatic,Like New,14489.2
-Mercedes,E-Class,2018,124726,Hybrid,Manual,Used,58358.86
-Honda,Fit,2016,76215,Diesel,Automatic,New,44091.05
-Honda,Fit,2006,112909,Petrol,Automatic,New,72934.63
-Honda,Fit,2020,273129,Petrol,Manual,New,51266.46
-Mercedes,C-Class,2019,274535,Hybrid,Manual,Used,45406.79
-Tesla,Model S,2003,4861,Petrol,Automatic,Used,45422.54
-Ford,Explorer,2013,261968,Diesel,Manual,Like New,87828.26
-Ford,Fiesta,2019,183000,Petrol,Manual,Like New,42546.44
-Tesla,Model X,2021,296508,Electric,Automatic,New,36672.73
-Honda,CR-V,2014,249072,Electric,Automatic,Like New,37160.83
-BMW,5 Series,2023,224402,Diesel,Automatic,Like New,23677.08
-Toyota,RAV4,2007,42923,Electric,Manual,New,86765.44
-Mercedes,E-Class,2020,186968,Hybrid,Automatic,Used,18929.93
-Toyota,Corolla,2014,165912,Petrol,Automatic,Like New,91318.02
-Tesla,Model Y,2021,173327,Diesel,Automatic,Used,31929.43
-BMW,X3,2019,128165,Hybrid,Automatic,New,90445.55
-Mercedes,GLA,2013,230314,Petrol,Automatic,New,80127.96
-Tesla,Model S,2008,295673,Hybrid,Manual,Like New,60288.81
-Honda,Accord,2007,144013,Diesel,Automatic,New,68599.65
-Ford,Fiesta,2016,1669,Diesel,Automatic,New,35955.19
-Toyota,RAV4,2001,216854,Hybrid,Manual,New,59551.72
-Audi,A4,2023,55786,Petrol,Automatic,Like New,32778.28
-Audi,Q7,2002,182155,Electric,Automatic,Like New,43215.92
-BMW,X5,2007,20323,Electric,Manual,Like New,77642.94
-Honda,CR-V,2011,230502,Hybrid,Automatic,New,28173.59
-Toyota,Prius,2000,257249,Diesel,Manual,Used,84690.37
-Honda,CR-V,2009,6021,Petrol,Automatic,New,40708.87
-Toyota,Corolla,2019,113415,Petrol,Manual,Like New,55556.15
-BMW,X3,2002,270855,Diesel,Manual,Used,94486.25
-BMW,3 Series,2005,7904,Electric,Automatic,Used,69719.28
-Audi,A4,2006,64033,Petrol,Manual,Like New,66332.39
-Honda,Fit,2019,231659,Hybrid,Manual,Used,72602.73
-Mercedes,GLC,2022,120035,Electric,Automatic,Used,92220.58
-Audi,A3,2017,220859,Hybrid,Automatic,Like New,28608.8
-Honda,Civic,2010,186168,Electric,Manual,Used,63257.91
-Audi,A3,2018,221666,Diesel,Automatic,Used,43037.42
-Mercedes,GLA,2004,231853,Hybrid,Manual,Like New,6126.25
-Ford,Explorer,2018,265237,Hybrid,Manual,Used,16903.59
-Ford,Fiesta,2010,287062,Diesel,Automatic,Used,35874.23
-Ford,Fiesta,2023,193708,Hybrid,Automatic,Used,58675.0
-Ford,Fiesta,2011,189878,Electric,Manual,Used,88740.1
-Tesla,Model Y,2009,140466,Petrol,Automatic,Like New,80155.84
-Toyota,RAV4,2007,124501,Petrol,Automatic,New,57566.7
-Tesla,Model S,2023,260228,Diesel,Manual,New,12017.69
-Tesla,Model X,2008,92510,Electric,Manual,Used,32161.1
-Tesla,Model Y,2003,93708,Hybrid,Manual,Like New,39837.32
-Ford,Fiesta,2004,97819,Hybrid,Manual,Like New,64063.13
-Mercedes,GLC,2020,235603,Petrol,Manual,Used,11167.74
-BMW,5 Series,2007,36303,Hybrid,Manual,New,55368.39
-BMW,3 Series,2022,27453,Petrol,Automatic,Used,90639.13
-Toyota,Corolla,2008,199521,Diesel,Manual,Like New,72016.11
-Ford,Explorer,2014,156837,Hybrid,Automatic,Like New,80722.3
-Ford,Fiesta,2014,222787,Electric,Automatic,New,69759.19
-Ford,Fiesta,2015,38057,Hybrid,Manual,Like New,24625.97
-Audi,A4,2013,189060,Petrol,Automatic,Like New,15495.96
-Honda,Accord,2007,94655,Diesel,Manual,Like New,83801.61
-Audi,A4,2017,277169,Petrol,Automatic,New,71072.92
-Honda,Accord,2009,269289,Hybrid,Manual,Like New,59630.85
-Ford,Focus,2019,101206,Petrol,Manual,Used,22981.87
-Ford,Explorer,2005,186869,Petrol,Manual,New,62317.77
-Audi,Q7,2011,73230,Diesel,Manual,Used,7975.57
-Audi,Q5,2001,155002,Electric,Automatic,Used,16289.72
-Honda,Accord,2006,108138,Hybrid,Automatic,New,34629.56
-BMW,X3,2015,207097,Diesel,Automatic,Used,47155.14
-Honda,Civic,2002,212376,Electric,Automatic,New,16453.63
-Audi,A4,2012,62040,Petrol,Automatic,Used,16394.32
-Mercedes,E-Class,2002,108668,Electric,Manual,New,73959.9
-Audi,A4,2017,198768,Petrol,Manual,Like New,59123.34
-Mercedes,E-Class,2010,56815,Petrol,Manual,Like New,55705.49
-Toyota,Corolla,2007,216741,Diesel,Manual,Used,47981.28
-Audi,A3,2005,112789,Petrol,Manual,Like New,97771.6
-Toyota,Prius,2000,219478,Diesel,Automatic,New,9731.03
-BMW,X5,2000,167644,Electric,Manual,Used,22159.58
-Honda,Accord,2022,185102,Electric,Manual,Like New,66513.24
-Mercedes,E-Class,2007,244533,Petrol,Automatic,Like New,17954.74
-Honda,Fit,2004,237469,Diesel,Automatic,Used,60991.19
-Toyota,Camry,2015,233308,Petrol,Manual,Like New,58937.32
-Mercedes,C-Class,2010,160275,Diesel,Manual,Like New,97245.49
-Honda,CR-V,2004,77088,Diesel,Automatic,Used,88921.72
-Audi,Q7,2003,5608,Diesel,Manual,Like New,94827.57
-Ford,Explorer,2005,45667,Electric,Manual,Like New,15792.23
-Toyota,RAV4,2013,55547,Diesel,Manual,Like New,87474.1
-Honda,CR-V,2021,234907,Electric,Automatic,Like New,17263.61
-Toyota,Prius,2018,57560,Diesel,Manual,Used,65128.56
-Tesla,Model X,2008,214601,Electric,Manual,New,73407.43
-Toyota,RAV4,2011,159487,Hybrid,Automatic,New,20281.08
-Mercedes,C-Class,2010,184286,Electric,Automatic,Like New,65102.64
-Tesla,Model Y,2013,280141,Electric,Automatic,Like New,9983.75
-Mercedes,GLC,2022,121266,Petrol,Manual,New,32860.28
-Ford,Explorer,2015,3679,Diesel,Automatic,Like New,92510.06
-Tesla,Model S,2000,40308,Hybrid,Manual,New,21314.46
-Audi,Q7,2012,206096,Petrol,Automatic,Used,11200.65
-Toyota,RAV4,2022,170914,Diesel,Manual,Used,47149.43
-Honda,Civic,2020,5695,Hybrid,Automatic,Used,85808.73
-BMW,X3,2020,226812,Hybrid,Manual,Used,12283.88
-Toyota,Camry,2012,58499,Hybrid,Manual,Used,38775.86
-Toyota,Corolla,2001,23382,Diesel,Automatic,Used,90478.61
-Ford,Fiesta,2003,276379,Hybrid,Automatic,New,16224.78
-Audi,A4,2005,193295,Hybrid,Manual,Like New,34513.51
-BMW,3 Series,2022,133438,Petrol,Automatic,New,78949.96
-Tesla,Model 3,2004,158539,Electric,Manual,Used,56605.04
-Tesla,Model Y,2002,6764,Diesel,Automatic,Like New,84071.65
-Tesla,Model Y,2000,221968,Electric,Automatic,Like New,15601.56
-Mercedes,E-Class,2003,113831,Petrol,Manual,Used,92452.65
-Mercedes,C-Class,2019,61836,Electric,Automatic,Used,93816.62
-Honda,Fit,2001,294067,Hybrid,Automatic,Used,19754.74
-BMW,3 Series,2004,255033,Hybrid,Manual,Used,8218.17
-Tesla,Model 3,2002,16292,Diesel,Manual,Used,99034.93
-Mercedes,GLC,2008,283083,Diesel,Automatic,Used,50813.9
-Honda,Fit,2019,243772,Diesel,Manual,Like New,59347.16
-Audi,A3,2005,18800,Petrol,Automatic,Used,63510.95
-Honda,Accord,2017,56440,Diesel,Automatic,Used,80018.5
-Mercedes,GLA,2005,127521,Petrol,Manual,Like New,82138.86
-Ford,Mustang,2018,121327,Hybrid,Manual,New,23422.9
-Ford,Fiesta,2011,49648,Electric,Manual,Used,27480.49
-Tesla,Model X,2010,291908,Hybrid,Manual,Like New,88299.14
-Ford,Mustang,2001,294614,Hybrid,Manual,Like New,82854.17
-Tesla,Model S,2014,256160,Hybrid,Manual,New,63673.84
-Tesla,Model S,2011,169573,Diesel,Automatic,Used,99496.42
-Mercedes,GLA,2011,57207,Diesel,Automatic,Used,74842.47
-Ford,Focus,2008,62157,Diesel,Manual,Used,25504.49
-Tesla,Model S,2020,134288,Electric,Automatic,Like New,85431.19
-BMW,5 Series,2023,153144,Diesel,Automatic,Used,44399.6
-Audi,Q7,2001,93778,Petrol,Automatic,Used,8434.5
-Honda,Fit,2021,130016,Hybrid,Automatic,Used,35535.02
-Honda,Fit,2002,124288,Electric,Manual,Used,77537.37
-Mercedes,GLC,2011,168204,Electric,Automatic,New,96219.59
-Ford,Mustang,2015,110573,Electric,Automatic,New,31232.96
-Ford,Explorer,2020,120730,Electric,Manual,New,28419.05
-Tesla,Model Y,2023,64186,Electric,Manual,Used,58543.58
-Toyota,Camry,2000,267104,Petrol,Manual,Used,82109.97
-Tesla,Model 3,2020,18781,Hybrid,Manual,Like New,75919.94
-Audi,A3,2002,237677,Electric,Automatic,Like New,58196.1
-BMW,X5,2019,257506,Hybrid,Manual,Like New,64982.02
-Honda,CR-V,2001,31126,Diesel,Automatic,Used,27999.4
-Tesla,Model X,2008,238217,Electric,Automatic,New,46094.56
-Toyota,Camry,2018,280027,Electric,Manual,New,29259.73
-Toyota,Camry,2014,29782,Hybrid,Manual,New,89019.71
-Tesla,Model X,2017,148051,Electric,Manual,Used,15692.68
-Mercedes,E-Class,2010,295890,Electric,Manual,New,69575.35
-Honda,Civic,2022,261161,Electric,Manual,Like New,29726.9
-Mercedes,GLA,2015,66266,Petrol,Manual,Like New,50179.85
-BMW,X3,2021,56,Petrol,Automatic,New,33444.21
-Toyota,Prius,2016,293601,Electric,Automatic,Like New,35708.31
-Toyota,Prius,2004,132773,Petrol,Automatic,New,29737.34
-Audi,A3,2011,187453,Diesel,Automatic,New,76515.33
-BMW,X3,2010,181510,Electric,Manual,Like New,39743.01
-Toyota,RAV4,2014,80636,Diesel,Manual,Like New,74003.92
-BMW,5 Series,2002,66483,Hybrid,Automatic,Like New,48326.64
-Honda,Accord,2000,20505,Diesel,Automatic,Like New,56988.37
-Ford,Focus,2019,33525,Hybrid,Automatic,New,56612.31
-Toyota,RAV4,2015,211474,Electric,Manual,Like New,97705.95
-Audi,A4,2001,96008,Hybrid,Manual,Like New,39870.93
-Honda,Accord,2001,44348,Hybrid,Manual,Used,24729.99
-Tesla,Model 3,2002,202259,Diesel,Automatic,Like New,91620.23
-BMW,5 Series,2007,269417,Diesel,Automatic,Like New,21609.73
-Tesla,Model 3,2023,206641,Diesel,Manual,New,84270.17
-Mercedes,C-Class,2014,134607,Electric,Manual,New,19270.42
-Honda,Accord,2006,214096,Electric,Automatic,Used,67578.81
-Tesla,Model 3,2005,107157,Diesel,Automatic,Like New,19301.38
-Toyota,Prius,2008,908,Electric,Manual,Like New,92693.15
-BMW,X5,2019,252299,Electric,Automatic,Like New,58675.79
-Ford,Mustang,2000,201225,Hybrid,Manual,Like New,36281.01
-Honda,Accord,2007,108352,Hybrid,Manual,Like New,18330.66
-Toyota,Camry,2022,95967,Diesel,Automatic,Like New,40263.26
-Audi,A4,2022,35079,Electric,Automatic,Used,71976.9
-Mercedes,GLC,2002,212628,Hybrid,Automatic,Like New,41570.33
-BMW,X5,2003,111889,Petrol,Manual,Like New,28378.94
-Honda,CR-V,2014,262063,Electric,Automatic,Like New,59853.9
-Honda,Fit,2005,46105,Petrol,Automatic,Used,44693.08
-Ford,Fiesta,2014,132957,Diesel,Manual,Like New,20751.59
-Ford,Mustang,2020,1049,Electric,Manual,Used,19628.86
-Audi,Q7,2002,53281,Diesel,Automatic,New,72208.89
-Mercedes,C-Class,2020,66697,Diesel,Manual,Like New,97593.83
-Audi,Q7,2020,36534,Diesel,Manual,Used,27143.94
-Toyota,Prius,2013,93034,Diesel,Manual,New,78449.12
-Toyota,Camry,2019,58097,Diesel,Automatic,Used,13322.64
-Audi,Q7,2013,184885,Electric,Automatic,Used,41249.71
-Mercedes,GLC,2003,287181,Petrol,Manual,New,53135.37
-Audi,Q7,2011,27278,Electric,Manual,Like New,30530.96
-Mercedes,C-Class,2016,139344,Electric,Manual,Like New,55309.95
-Mercedes,C-Class,2006,73277,Electric,Automatic,Used,88848.37
-Tesla,Model 3,2008,4694,Hybrid,Manual,New,94721.61
-BMW,3 Series,2002,58150,Hybrid,Manual,Like New,14552.91
-Mercedes,GLA,2012,67470,Electric,Automatic,Used,30825.36
-Ford,Explorer,2014,21556,Petrol,Manual,New,98017.72
-Mercedes,GLC,2017,195543,Electric,Automatic,Used,30689.75
-Mercedes,C-Class,2018,49086,Diesel,Automatic,New,70807.2
-Mercedes,E-Class,2000,149979,Hybrid,Automatic,Like New,29078.1
-Tesla,Model 3,2005,248399,Hybrid,Manual,Like New,38854.73
-Tesla,Model S,2022,179559,Electric,Manual,Used,23171.5
-Toyota,Camry,2001,99468,Electric,Automatic,Like New,86348.52
-Tesla,Model X,2023,295531,Petrol,Manual,Like New,88851.63
-Ford,Focus,2013,68602,Petrol,Automatic,New,33206.69
-Ford,Mustang,2005,2460,Diesel,Manual,Like New,83241.03
-Tesla,Model S,2013,72356,Electric,Automatic,New,39032.96
-Audi,Q7,2003,259925,Electric,Automatic,New,14406.85
-BMW,X5,2020,16191,Electric,Manual,Used,77017.26
-Tesla,Model S,2007,84631,Hybrid,Manual,New,61662.39
-Mercedes,E-Class,2002,245702,Diesel,Manual,Like New,31066.33
-Honda,Fit,2018,272673,Petrol,Manual,New,29034.98
-BMW,3 Series,2013,32175,Hybrid,Automatic,New,97684.22
-BMW,5 Series,2019,279819,Hybrid,Automatic,Used,86937.6
-Ford,Focus,2016,157048,Hybrid,Manual,Like New,81930.84
-BMW,X3,2007,194188,Hybrid,Manual,Like New,17161.68
-Tesla,Model Y,2023,62821,Diesel,Automatic,Like New,76742.79
-Mercedes,C-Class,2013,12204,Electric,Manual,New,25381.32
-Mercedes,GLA,2005,269538,Petrol,Manual,Like New,97851.95
-Toyota,RAV4,2022,246464,Petrol,Manual,Like New,9948.47
-Mercedes,E-Class,2021,33593,Hybrid,Manual,New,38453.16
-Mercedes,GLC,2015,208260,Hybrid,Automatic,Used,45721.54
-Ford,Mustang,2018,115064,Diesel,Automatic,Used,83299.28
-Mercedes,E-Class,2013,53365,Hybrid,Manual,New,77791.17
-Toyota,RAV4,2018,240644,Petrol,Automatic,Used,40624.25
-Honda,CR-V,2002,220511,Petrol,Manual,Used,58728.23
-Tesla,Model X,2009,206971,Electric,Manual,Used,84381.54
-Ford,Mustang,2018,103700,Electric,Manual,Like New,6728.96
-Honda,Accord,2008,68247,Petrol,Automatic,Used,81206.92
-Ford,Fiesta,2019,182631,Petrol,Automatic,Like New,94955.12
-Audi,A3,2012,156270,Diesel,Automatic,Used,8046.13
-BMW,X3,2006,153560,Diesel,Automatic,Like New,9330.19
-Audi,A3,2013,169587,Petrol,Automatic,New,37728.83
-Mercedes,C-Class,2008,290042,Hybrid,Manual,New,13338.11
-Honda,CR-V,2022,181142,Electric,Manual,Used,50531.23
-Mercedes,GLC,2018,62613,Petrol,Automatic,Like New,74227.52
-BMW,5 Series,2014,96707,Hybrid,Automatic,New,58855.43
-Ford,Mustang,2019,47003,Petrol,Automatic,New,23661.03
-BMW,X5,2013,48478,Electric,Manual,New,67207.07
-Toyota,RAV4,2023,59030,Electric,Automatic,New,70061.18
-BMW,3 Series,2005,184133,Diesel,Manual,Used,93582.37
-Toyota,RAV4,2020,145921,Diesel,Manual,Like New,18945.71
-BMW,5 Series,2003,246160,Diesel,Automatic,New,70771.94
-Tesla,Model 3,2007,267589,Diesel,Manual,Used,91585.59
-Toyota,RAV4,2016,149112,Electric,Manual,New,52648.59
-Honda,CR-V,2008,262390,Hybrid,Automatic,New,39370.97
-Mercedes,C-Class,2000,31153,Hybrid,Manual,New,21221.2
-Mercedes,GLC,2023,267356,Hybrid,Automatic,New,87344.75
-Audi,A3,2019,134411,Petrol,Manual,Used,42453.41
-Mercedes,GLC,2013,56238,Diesel,Automatic,Like New,92863.83
-Ford,Fiesta,2010,296751,Diesel,Automatic,Used,85537.04
-Tesla,Model 3,2020,52055,Electric,Manual,Used,40780.79
-BMW,X5,2002,104509,Electric,Automatic,Used,59521.86
-Audi,Q5,2008,135467,Petrol,Manual,New,7581.53
-Ford,Explorer,2013,127378,Petrol,Manual,Like New,30006.03
-Ford,Fiesta,2008,87687,Hybrid,Automatic,New,72475.92
-Toyota,Prius,2003,102652,Electric,Manual,Used,69401.54
-Mercedes,C-Class,2003,55773,Diesel,Automatic,New,38570.1
-Honda,Accord,2007,202668,Hybrid,Manual,Like New,81817.76
-Honda,Accord,2001,27584,Diesel,Manual,Like New,27404.42
-Audi,A4,2008,244901,Hybrid,Automatic,New,48820.7
-Tesla,Model S,2013,265482,Diesel,Manual,Used,49890.41
-Honda,Fit,2021,62601,Petrol,Manual,New,37377.59
-BMW,5 Series,2008,136559,Hybrid,Manual,Used,95693.28
-Honda,Civic,2023,36282,Diesel,Manual,Like New,71184.98
-Audi,Q5,2022,226137,Diesel,Manual,New,56223.94
-Honda,Accord,2015,95798,Electric,Manual,Like New,53498.93
-BMW,X5,2016,130963,Hybrid,Manual,Used,20133.13
-Toyota,RAV4,2015,159876,Diesel,Manual,Used,40357.76
-Tesla,Model Y,2011,140987,Electric,Automatic,New,68913.46
-Audi,A4,2002,273302,Diesel,Manual,New,92834.17
-Toyota,Prius,2010,205229,Hybrid,Manual,New,82564.09
-Toyota,Camry,2013,10547,Petrol,Automatic,Like New,33537.03
-Toyota,Camry,2017,264603,Hybrid,Automatic,Used,46225.88
-Ford,Fiesta,2020,63146,Hybrid,Automatic,Used,12877.16
-Tesla,Model 3,2020,107761,Diesel,Manual,Like New,14706.37
-Mercedes,GLC,2004,82970,Diesel,Automatic,New,49671.89
-Tesla,Model X,2015,191889,Hybrid,Automatic,New,55370.84
-Ford,Mustang,2019,169319,Electric,Manual,Like New,30082.57
-Mercedes,GLA,2004,15419,Electric,Manual,Used,66064.36
-Tesla,Model S,2002,35577,Electric,Automatic,Used,71821.17
-Toyota,Prius,2011,2921,Diesel,Automatic,Used,33416.03
-Audi,A3,2000,144535,Diesel,Manual,Used,77050.35
-Mercedes,GLC,2020,156546,Hybrid,Manual,Like New,24532.47
-BMW,X5,2008,125534,Petrol,Manual,Used,56703.88
-BMW,5 Series,2008,256872,Diesel,Manual,Like New,81406.7
-Honda,Civic,2003,72828,Hybrid,Manual,New,56015.86
-Mercedes,GLA,2002,123649,Hybrid,Automatic,Like New,91256.46
-Audi,Q5,2016,55152,Petrol,Manual,Used,10557.62
-Ford,Fiesta,2001,220073,Electric,Manual,New,60889.82
-Toyota,Camry,2023,223393,Hybrid,Manual,Like New,58366.77
-Honda,CR-V,2000,86569,Hybrid,Manual,Like New,67733.57
-BMW,3 Series,2007,156844,Hybrid,Manual,Like New,84173.65
-Ford,Focus,2012,159562,Electric,Automatic,New,73956.04
-Ford,Mustang,2022,122537,Electric,Manual,Like New,80076.86
-Toyota,Prius,2014,53806,Petrol,Automatic,Used,32437.59
-Mercedes,GLC,2007,75992,Diesel,Manual,New,41812.25
-BMW,X3,2011,284464,Electric,Automatic,New,64543.81
-Audi,A4,2021,258852,Diesel,Automatic,Like New,57578.84
-Ford,Fiesta,2011,173217,Diesel,Manual,Used,96304.87
-Toyota,Prius,2013,194760,Electric,Manual,New,22749.28
-Audi,A4,2014,20754,Hybrid,Manual,Like New,38371.45
-Mercedes,GLC,2014,69837,Petrol,Manual,Used,59411.75
-BMW,X3,2008,138279,Diesel,Manual,Like New,87456.56
-Mercedes,C-Class,2018,218811,Hybrid,Automatic,Like New,93288.11
-Ford,Mustang,2019,114780,Electric,Manual,New,36923.45
-Audi,A4,2021,87081,Diesel,Manual,New,11375.3
-Audi,A3,2007,286160,Diesel,Automatic,Like New,45053.87
-Audi,Q5,2020,112099,Diesel,Manual,New,42462.69
-Ford,Explorer,2018,151174,Hybrid,Automatic,New,98716.27
-Ford,Mustang,2005,264068,Hybrid,Manual,Used,45950.82
-Mercedes,GLC,2019,85015,Hybrid,Automatic,Used,34043.68
-Honda,Accord,2018,104987,Diesel,Manual,Like New,39710.85
-Mercedes,GLC,2003,54333,Diesel,Automatic,Like New,42708.0
-BMW,5 Series,2022,215530,Petrol,Automatic,Like New,83046.34
-Toyota,Prius,2006,177171,Petrol,Manual,Like New,12696.41
-Audi,Q7,2003,188418,Hybrid,Manual,Used,35068.17
-Honda,Civic,2021,126372,Hybrid,Manual,New,96800.26
-Toyota,Prius,2011,206553,Electric,Automatic,Used,19544.74
-Honda,Accord,2012,69767,Hybrid,Automatic,Like New,75547.13
-Tesla,Model X,2002,104332,Petrol,Automatic,Like New,38857.38
-Mercedes,GLA,2021,143279,Petrol,Manual,Used,60269.62
-Ford,Explorer,2011,6336,Petrol,Manual,Used,14457.06
-Audi,A4,2001,206238,Diesel,Automatic,Like New,34109.11
-Mercedes,GLA,2023,279400,Diesel,Manual,New,52582.17
-Toyota,Prius,2001,230517,Hybrid,Automatic,Like New,27011.56
-Tesla,Model Y,2022,180889,Electric,Manual,Used,56477.64
-Tesla,Model X,2008,295863,Electric,Manual,Like New,25877.13
-Tesla,Model X,2000,45704,Electric,Automatic,Like New,66759.55
-Toyota,RAV4,2007,292157,Diesel,Manual,New,90913.66
-Toyota,Corolla,2022,226884,Petrol,Manual,Like New,13121.42
-Toyota,Camry,2005,167848,Petrol,Manual,Like New,25578.52
-Toyota,Corolla,2005,272204,Diesel,Manual,Like New,85220.19
-Tesla,Model 3,2021,219182,Electric,Manual,Used,64997.58
-Tesla,Model S,2017,78563,Electric,Automatic,Used,12477.35
-Honda,CR-V,2016,135102,Hybrid,Manual,New,51203.26
-Mercedes,GLC,2011,89779,Hybrid,Automatic,Like New,24927.06
-Audi,Q7,2005,164361,Electric,Manual,Used,23914.16
-Ford,Fiesta,2007,99704,Diesel,Manual,New,94361.31
-Tesla,Model 3,2018,261757,Electric,Automatic,Like New,77346.45
-Ford,Explorer,2009,110234,Hybrid,Automatic,New,71141.91
-Mercedes,E-Class,2000,36491,Electric,Manual,New,27698.24
-Mercedes,GLA,2012,226621,Diesel,Manual,New,16264.48
-Ford,Focus,2016,20448,Petrol,Automatic,New,87729.1
-Tesla,Model Y,2002,49294,Diesel,Automatic,New,5558.56
-Ford,Fiesta,2007,283590,Diesel,Automatic,New,41869.16
-Honda,Civic,2013,216461,Hybrid,Automatic,New,31373.19
-BMW,X5,2002,85615,Diesel,Manual,Like New,59185.74
-Tesla,Model 3,2015,17101,Diesel,Manual,Like New,28798.3
-Tesla,Model 3,2012,290160,Hybrid,Manual,New,34564.51
-Audi,A3,2019,150004,Hybrid,Manual,Like New,85753.79
-Toyota,Camry,2023,90481,Petrol,Manual,New,62302.94
-BMW,3 Series,2016,52802,Electric,Automatic,Like New,18839.84
-Mercedes,GLA,2012,269693,Diesel,Automatic,Used,74014.8
-Tesla,Model Y,2005,210005,Hybrid,Automatic,New,24708.62
-Ford,Mustang,2016,156434,Petrol,Manual,Used,46135.47
-BMW,X3,2013,47842,Electric,Automatic,New,66427.69
-Audi,Q7,2016,46539,Hybrid,Manual,New,30833.31
-Mercedes,GLA,2007,33717,Electric,Manual,Used,41490.15
-Toyota,RAV4,2010,246281,Electric,Manual,Used,74744.21
-Toyota,Corolla,2019,186272,Diesel,Automatic,Used,94101.54
-Audi,Q5,2000,115042,Diesel,Manual,New,55278.28
-Audi,A4,2006,127922,Hybrid,Manual,Used,5947.24
-Ford,Focus,2020,92447,Electric,Automatic,Used,37154.06
-Tesla,Model X,2020,158693,Hybrid,Manual,Like New,42870.26
-Toyota,RAV4,2016,12823,Hybrid,Automatic,Like New,37221.49
-Mercedes,E-Class,2009,29986,Electric,Manual,Used,46445.54
-BMW,5 Series,2010,121682,Hybrid,Automatic,Used,65103.29
-Mercedes,E-Class,2021,64325,Electric,Manual,Used,16507.16
-Honda,Fit,2008,250476,Electric,Manual,Used,30899.9
-Honda,Civic,2008,57771,Electric,Automatic,Like New,53226.57
-Audi,A3,2023,54973,Electric,Manual,New,34979.46
-Ford,Fiesta,2004,145762,Petrol,Automatic,Used,99153.11
-Honda,CR-V,2016,57888,Electric,Manual,Used,45985.99
-Toyota,Camry,2008,10956,Diesel,Automatic,Like New,87630.92
-Mercedes,E-Class,2016,86839,Diesel,Manual,Used,90168.43
-Mercedes,GLA,2023,167605,Diesel,Manual,Used,84420.66
-Audi,Q7,2020,101131,Electric,Manual,Like New,9455.33
-Tesla,Model Y,2018,187973,Diesel,Automatic,Used,95035.94
-Tesla,Model Y,2006,11519,Petrol,Automatic,Used,17230.54
-BMW,X5,2022,162187,Hybrid,Automatic,Like New,8268.34
-Audi,Q7,2008,1832,Electric,Automatic,New,44365.11
-BMW,X5,2006,113922,Diesel,Automatic,Used,23490.23
-Tesla,Model S,2012,105474,Petrol,Manual,Used,22498.67
-Audi,Q7,2010,69715,Hybrid,Manual,New,32342.86
-Audi,Q7,2013,73366,Petrol,Manual,Like New,28598.53
-Audi,Q7,2018,37570,Diesel,Manual,New,70055.56
-Tesla,Model S,2010,137687,Petrol,Manual,Used,22743.84
-BMW,3 Series,2012,38311,Hybrid,Automatic,New,56596.24
-BMW,X5,2013,103187,Diesel,Manual,Like New,98710.52
-Audi,Q5,2012,285578,Hybrid,Automatic,Used,46076.33
-Honda,Fit,2000,86879,Petrol,Manual,Like New,65977.95
-Ford,Focus,2007,15739,Electric,Automatic,Like New,97090.31
-Tesla,Model Y,2011,66202,Electric,Automatic,New,18075.7
-Ford,Mustang,2018,98580,Electric,Automatic,New,44767.67
-Ford,Mustang,2011,224491,Electric,Manual,Like New,85768.28
-BMW,X5,2007,79599,Hybrid,Manual,Like New,93569.04
-BMW,X5,2007,164721,Electric,Manual,Used,62117.43
-Honda,Accord,2020,231436,Hybrid,Manual,Like New,18624.96
-Ford,Focus,2012,116770,Diesel,Automatic,Like New,90639.8
-Ford,Fiesta,2011,179693,Electric,Automatic,New,21572.42
-Audi,A3,2015,261051,Hybrid,Automatic,Like New,38523.4
-BMW,5 Series,2000,114300,Electric,Automatic,Like New,40673.26
-Ford,Mustang,2012,191012,Electric,Manual,New,47492.7
-Mercedes,GLC,2006,171796,Electric,Automatic,Used,80065.75
-Honda,Fit,2004,162776,Hybrid,Manual,New,81203.72
-Mercedes,GLA,2007,241942,Petrol,Automatic,New,73367.23
-Mercedes,GLA,2013,2526,Electric,Automatic,Like New,7102.22
-Tesla,Model 3,2022,268718,Electric,Automatic,Like New,58660.28
-Tesla,Model Y,2012,270877,Diesel,Manual,Used,76011.83
-Honda,CR-V,2014,36051,Petrol,Manual,Like New,47239.4
-Mercedes,GLA,2022,15909,Hybrid,Automatic,Used,94768.92
-Ford,Focus,2016,77338,Diesel,Automatic,Used,83262.0
-BMW,3 Series,2014,290277,Electric,Automatic,Used,65624.73
-Honda,CR-V,2019,182643,Diesel,Manual,Used,10930.39
-Audi,Q5,2017,79062,Diesel,Manual,Like New,66972.89
-Mercedes,C-Class,2017,181980,Electric,Manual,New,91600.06
-Honda,Civic,2001,51458,Petrol,Automatic,New,41047.31
-Toyota,Prius,2003,222159,Petrol,Manual,Like New,84622.59
-Toyota,Corolla,2000,287442,Diesel,Automatic,Like New,34750.31
-Tesla,Model X,2003,231946,Electric,Manual,Used,59159.81
-BMW,X3,2017,153263,Hybrid,Automatic,Like New,66600.32
-Ford,Focus,2004,164164,Diesel,Automatic,New,69409.53
-BMW,3 Series,2018,89407,Hybrid,Manual,Like New,88842.18
-BMW,X3,2014,206329,Diesel,Automatic,Like New,27289.12
-BMW,X5,2007,62513,Diesel,Automatic,Used,29925.11
-BMW,5 Series,2019,145476,Electric,Automatic,Used,71883.89
-Audi,Q7,2016,35198,Electric,Manual,Used,21833.41
-Audi,Q5,2000,225295,Hybrid,Automatic,Used,49105.69
-Tesla,Model Y,2011,264323,Hybrid,Manual,New,6903.27
-Honda,Civic,2018,2019,Petrol,Manual,Like New,18393.04
-Toyota,Corolla,2014,81455,Electric,Automatic,Like New,69490.41
-BMW,3 Series,2008,216311,Diesel,Manual,Used,76008.85
-Tesla,Model S,2006,149776,Diesel,Automatic,New,15955.31
-Honda,Accord,2001,149102,Petrol,Manual,New,26632.41
-Toyota,Corolla,2008,3420,Electric,Automatic,Like New,14395.92
-Mercedes,C-Class,2009,178725,Diesel,Manual,Used,46174.22
-Ford,Mustang,2001,16740,Petrol,Automatic,Like New,16981.03
-Audi,Q7,2018,105789,Petrol,Automatic,Like New,46543.12
-Mercedes,E-Class,2010,19465,Diesel,Automatic,New,74549.33
-Toyota,Corolla,2012,4131,Diesel,Automatic,New,69921.92
-Mercedes,E-Class,2009,10652,Hybrid,Manual,Like New,31643.75
-Ford,Fiesta,2013,218115,Electric,Manual,Used,69007.44
-Tesla,Model Y,2017,245289,Hybrid,Automatic,Used,93132.65
-Toyota,Corolla,2018,89342,Petrol,Manual,Like New,38014.82
-Mercedes,C-Class,2021,281315,Diesel,Automatic,Like New,36266.32
-Audi,A3,2008,217201,Hybrid,Automatic,Used,59286.67
-Audi,A4,2006,259820,Petrol,Manual,Used,28322.67
-Honda,Accord,2002,186764,Electric,Manual,Used,66900.0
-Mercedes,C-Class,2019,58541,Diesel,Automatic,Like New,84064.87
-BMW,X3,2005,9470,Hybrid,Manual,New,48635.26
-Mercedes,E-Class,2020,192416,Electric,Automatic,Used,69553.2
-Tesla,Model 3,2001,44308,Hybrid,Manual,Used,66929.12
-Toyota,Camry,2005,135669,Petrol,Manual,Used,8673.23
-Toyota,Corolla,2002,102840,Electric,Manual,Like New,22424.55
-Tesla,Model S,2015,161860,Hybrid,Manual,New,89885.35
-Mercedes,GLC,2007,49477,Electric,Manual,New,94194.75
-Tesla,Model Y,2001,108261,Petrol,Automatic,Used,79141.77
-Ford,Focus,2016,102466,Electric,Manual,Like New,92518.57
-Tesla,Model S,2008,295215,Hybrid,Manual,New,34084.12
-Audi,A4,2011,70560,Petrol,Automatic,Like New,28532.54
-Tesla,Model Y,2002,255392,Diesel,Automatic,New,41508.52
-Toyota,Prius,2010,261278,Hybrid,Automatic,Used,10257.49
-Audi,A3,2000,166471,Hybrid,Manual,Like New,81937.8
-Toyota,RAV4,2022,244413,Petrol,Manual,Used,98496.67
-Honda,Accord,2012,188511,Petrol,Automatic,New,83282.78
-BMW,X5,2014,2369,Diesel,Automatic,New,57722.66
-Toyota,Prius,2004,228629,Hybrid,Automatic,Used,33051.79
-Audi,Q5,2020,262672,Petrol,Automatic,New,23781.3
-Honda,CR-V,2016,108806,Diesel,Manual,Used,39585.97
-Toyota,Camry,2022,161386,Diesel,Manual,Used,68362.11
-Ford,Explorer,2023,102979,Petrol,Manual,Used,47470.85
-Tesla,Model Y,2005,281892,Hybrid,Manual,New,93735.68
-BMW,3 Series,2020,35109,Electric,Manual,Like New,86150.93
-Toyota,Camry,2021,13919,Electric,Automatic,Used,14728.06
-Honda,Fit,2010,211864,Diesel,Manual,Like New,17494.9
-Ford,Focus,2017,70441,Electric,Automatic,New,69242.72
-Mercedes,E-Class,2003,66896,Electric,Automatic,New,26923.0
-Honda,Accord,2002,103431,Petrol,Automatic,Like New,80147.84
-Tesla,Model Y,2012,47020,Diesel,Manual,Used,61179.02
-Honda,CR-V,2022,205338,Hybrid,Automatic,New,26833.9
-Ford,Focus,2008,284305,Diesel,Manual,Used,50475.25
-Honda,CR-V,2020,27738,Petrol,Automatic,Used,43577.25
-Ford,Fiesta,2005,134997,Electric,Manual,Like New,87950.14
-Toyota,Corolla,2011,57153,Hybrid,Automatic,New,8055.44
-Ford,Fiesta,2001,214020,Diesel,Manual,Like New,90105.17
-Ford,Mustang,2002,61009,Electric,Automatic,New,66947.85
-BMW,5 Series,2002,172624,Diesel,Automatic,Like New,75066.13
-Ford,Mustang,2011,271941,Hybrid,Automatic,New,5247.71
-Ford,Focus,2014,71942,Diesel,Automatic,New,64682.75
-Mercedes,E-Class,2008,118065,Diesel,Manual,New,60906.19
-Toyota,Prius,2022,276109,Diesel,Manual,Used,56034.53
-Tesla,Model S,2007,275877,Electric,Manual,Used,79657.35
-BMW,X5,2010,157998,Hybrid,Automatic,Like New,57807.75
-Mercedes,C-Class,2015,159855,Hybrid,Automatic,Like New,86424.23
-Audi,Q7,2021,83360,Electric,Automatic,New,27099.99
-Toyota,Prius,2003,167466,Electric,Automatic,New,81568.35
-Toyota,Camry,2000,195868,Electric,Automatic,Used,22034.71
-Audi,A4,2023,290431,Petrol,Automatic,Used,82246.19
-Tesla,Model 3,2006,82104,Diesel,Manual,Used,94344.03
-Ford,Explorer,2001,161508,Diesel,Manual,Like New,36890.94
-Mercedes,GLC,2023,221404,Hybrid,Manual,Used,55339.2
-Honda,Fit,2004,265332,Diesel,Manual,Like New,67541.26
-BMW,5 Series,2006,91205,Petrol,Manual,Used,12549.81
-Honda,Civic,2003,232321,Electric,Manual,Used,51937.67
-Audi,A3,2004,137837,Hybrid,Manual,New,39255.57
-Toyota,RAV4,2023,219779,Hybrid,Manual,Like New,87883.28
-Tesla,Model S,2000,141879,Diesel,Automatic,Used,88284.55
-Toyota,Prius,2000,10204,Hybrid,Automatic,New,71574.06
-BMW,X5,2014,223674,Electric,Automatic,Like New,67293.83
-Toyota,Corolla,2019,189016,Hybrid,Automatic,Like New,74700.4
-Toyota,Prius,2018,102903,Electric,Automatic,Used,39768.76
-BMW,X3,2009,299225,Petrol,Automatic,Like New,43429.33
-Mercedes,E-Class,2017,256687,Petrol,Automatic,New,57601.95
-Mercedes,C-Class,2002,34986,Electric,Manual,New,94112.67
-BMW,3 Series,2010,50304,Diesel,Manual,Like New,73779.99
-Tesla,Model S,2014,39986,Hybrid,Automatic,New,57343.98
-Audi,A3,2010,91594,Diesel,Manual,Like New,78189.24
-Toyota,Camry,2016,66151,Hybrid,Manual,New,40234.58
-Tesla,Model S,2016,290358,Petrol,Manual,Like New,74394.34
-Toyota,Prius,2005,173620,Petrol,Manual,Like New,44014.24
-Audi,Q7,2004,141753,Petrol,Manual,Like New,31567.83
-Mercedes,C-Class,2007,138056,Hybrid,Automatic,New,62923.78
-Tesla,Model X,2001,158651,Petrol,Manual,Like New,70253.37
-Ford,Focus,2015,234347,Petrol,Automatic,Like New,48632.89
-Ford,Fiesta,2019,186005,Petrol,Automatic,Used,58722.57
-Ford,Fiesta,2023,162553,Petrol,Automatic,Used,70936.28
-Mercedes,C-Class,2011,944,Diesel,Manual,Like New,77932.45
-Mercedes,GLC,2005,93993,Petrol,Automatic,Used,90079.29
-Audi,A3,2000,271258,Petrol,Automatic,Like New,38681.7
-Toyota,Camry,2003,214738,Diesel,Automatic,Used,95390.34
-Audi,A4,2016,208920,Diesel,Automatic,New,65541.58
-Audi,A3,2012,256805,Hybrid,Manual,New,79831.68
-Mercedes,GLC,2017,294740,Electric,Automatic,Like New,71478.06
-Ford,Focus,2004,104087,Petrol,Automatic,Like New,24529.31
-Honda,Fit,2023,269051,Petrol,Automatic,New,11786.65
-Toyota,Corolla,2023,255035,Petrol,Automatic,New,73997.21
-Mercedes,C-Class,2002,159186,Hybrid,Manual,Used,53550.0
-Ford,Explorer,2010,287153,Petrol,Automatic,Like New,71710.27
-Tesla,Model S,2012,166797,Electric,Automatic,New,50300.07
-Honda,Civic,2003,281140,Diesel,Automatic,New,34662.28
-Honda,Accord,2013,290911,Hybrid,Automatic,Like New,32076.7
-Mercedes,GLC,2021,278491,Diesel,Automatic,Used,74400.55
-BMW,X3,2010,102063,Petrol,Automatic,Used,31294.11
-Toyota,Prius,2009,24102,Petrol,Manual,Used,72894.3
-Honda,Civic,2018,4263,Petrol,Automatic,Used,41476.21
-Mercedes,GLC,2017,67438,Electric,Manual,New,78235.35
-Mercedes,GLA,2005,96359,Electric,Manual,Like New,18566.94
-Ford,Mustang,2014,130251,Hybrid,Automatic,Like New,24473.09
-Tesla,Model S,2020,171915,Diesel,Manual,New,70161.6
-BMW,X3,2009,27690,Petrol,Automatic,New,58221.96
-Toyota,Corolla,2004,2994,Petrol,Manual,New,24368.44
-Audi,Q5,2004,103533,Petrol,Automatic,Like New,90768.57
-Tesla,Model 3,2009,67546,Petrol,Manual,Like New,31214.69
-Tesla,Model X,2004,26467,Electric,Manual,Like New,45001.78
-Ford,Explorer,2002,246590,Diesel,Automatic,Used,24217.35
-Honda,Fit,2022,131120,Diesel,Manual,New,41862.62
-Honda,Fit,2005,168050,Hybrid,Manual,New,51706.44
-Ford,Mustang,2003,73414,Electric,Manual,New,33048.47
-Mercedes,GLC,2017,180294,Petrol,Manual,Like New,78063.9
-Honda,Fit,2008,48115,Diesel,Manual,New,42423.63
-BMW,3 Series,2016,40647,Diesel,Automatic,New,74303.45
-Toyota,Corolla,2012,54607,Electric,Manual,Used,24671.86
-Tesla,Model X,2014,21996,Hybrid,Manual,Like New,40818.37
-Tesla,Model S,2019,83697,Hybrid,Automatic,New,5765.54
-BMW,5 Series,2016,67764,Petrol,Automatic,Like New,77070.57
-Honda,CR-V,2012,239190,Hybrid,Automatic,Like New,64459.23
-Tesla,Model Y,2015,8888,Diesel,Manual,Like New,82693.22
-Audi,A3,2021,219738,Hybrid,Manual,Used,48283.02
-Toyota,Prius,2003,221432,Petrol,Manual,Like New,80975.36
-Toyota,Prius,2004,279477,Diesel,Manual,Like New,66520.34
-Tesla,Model Y,2004,36355,Hybrid,Automatic,Like New,5343.23
-Ford,Explorer,2008,230487,Hybrid,Automatic,New,29100.96
-Tesla,Model Y,2016,129686,Electric,Manual,Used,51919.68
-Ford,Fiesta,2012,162217,Petrol,Manual,New,63775.3
-Tesla,Model 3,2001,249602,Hybrid,Manual,Used,11231.13
-Audi,Q7,2012,249434,Electric,Manual,Used,71982.59
-Mercedes,GLC,2021,180926,Diesel,Automatic,Like New,56635.93
-Toyota,Prius,2020,67664,Electric,Automatic,Like New,54949.03
-Tesla,Model Y,2022,86153,Electric,Manual,New,32744.33
-Audi,A4,2018,93616,Hybrid,Automatic,Used,61508.19
-Ford,Fiesta,2002,297429,Hybrid,Manual,Like New,7611.82
-Ford,Fiesta,2009,256349,Hybrid,Manual,Like New,11146.53
-Toyota,Corolla,2001,46996,Electric,Automatic,Like New,74717.66
-BMW,5 Series,2012,128344,Diesel,Manual,Like New,35579.68
-Tesla,Model X,2018,229685,Petrol,Automatic,New,37961.87
-Honda,CR-V,2016,128019,Electric,Manual,New,24796.59
-Ford,Fiesta,2020,135024,Hybrid,Automatic,Like New,47333.97
-Mercedes,E-Class,2013,183273,Petrol,Manual,Like New,9939.38
-Mercedes,GLC,2011,120454,Diesel,Automatic,Like New,33534.51
-Ford,Fiesta,2020,124444,Petrol,Manual,Like New,55076.77
-BMW,3 Series,2011,153868,Hybrid,Manual,Like New,49235.03
-BMW,3 Series,2010,162818,Electric,Automatic,Used,99968.62
-Audi,Q5,2006,15,Electric,Manual,Used,41932.64
-Mercedes,C-Class,2003,157029,Hybrid,Automatic,Used,41764.91
-Audi,A4,2018,81541,Electric,Automatic,Used,52840.27
-Mercedes,GLA,2000,21292,Hybrid,Manual,Like New,23078.8
-Tesla,Model S,2023,162948,Electric,Manual,Used,88248.92
-Tesla,Model X,2002,191799,Electric,Manual,Used,59365.44
-Honda,Accord,2012,47046,Electric,Manual,New,23250.23
-Tesla,Model X,2014,14817,Diesel,Automatic,Used,80376.95
-Honda,Civic,2001,9759,Diesel,Manual,Used,8261.56
-Tesla,Model 3,2010,179504,Hybrid,Manual,Like New,98343.6
-Toyota,Camry,2003,268556,Diesel,Manual,Used,87189.19
-Tesla,Model X,2018,282648,Hybrid,Automatic,Used,60065.75
-Audi,A4,2016,270651,Petrol,Manual,Like New,15573.09
-Ford,Explorer,2002,21050,Petrol,Automatic,Used,25450.91
-Audi,Q7,2017,100153,Diesel,Manual,Like New,31546.34
-Ford,Fiesta,2007,275731,Petrol,Automatic,Used,27898.02
-BMW,5 Series,2021,231329,Petrol,Manual,New,52264.4
-Audi,Q5,2023,57732,Electric,Manual,New,94733.24
-BMW,X5,2018,51921,Electric,Automatic,Used,47196.4
-Honda,Fit,2004,117734,Hybrid,Manual,New,67848.63
-Honda,Fit,2006,137912,Petrol,Manual,Like New,70415.4
-Toyota,Corolla,2020,31440,Hybrid,Manual,Used,87800.17
-Tesla,Model Y,2007,35183,Hybrid,Automatic,Like New,8213.02
-Audi,A4,2004,133461,Petrol,Manual,New,43411.36
-BMW,3 Series,2016,114515,Diesel,Automatic,Like New,79549.84
-Ford,Mustang,2004,220533,Petrol,Automatic,New,82412.37
-Honda,CR-V,2003,115503,Electric,Automatic,New,93096.6
-Tesla,Model 3,2021,39023,Petrol,Manual,New,71765.46
-Honda,CR-V,2018,181101,Diesel,Automatic,Like New,28289.62
-Ford,Explorer,2020,218031,Hybrid,Automatic,New,53038.25
-Tesla,Model 3,2001,76054,Hybrid,Manual,Used,8072.8
-Tesla,Model 3,2010,61742,Electric,Automatic,New,66458.19
-BMW,X3,2021,45215,Electric,Automatic,Used,57658.05
-BMW,3 Series,2012,159245,Electric,Manual,Used,68349.45
-Audi,A3,2014,241443,Hybrid,Manual,Used,93363.35
-Audi,Q5,2011,103591,Electric,Automatic,Used,70291.28
-Mercedes,GLC,2021,249045,Petrol,Manual,Like New,35442.74
-Mercedes,C-Class,2020,46229,Hybrid,Manual,Used,23879.98
-Toyota,Camry,2021,62583,Diesel,Manual,New,86190.44
-Honda,Fit,2010,255931,Hybrid,Automatic,Used,23461.55
-Audi,A3,2006,159996,Petrol,Automatic,New,20352.91
-BMW,3 Series,2004,126011,Petrol,Manual,Like New,24628.15
-Ford,Explorer,2016,292248,Electric,Automatic,Used,53339.88
-BMW,5 Series,2023,240660,Hybrid,Manual,New,16797.81
-Honda,CR-V,2019,299738,Hybrid,Manual,Like New,94121.24
-Mercedes,C-Class,2008,265808,Hybrid,Manual,Like New,96794.1
-BMW,X3,2013,272672,Diesel,Manual,New,97511.18
-Toyota,Corolla,2011,159262,Electric,Manual,Used,8716.86
-Honda,Civic,2005,197105,Petrol,Automatic,Like New,94888.77
-Mercedes,E-Class,2016,204249,Petrol,Automatic,New,99754.42
-Ford,Explorer,2018,128404,Electric,Automatic,Used,94530.77
-Mercedes,GLA,2018,201664,Petrol,Automatic,Like New,68739.2
-Tesla,Model Y,2015,295043,Petrol,Manual,New,71616.86
-Toyota,Corolla,2011,17241,Electric,Manual,Like New,16614.03
-Honda,CR-V,2011,63472,Petrol,Automatic,Like New,88058.22
-Ford,Mustang,2019,205320,Hybrid,Automatic,New,10665.76
-Toyota,RAV4,2005,31346,Diesel,Manual,Like New,35184.4
-Mercedes,E-Class,2022,81196,Electric,Manual,New,99159.41
-Toyota,Corolla,2003,208196,Diesel,Manual,Used,45121.15
-Honda,Fit,2005,149014,Petrol,Automatic,New,17459.84
-Audi,A3,2010,298517,Petrol,Manual,Used,97082.99
-Toyota,RAV4,2000,120623,Hybrid,Manual,Like New,98493.27
-Tesla,Model S,2023,2016,Electric,Automatic,New,22769.06
-Toyota,Camry,2022,7274,Petrol,Automatic,New,87156.36
-Mercedes,GLC,2014,15748,Electric,Automatic,New,42090.22
-Mercedes,C-Class,2010,11826,Electric,Manual,New,41230.0
-Ford,Mustang,2018,129288,Electric,Manual,Used,29956.28
-Mercedes,E-Class,2017,201081,Electric,Automatic,Used,9247.48
-BMW,5 Series,2016,251054,Electric,Manual,Like New,30460.85
-Honda,Fit,2018,172507,Diesel,Manual,Like New,10108.81
-Honda,Fit,2020,206089,Hybrid,Manual,Like New,92815.34
-Audi,Q7,2013,223023,Electric,Automatic,Like New,67863.46
-Audi,Q7,2017,192949,Diesel,Automatic,New,89229.15
-Honda,Accord,2018,69072,Petrol,Manual,Used,73142.61
-Tesla,Model S,2014,67309,Electric,Manual,Used,17472.25
-Audi,Q7,2014,160966,Petrol,Manual,Used,94355.25
-Ford,Fiesta,2003,185639,Electric,Manual,Used,90489.84
-Mercedes,GLA,2006,35326,Diesel,Automatic,Like New,38067.23
-Honda,CR-V,2012,186131,Diesel,Automatic,New,15595.67
-Audi,Q5,2002,267223,Diesel,Manual,Used,71894.7
-Honda,CR-V,2015,87340,Hybrid,Manual,New,74194.32
-BMW,3 Series,2008,167364,Petrol,Automatic,New,90198.76
-Toyota,RAV4,2007,118192,Hybrid,Manual,New,10002.3
-Mercedes,GLC,2019,251749,Electric,Automatic,New,18461.86
-Honda,Civic,2012,51818,Petrol,Manual,Used,61833.64
-Toyota,RAV4,2016,13429,Diesel,Automatic,Used,63817.5
-Audi,Q5,2016,57748,Petrol,Manual,Used,8192.92
-Toyota,RAV4,2016,48807,Diesel,Manual,Like New,42708.54
-Mercedes,GLA,2000,269284,Hybrid,Automatic,Used,60495.36
-Honda,Fit,2007,238161,Hybrid,Automatic,Like New,75101.58
-BMW,X5,2018,290669,Diesel,Manual,Like New,35034.32
-Tesla,Model X,2005,282635,Diesel,Manual,Like New,50970.83
-Audi,A4,2002,199888,Electric,Automatic,Used,82335.21
-Honda,Civic,2004,166052,Hybrid,Automatic,Used,95620.03
-Mercedes,C-Class,2012,226597,Hybrid,Manual,Used,26879.89
-Audi,A4,2014,8078,Electric,Manual,Like New,29039.01
-Ford,Mustang,2013,91654,Hybrid,Automatic,Like New,94282.73
-Toyota,RAV4,2022,129101,Diesel,Automatic,New,42611.56
-Tesla,Model 3,2015,16997,Petrol,Automatic,Like New,73243.09
-Mercedes,C-Class,2017,131940,Petrol,Automatic,Like New,63165.2
-Ford,Fiesta,2021,212650,Hybrid,Automatic,Used,32130.83
-Honda,CR-V,2021,283390,Electric,Manual,New,67088.41
-BMW,X5,2010,151633,Diesel,Manual,New,67278.76
-Audi,A4,2002,34512,Petrol,Automatic,New,61282.1
-Toyota,Prius,2021,225226,Diesel,Manual,Used,14467.78
-Audi,A3,2009,208467,Hybrid,Manual,New,99541.32
-Tesla,Model X,2009,72144,Hybrid,Automatic,New,43039.56
-Honda,CR-V,2020,173557,Petrol,Manual,Used,65633.84
-Audi,A4,2015,117363,Hybrid,Manual,New,89147.36
-Toyota,Prius,2011,201484,Electric,Manual,Like New,45212.41
-Honda,CR-V,2001,181675,Hybrid,Automatic,Like New,78522.88
-Audi,A3,2008,152110,Hybrid,Automatic,Like New,97323.32
-BMW,5 Series,2023,93542,Hybrid,Manual,Like New,39098.8
-Mercedes,C-Class,2002,276469,Diesel,Manual,Like New,43500.61
-Honda,Accord,2023,166964,Diesel,Manual,Like New,91029.73
-Mercedes,GLA,2014,149068,Petrol,Manual,Like New,20166.07
-Honda,Civic,2002,205355,Petrol,Manual,Like New,7716.51
-BMW,3 Series,2018,116737,Petrol,Manual,Like New,91344.46
-Mercedes,GLC,2017,262968,Hybrid,Automatic,Used,83051.2
-Ford,Explorer,2007,240417,Diesel,Manual,Used,97395.39
-Toyota,RAV4,2016,117718,Electric,Manual,Like New,10532.59
-Ford,Mustang,2007,273661,Hybrid,Automatic,Used,19836.85
-Audi,A4,2006,152755,Hybrid,Manual,Used,15004.69
-BMW,X3,2006,207791,Hybrid,Manual,Like New,69924.53
-Ford,Mustang,2002,249120,Electric,Manual,Like New,62570.96
-Honda,Civic,2000,254322,Petrol,Manual,Used,39136.84
-Audi,A3,2003,209485,Electric,Automatic,Like New,10455.23
-Audi,A3,2004,272126,Petrol,Manual,Like New,65767.89
-Ford,Fiesta,2000,145711,Electric,Automatic,Like New,59161.45
-Ford,Focus,2014,70210,Diesel,Manual,Like New,15725.81
-BMW,X5,2004,69852,Hybrid,Manual,Used,91346.42
-Toyota,Corolla,2012,255139,Hybrid,Automatic,New,23900.22
-Ford,Mustang,2007,9695,Hybrid,Manual,Used,75633.37
-Tesla,Model X,2007,48582,Petrol,Automatic,New,89082.21
-Ford,Mustang,2004,293238,Electric,Automatic,New,60050.12
-Mercedes,E-Class,2008,191707,Diesel,Automatic,New,28450.65
-Honda,Civic,2000,284331,Electric,Manual,Used,34378.61
-Tesla,Model S,2003,128721,Hybrid,Manual,Used,89146.02
-Tesla,Model X,2002,106683,Diesel,Manual,Used,33334.43
-Mercedes,GLA,2001,263358,Diesel,Manual,Used,75888.1
-Mercedes,GLC,2007,286084,Hybrid,Automatic,Used,99065.7
-Audi,A3,2022,44406,Electric,Manual,New,99982.59
-Toyota,Corolla,2008,147049,Hybrid,Manual,Used,55680.58
-Honda,Fit,2001,235994,Electric,Automatic,New,83522.8
-BMW,5 Series,2013,187313,Diesel,Automatic,Used,99073.74
-Tesla,Model 3,2013,204573,Diesel,Manual,Used,40593.92
-BMW,X5,2003,206205,Hybrid,Automatic,Like New,28978.91
-Ford,Explorer,2005,60481,Diesel,Automatic,New,15852.17
-Ford,Mustang,2010,238084,Petrol,Automatic,Used,18385.47
-BMW,X3,2002,289884,Diesel,Automatic,Used,86087.85
-Ford,Explorer,2007,274025,Petrol,Automatic,Used,60928.69
-Toyota,Camry,2002,299140,Diesel,Manual,Like New,88002.37
-Mercedes,E-Class,2013,163249,Hybrid,Manual,New,79998.23
-Ford,Focus,2012,122196,Hybrid,Manual,Used,69005.74
-Audi,A4,2012,37177,Petrol,Manual,Used,62884.66
-Ford,Mustang,2001,66126,Hybrid,Manual,Used,9592.2
-Honda,Fit,2012,26119,Diesel,Manual,Like New,87866.14
-Toyota,Corolla,2018,117744,Diesel,Manual,Used,44695.0
-Honda,CR-V,2005,116894,Hybrid,Automatic,New,58179.75
-Honda,Accord,2015,158987,Diesel,Manual,New,7085.58
-Audi,A4,2001,44989,Electric,Manual,New,93926.98
-Toyota,RAV4,2007,284250,Electric,Manual,New,90760.34
-Toyota,Prius,2016,279275,Diesel,Automatic,Used,56611.41
-Toyota,Corolla,2022,6553,Hybrid,Manual,Like New,59844.61
-Toyota,Prius,2001,17881,Petrol,Manual,Like New,71976.64
-Toyota,Prius,2009,1379,Hybrid,Automatic,Like New,30146.02
-Audi,A4,2015,69306,Petrol,Manual,Used,26081.98
-Ford,Focus,2005,243825,Hybrid,Manual,Like New,69032.18
-Honda,Civic,2001,104512,Diesel,Automatic,New,14920.13
-Toyota,RAV4,2001,278494,Electric,Manual,Used,48135.89
-Tesla,Model S,2012,99599,Hybrid,Automatic,Like New,51812.24
-Ford,Fiesta,2023,81397,Petrol,Manual,New,41227.01
-Ford,Explorer,2014,17769,Electric,Manual,New,22600.48
-Honda,Accord,2001,178321,Petrol,Manual,Used,38755.05
-Audi,Q5,2006,101584,Diesel,Automatic,Used,37067.94
-BMW,5 Series,2002,133858,Electric,Automatic,Like New,52430.24
-BMW,3 Series,2007,231609,Petrol,Automatic,Like New,69094.68
-Ford,Fiesta,2022,126525,Hybrid,Manual,Like New,96982.34
-Mercedes,E-Class,2013,36303,Diesel,Manual,Used,18695.51
-Mercedes,C-Class,2023,19589,Diesel,Automatic,Like New,87936.63
-Honda,Accord,2022,265026,Diesel,Automatic,Like New,31996.91
-BMW,X5,2021,180394,Hybrid,Manual,New,61180.41
-Ford,Mustang,2006,129236,Hybrid,Manual,New,56940.01
-Audi,A3,2020,271889,Electric,Manual,New,57910.1
-BMW,3 Series,2006,15861,Hybrid,Manual,Like New,73719.07
-Ford,Mustang,2000,91707,Electric,Automatic,Used,41260.39
-Ford,Mustang,2016,255043,Diesel,Manual,New,35314.5
-Toyota,Camry,2008,133909,Electric,Manual,Used,86019.28
-Audi,A4,2020,54380,Petrol,Manual,Like New,25909.03
-Toyota,Corolla,2012,105025,Diesel,Manual,Like New,22123.37
-Honda,Civic,2020,180903,Diesel,Manual,New,6482.71
-Toyota,Corolla,2018,220421,Electric,Manual,Used,25004.89
-Tesla,Model 3,2020,244497,Diesel,Manual,New,54260.49
-Toyota,Camry,2018,160592,Hybrid,Automatic,Like New,56158.34
-Tesla,Model S,2021,44397,Petrol,Automatic,Used,29169.95
-BMW,5 Series,2016,277132,Electric,Automatic,New,11866.05
-Mercedes,GLC,2022,158795,Electric,Manual,Like New,75740.88
-Ford,Fiesta,2022,33800,Diesel,Automatic,New,77007.66
-Tesla,Model 3,2009,158502,Hybrid,Manual,Used,99794.46
-Audi,Q7,2009,199548,Diesel,Manual,Used,90502.81
-Toyota,Camry,2003,257653,Diesel,Manual,Used,92975.9
-Tesla,Model 3,2007,52284,Electric,Manual,Used,80829.36
-Audi,A4,2021,56232,Diesel,Automatic,Used,63472.77
-Mercedes,E-Class,2019,44420,Petrol,Manual,New,17211.87
-Mercedes,GLA,2019,299854,Diesel,Manual,New,64119.76
-Toyota,Camry,2017,92035,Diesel,Automatic,New,10315.81
-Honda,CR-V,2013,293427,Electric,Automatic,New,89103.42
-Toyota,Corolla,2017,197241,Diesel,Automatic,Like New,50773.03
-BMW,3 Series,2013,193529,Hybrid,Manual,Like New,71259.92
-Tesla,Model X,2019,249863,Electric,Automatic,New,9963.15
-Ford,Explorer,2020,25968,Diesel,Manual,Like New,55753.6
-Honda,Fit,2023,62508,Petrol,Manual,Like New,33620.02
-Toyota,Camry,2014,235863,Petrol,Automatic,Used,32071.99
-Audi,Q7,2021,194292,Electric,Automatic,New,42017.31
-Honda,Accord,2003,85366,Electric,Automatic,Like New,5060.75
-Tesla,Model 3,2012,5738,Diesel,Manual,Like New,49332.78
-Honda,Civic,2022,3098,Hybrid,Manual,New,51223.83
-Tesla,Model X,2007,95424,Diesel,Manual,Used,86997.44
-Toyota,Prius,2017,204705,Petrol,Manual,New,47609.93
-Tesla,Model X,2011,78672,Hybrid,Manual,Used,39537.85
-Honda,Civic,2022,139325,Hybrid,Manual,Like New,99500.97
-Audi,Q7,2013,125349,Hybrid,Automatic,Used,59265.27
-Mercedes,GLA,2001,50969,Diesel,Manual,Used,49898.25
-Honda,Fit,2017,90744,Petrol,Automatic,New,52113.9
-Tesla,Model 3,2023,201495,Electric,Automatic,Like New,81872.22
-Mercedes,C-Class,2001,117286,Diesel,Automatic,New,37364.26
-Tesla,Model 3,2010,75028,Electric,Automatic,New,41970.24
-Audi,A3,2008,297565,Hybrid,Automatic,Like New,76807.97
-Tesla,Model 3,2011,38575,Hybrid,Manual,New,11933.46
-Toyota,RAV4,2016,3192,Diesel,Manual,New,87191.07
-Ford,Fiesta,2014,111116,Petrol,Manual,Used,45869.26
-Honda,Fit,2016,81311,Hybrid,Manual,New,60222.83
-Ford,Fiesta,2017,80781,Electric,Automatic,Like New,76960.24
-Tesla,Model Y,2021,36527,Electric,Automatic,New,30274.93
-Audi,A4,2005,52181,Diesel,Automatic,Used,89579.85
-Honda,Accord,2016,91472,Electric,Manual,New,98026.37
-Tesla,Model Y,2022,81219,Petrol,Manual,New,51956.06
-Mercedes,E-Class,2023,119783,Hybrid,Manual,New,94009.05
-BMW,X5,2017,161554,Electric,Manual,Used,5107.22
-Tesla,Model Y,2007,179300,Electric,Automatic,Like New,89952.59
-Ford,Fiesta,2008,83265,Hybrid,Automatic,Like New,34549.31
-Honda,Civic,2005,50126,Diesel,Manual,Used,34592.07
-Ford,Explorer,2004,282689,Electric,Manual,Used,26668.44
-Honda,CR-V,2011,55114,Diesel,Automatic,New,35116.32
-Tesla,Model X,2010,206422,Diesel,Automatic,Like New,25281.04
-Toyota,Corolla,2000,188873,Electric,Automatic,Used,91057.57
-Mercedes,GLC,2010,276034,Petrol,Automatic,Like New,90407.25
-Tesla,Model S,2018,121284,Diesel,Manual,New,14710.07
-Ford,Fiesta,2008,194469,Electric,Automatic,Used,18571.55
-BMW,5 Series,2001,142290,Diesel,Automatic,Like New,86891.77
-BMW,X3,2011,88241,Hybrid,Automatic,Like New,42899.09
-Audi,Q7,2003,296866,Petrol,Automatic,New,21080.81
-Honda,CR-V,2003,182615,Petrol,Manual,Used,53513.59
-Ford,Fiesta,2017,30921,Hybrid,Manual,Like New,44583.46
-Audi,A3,2014,161686,Hybrid,Manual,New,25820.35
-Ford,Focus,2018,192261,Diesel,Manual,Like New,73471.46
-Honda,Fit,2012,17601,Hybrid,Manual,New,64972.48
-Tesla,Model X,2018,93332,Petrol,Manual,Like New,14467.85
-Tesla,Model 3,2016,202615,Hybrid,Automatic,Like New,92911.74
-BMW,5 Series,2005,235572,Electric,Automatic,New,58054.65
-Tesla,Model X,2015,290144,Electric,Automatic,Used,28769.43
-Tesla,Model 3,2023,130439,Diesel,Automatic,New,24597.72
-Toyota,RAV4,2011,239691,Petrol,Manual,Used,17915.06
-BMW,X5,2018,119277,Electric,Automatic,Like New,45340.55
-Audi,A3,2004,292527,Hybrid,Manual,Like New,17876.4
-Mercedes,GLA,2016,142857,Electric,Automatic,New,44502.56
-Toyota,Prius,2022,40910,Electric,Automatic,New,19133.19
-Audi,Q5,2000,170100,Diesel,Automatic,Used,67396.71
-Honda,Accord,2023,155927,Hybrid,Manual,Used,79597.99
-Toyota,Camry,2022,286425,Hybrid,Automatic,Used,57204.66
-Audi,A4,2009,4841,Hybrid,Manual,New,69605.4
-Honda,Fit,2014,97204,Diesel,Manual,Like New,94145.98
-BMW,3 Series,2022,60155,Hybrid,Automatic,New,65645.3
-Mercedes,E-Class,2020,259589,Hybrid,Manual,Like New,39595.03
-Honda,Civic,2020,261140,Electric,Manual,New,47700.62
-Tesla,Model Y,2010,148515,Electric,Automatic,New,86749.9
-Ford,Fiesta,2012,132994,Hybrid,Automatic,Used,17418.43
-Honda,Accord,2004,294120,Petrol,Automatic,Like New,35945.02
-Honda,CR-V,2000,143063,Petrol,Automatic,New,59841.61
-Mercedes,GLC,2023,104405,Hybrid,Automatic,New,69257.01
-Ford,Focus,2011,53744,Petrol,Automatic,Like New,77532.41
-Tesla,Model 3,2010,2473,Diesel,Manual,New,35229.65
-Audi,A3,2016,139180,Electric,Automatic,Like New,18856.62
-Audi,A3,2003,28715,Diesel,Automatic,Used,95709.72
-Honda,Civic,2014,244826,Electric,Manual,Used,12257.26
-Ford,Mustang,2008,253856,Petrol,Automatic,Like New,14101.51
-Ford,Fiesta,2020,239419,Petrol,Manual,Used,52019.54
-Tesla,Model S,2019,252508,Hybrid,Automatic,Like New,82830.75
-Mercedes,E-Class,2018,299461,Petrol,Automatic,New,78577.89
-BMW,X5,2018,164434,Petrol,Manual,New,94081.43
-Audi,A4,2011,54604,Hybrid,Automatic,Like New,18452.24
-Mercedes,C-Class,2004,4889,Hybrid,Manual,New,40694.09
-Toyota,Prius,2009,220629,Electric,Automatic,Used,31803.5
-Audi,Q7,2016,294115,Petrol,Automatic,New,86782.66
-Mercedes,C-Class,2004,50551,Electric,Manual,New,51393.69
-Audi,Q7,2021,134273,Electric,Automatic,Like New,7550.55
-BMW,3 Series,2015,237230,Diesel,Automatic,Used,72256.62
-Toyota,Camry,2006,236139,Petrol,Manual,New,41926.32
-BMW,5 Series,2008,108957,Petrol,Automatic,New,55458.94
-Tesla,Model X,2002,89882,Diesel,Manual,Like New,89909.81
-Toyota,RAV4,2014,210323,Electric,Automatic,Like New,29390.09
-Honda,Accord,2015,267825,Petrol,Manual,Used,27825.14
-Mercedes,E-Class,2017,101982,Electric,Automatic,New,30003.29
-Toyota,Prius,2013,46870,Diesel,Manual,Like New,37120.26
-Tesla,Model X,2002,213328,Hybrid,Manual,Like New,15198.63
-Tesla,Model Y,2011,159224,Electric,Automatic,Like New,71235.87
-BMW,3 Series,2008,50061,Petrol,Automatic,Used,24702.88
-Audi,A4,2006,188691,Hybrid,Manual,Like New,92983.85
-Toyota,Corolla,2008,58235,Electric,Automatic,Used,25490.2
-Mercedes,C-Class,2012,90073,Electric,Manual,Used,29285.99
-Toyota,RAV4,2017,11217,Hybrid,Automatic,New,33216.92
-Ford,Mustang,2004,295885,Hybrid,Automatic,New,78011.12
-Audi,Q5,2012,192386,Hybrid,Manual,Used,45622.62
-Mercedes,GLC,2003,263552,Petrol,Manual,New,82836.79
-Mercedes,GLA,2001,42903,Petrol,Automatic,New,79561.1
-Honda,Accord,2015,215280,Electric,Automatic,Like New,93301.59
-BMW,3 Series,2008,107042,Electric,Automatic,New,76877.39
-Honda,CR-V,2008,243725,Diesel,Automatic,Used,9931.56
-Mercedes,E-Class,2005,132290,Petrol,Automatic,New,84541.72
-Audi,Q5,2010,181644,Electric,Manual,Like New,94116.9
-Toyota,Camry,2021,109268,Hybrid,Automatic,Used,99400.47
-Toyota,Corolla,2023,30105,Hybrid,Automatic,New,16900.42
-Audi,A4,2021,69634,Petrol,Manual,Used,63260.96
-Mercedes,E-Class,2000,138691,Hybrid,Manual,New,23948.57
-Tesla,Model 3,2003,18226,Diesel,Manual,Like New,29938.42
-Toyota,Corolla,2012,25322,Electric,Automatic,New,75830.51
-Tesla,Model Y,2022,167284,Electric,Manual,Used,97878.43
-Toyota,RAV4,2012,94835,Electric,Manual,Used,61511.27
-Toyota,RAV4,2012,255027,Petrol,Manual,Used,85805.52
-BMW,X5,2001,73079,Hybrid,Manual,New,5843.96
-BMW,X5,2008,23946,Diesel,Automatic,New,8480.01
-Ford,Focus,2023,162812,Petrol,Automatic,New,61688.81
-Honda,Civic,2007,7253,Electric,Automatic,Like New,41953.39
-Audi,Q7,2006,79311,Diesel,Manual,Like New,89526.99
-Audi,Q5,2003,294957,Electric,Manual,Like New,33688.28
-Audi,Q5,2017,67593,Electric,Manual,Used,46044.85
-Ford,Focus,2002,149485,Petrol,Manual,Used,55151.37
-BMW,X3,2005,226833,Electric,Manual,Used,30938.69
-Mercedes,E-Class,2011,38485,Diesel,Manual,Used,91307.01
-Tesla,Model X,2011,199304,Electric,Automatic,Used,49130.69
-Tesla,Model Y,2020,278245,Hybrid,Automatic,New,45294.78
-Mercedes,GLC,2007,8831,Electric,Manual,Used,85726.54
-Ford,Explorer,2021,5004,Petrol,Automatic,New,34637.95
-Mercedes,GLA,2021,37170,Diesel,Manual,Like New,82659.21
-Audi,A3,2000,43555,Petrol,Manual,Like New,16615.92
-Honda,CR-V,2003,118115,Hybrid,Automatic,Like New,22364.91
-Toyota,Corolla,2020,178475,Electric,Manual,Like New,95329.96
-Tesla,Model 3,2010,298509,Petrol,Automatic,Like New,85032.51
-BMW,5 Series,2002,207132,Petrol,Manual,Used,41850.4
-BMW,3 Series,2012,63471,Petrol,Manual,Used,65653.36
-Ford,Focus,2016,57287,Petrol,Automatic,Used,94582.17
-BMW,X3,2021,116475,Hybrid,Manual,Like New,25126.6
-Audi,A4,2021,50151,Hybrid,Manual,Like New,10605.99
-Tesla,Model X,2009,67384,Electric,Manual,New,56059.47
-Mercedes,E-Class,2020,33541,Electric,Automatic,Used,18546.7
-Audi,A3,2011,72847,Diesel,Manual,Like New,22795.31
-Ford,Focus,2014,218171,Hybrid,Manual,Like New,89696.22
-Audi,Q5,2020,211811,Petrol,Manual,Like New,5703.33
-Mercedes,C-Class,2009,213739,Petrol,Automatic,New,82597.9
-Honda,Fit,2013,167813,Diesel,Automatic,Like New,54110.32
-Ford,Fiesta,2012,99919,Petrol,Automatic,New,58132.97
-Honda,CR-V,2004,216746,Diesel,Automatic,New,68817.96
-Toyota,Corolla,2005,194020,Electric,Automatic,Used,45987.27
-Honda,Fit,2023,61768,Hybrid,Manual,Like New,15983.13
-Toyota,RAV4,2001,43262,Diesel,Automatic,New,14767.92
-Toyota,Corolla,2021,20605,Petrol,Automatic,Like New,76664.41
-Honda,CR-V,2016,78590,Diesel,Manual,Used,25998.34
-Ford,Fiesta,2003,290375,Electric,Automatic,Used,7669.66
-Mercedes,GLC,2013,79397,Petrol,Manual,New,98063.32
-Audi,Q7,2009,77123,Electric,Automatic,Used,98137.19
-Audi,A3,2002,275659,Electric,Manual,Used,40923.43
-Mercedes,C-Class,2002,278744,Diesel,Manual,Used,7424.77
-Tesla,Model S,2014,158964,Electric,Automatic,Like New,74090.14
-Tesla,Model X,2005,168767,Petrol,Automatic,Like New,83946.15
-Toyota,Camry,2016,135501,Electric,Manual,New,16876.3
-Toyota,Corolla,2011,135678,Electric,Manual,New,17868.57
-Ford,Mustang,2021,114380,Diesel,Manual,Used,83111.28
-BMW,5 Series,2019,171206,Electric,Manual,Used,92581.2
-Honda,Fit,2023,156547,Hybrid,Manual,New,80121.71
-Toyota,Prius,2010,152802,Diesel,Manual,Used,24070.77
-Audi,A3,2003,152185,Diesel,Manual,New,44094.52
-Ford,Fiesta,2005,151083,Petrol,Automatic,Like New,62080.03
-Honda,Fit,2000,55746,Petrol,Manual,Used,20227.88
-Ford,Explorer,2019,173925,Petrol,Automatic,Used,25007.24
-Honda,Civic,2022,298962,Petrol,Automatic,Used,31874.18
-Honda,CR-V,2015,168393,Hybrid,Manual,Like New,53403.76
-Mercedes,GLA,2014,283453,Diesel,Manual,Like New,53526.46
-Toyota,Camry,2016,290320,Electric,Automatic,Used,82357.98
-Ford,Mustang,2007,68879,Petrol,Manual,New,76535.97
-Ford,Focus,2011,67592,Petrol,Manual,Like New,91804.89
-Mercedes,GLC,2021,220084,Petrol,Automatic,Used,84125.66
-Audi,A3,2020,197494,Electric,Automatic,Used,29118.37
-Audi,Q5,2009,270728,Petrol,Automatic,Like New,36473.19
-Tesla,Model 3,2014,124555,Electric,Manual,New,52540.21
-Toyota,RAV4,2008,18830,Diesel,Manual,Used,6355.76
-Toyota,Corolla,2001,216897,Diesel,Automatic,New,90870.69
-BMW,5 Series,2004,252234,Diesel,Manual,New,9212.7
-Mercedes,GLA,2005,265735,Hybrid,Automatic,Like New,35631.92
-Audi,A3,2006,93878,Electric,Manual,Used,59071.61
-Honda,Civic,2020,125407,Petrol,Automatic,Used,54194.93
-Ford,Fiesta,2000,116869,Petrol,Manual,New,67173.69
-Toyota,Camry,2022,257716,Petrol,Automatic,Like New,55114.42
-Ford,Explorer,2006,283539,Petrol,Manual,Like New,26755.14
-Ford,Fiesta,2019,16738,Hybrid,Manual,Like New,24102.43
-BMW,X3,2011,133703,Petrol,Automatic,New,91188.47
-Audi,Q7,2015,148977,Hybrid,Manual,New,30076.84
-Toyota,Corolla,2015,19056,Electric,Manual,Used,31692.84
-Ford,Focus,2010,240746,Diesel,Automatic,Like New,44230.53
-Toyota,Prius,2020,115316,Petrol,Manual,New,18246.64
-Honda,Fit,2003,166519,Diesel,Manual,Like New,53190.92
-BMW,X3,2012,54418,Electric,Manual,New,68178.02
-Honda,CR-V,2006,299334,Electric,Automatic,Used,79670.05
-Toyota,Corolla,2003,26014,Petrol,Automatic,Like New,72588.15
-Tesla,Model S,2014,204071,Electric,Automatic,New,19025.42
-Toyota,RAV4,2018,238989,Diesel,Automatic,Like New,48326.38
-Audi,A3,2008,181350,Petrol,Automatic,New,8665.69
-Ford,Fiesta,2010,263924,Hybrid,Manual,New,6690.81
-Ford,Mustang,2007,190330,Petrol,Manual,New,46812.39
-Honda,Accord,2000,42192,Diesel,Automatic,Like New,29031.25
-BMW,3 Series,2022,43923,Petrol,Manual,New,69919.28
-Tesla,Model X,2023,89196,Petrol,Manual,Used,73802.87
-Mercedes,GLC,2007,2395,Diesel,Manual,Like New,90063.35
-Ford,Fiesta,2012,228456,Petrol,Manual,Used,77264.84
-Audi,A4,2021,71028,Petrol,Automatic,Used,9583.19
-Honda,CR-V,2003,242463,Diesel,Automatic,Like New,40304.19
-Honda,Accord,2007,141056,Electric,Manual,New,30937.22
-Mercedes,E-Class,2002,203400,Diesel,Manual,Used,41682.58
-Audi,Q5,2008,255315,Petrol,Automatic,Like New,20207.19
-BMW,3 Series,2001,289068,Hybrid,Manual,New,14281.89
-Audi,Q7,2001,294721,Hybrid,Manual,Like New,54493.53
-BMW,X3,2012,138783,Diesel,Manual,Like New,73436.22
-Audi,A4,2014,85548,Hybrid,Automatic,Like New,71681.54
-Audi,Q5,2022,257288,Petrol,Automatic,New,47839.71
-Toyota,Prius,2011,125093,Petrol,Manual,Used,54616.5
-Honda,Accord,2003,235835,Diesel,Manual,Used,54051.23
-Audi,Q5,2007,206084,Petrol,Manual,Like New,70699.19
-Mercedes,GLA,2008,270398,Electric,Manual,Like New,9552.89
-Audi,A4,2022,229027,Petrol,Manual,New,72440.13
-Ford,Mustang,2004,208072,Diesel,Manual,Like New,60309.09
-Honda,Accord,2023,248029,Electric,Automatic,Like New,23820.33
-Ford,Mustang,2019,209047,Electric,Automatic,Like New,9660.59
-Honda,CR-V,2017,130509,Hybrid,Manual,Used,15310.14
-Ford,Fiesta,2010,237784,Petrol,Automatic,Like New,54845.68
-Audi,A4,2014,295107,Diesel,Manual,Used,77048.81
-Audi,A3,2021,3273,Hybrid,Manual,New,36792.44
-Toyota,Prius,2008,15330,Hybrid,Automatic,New,41016.77
-Mercedes,E-Class,2016,152566,Petrol,Automatic,Used,93743.91
-Ford,Focus,2011,76422,Petrol,Manual,Used,25236.24
-BMW,5 Series,2006,3212,Diesel,Manual,Used,14856.2
-Toyota,RAV4,2009,232131,Hybrid,Automatic,Used,37623.96
-Ford,Mustang,2009,87594,Diesel,Automatic,Like New,75862.6
-Ford,Mustang,2012,132152,Hybrid,Manual,Used,64477.34
-Toyota,Prius,2018,294819,Hybrid,Manual,Used,44500.57
-Audi,Q5,2010,22007,Hybrid,Manual,Used,96651.49
-Ford,Explorer,2012,113805,Petrol,Automatic,Like New,74824.66
-Audi,A4,2020,95815,Hybrid,Manual,Like New,10876.84
-Toyota,Camry,2007,262783,Hybrid,Automatic,Like New,75739.99
-Audi,A4,2007,78038,Hybrid,Manual,New,7283.66
-Honda,Accord,2003,265880,Electric,Automatic,Like New,66780.72
-BMW,5 Series,2014,253506,Petrol,Automatic,Used,24995.87
-Tesla,Model S,2010,16473,Electric,Automatic,Like New,71162.01
-Ford,Focus,2010,128771,Petrol,Automatic,Like New,34429.06
-Mercedes,GLC,2000,125801,Diesel,Manual,Used,87935.6
-BMW,X3,2016,86623,Electric,Automatic,Like New,37006.81
-Tesla,Model S,2014,225097,Diesel,Automatic,New,63871.11
-Audi,A4,2019,298964,Hybrid,Automatic,Like New,32163.12
-Ford,Fiesta,2005,215933,Diesel,Manual,New,92136.05
-Audi,Q5,2023,196879,Diesel,Manual,New,79194.62
-Honda,Fit,2021,280558,Diesel,Manual,New,28113.77
-Toyota,RAV4,2014,24220,Diesel,Manual,Used,95135.69
-Ford,Focus,2008,60531,Petrol,Manual,Like New,38929.97
-Tesla,Model X,2013,173497,Electric,Manual,New,66927.17
-Tesla,Model Y,2017,9387,Petrol,Automatic,New,75571.06
-Honda,Fit,2016,245752,Petrol,Automatic,Like New,7175.71
-Honda,Fit,2017,76815,Petrol,Automatic,Used,96101.9
-Ford,Explorer,2004,27584,Diesel,Manual,Used,37721.92
-Audi,Q7,2019,44783,Petrol,Automatic,New,23028.99
-Mercedes,E-Class,2019,170881,Electric,Automatic,Used,85817.24
-Tesla,Model Y,2008,185399,Petrol,Manual,Like New,71775.43
-Tesla,Model S,2010,124494,Hybrid,Automatic,Used,13240.61
-Honda,Civic,2023,115814,Diesel,Manual,Like New,16119.24
-BMW,X3,2021,250139,Hybrid,Automatic,New,72943.23
-Honda,CR-V,2000,141929,Electric,Manual,Like New,12104.41
-Mercedes,E-Class,2017,173333,Electric,Manual,New,92131.67
-Audi,Q5,2005,246509,Electric,Manual,Like New,75446.31
-Audi,A3,2001,13580,Electric,Automatic,Like New,36871.76
-BMW,X3,2014,18240,Petrol,Automatic,Used,39479.18
-Tesla,Model 3,2020,254351,Diesel,Manual,Like New,53117.13
-Honda,Civic,2013,254271,Electric,Manual,New,39292.09
-Audi,Q7,2004,80974,Hybrid,Automatic,Like New,79429.51
-Mercedes,C-Class,2005,73401,Electric,Automatic,New,97600.01
-Ford,Explorer,2005,213165,Diesel,Manual,New,60529.54
-Toyota,RAV4,2021,164340,Hybrid,Automatic,Like New,47373.55
-Toyota,Prius,2017,265790,Hybrid,Automatic,Used,26163.54
-Toyota,RAV4,2013,186443,Hybrid,Automatic,Like New,67076.17
-Tesla,Model X,2009,248123,Petrol,Manual,Like New,70129.8
-Honda,Fit,2013,89460,Electric,Manual,Used,70093.11
-BMW,5 Series,2012,51048,Petrol,Automatic,New,7563.58
-Audi,A3,2002,206518,Hybrid,Manual,Like New,90416.6
-Ford,Focus,2005,132850,Petrol,Automatic,Used,37120.12
-Mercedes,GLA,2007,211912,Petrol,Automatic,Used,75695.75
-Ford,Focus,2011,266891,Petrol,Manual,New,77181.66
-Mercedes,E-Class,2012,45,Electric,Manual,Used,66802.72
-Tesla,Model S,2010,7758,Hybrid,Manual,New,42512.32
-Honda,Fit,2011,255397,Hybrid,Automatic,Like New,62796.5
-Toyota,Corolla,2000,154509,Electric,Automatic,Used,8818.88
-Honda,Fit,2016,150657,Petrol,Manual,Like New,77380.1
-Tesla,Model 3,2015,140926,Petrol,Manual,Used,14460.92
-BMW,5 Series,2010,183148,Diesel,Manual,Used,42691.34
-BMW,3 Series,2012,148421,Diesel,Automatic,Like New,14843.78
-Tesla,Model 3,2017,227300,Diesel,Automatic,Used,84522.07
-Mercedes,E-Class,2010,152420,Electric,Automatic,Like New,57278.73
-Audi,A4,2011,165368,Hybrid,Manual,Like New,70640.74
-Audi,Q5,2005,19455,Diesel,Manual,New,69845.31
-Mercedes,C-Class,2008,209896,Hybrid,Automatic,Like New,84952.59
-BMW,3 Series,2015,231897,Hybrid,Manual,New,17594.09
-BMW,X5,2003,88552,Hybrid,Manual,Like New,67674.17
-BMW,5 Series,2002,40484,Electric,Manual,Used,59637.74
-Honda,Accord,2015,134476,Electric,Manual,Like New,7935.23
-BMW,3 Series,2023,168332,Electric,Automatic,Used,24135.18
-Ford,Explorer,2011,100647,Electric,Manual,New,30419.3
-Toyota,RAV4,2010,65642,Diesel,Automatic,Used,11892.86
-BMW,X5,2004,211803,Petrol,Automatic,Like New,38698.38
-Mercedes,GLA,2017,128824,Petrol,Manual,Used,7584.24
-Toyota,Camry,2018,248914,Petrol,Automatic,New,57552.43
-Honda,Accord,2022,291749,Diesel,Automatic,Used,25092.59
-Mercedes,E-Class,2022,110879,Petrol,Manual,Used,32265.3
-Toyota,Camry,2005,120827,Diesel,Automatic,Like New,91494.8
-Mercedes,E-Class,2021,267724,Diesel,Automatic,Like New,52767.6
-Honda,CR-V,2017,267544,Diesel,Automatic,Used,30556.32
-Ford,Mustang,2005,170715,Petrol,Automatic,New,61853.87
-Honda,Accord,2003,227257,Hybrid,Automatic,Used,24158.79
-Honda,Civic,2011,127319,Petrol,Automatic,New,12067.59
-Mercedes,GLA,2018,106960,Petrol,Automatic,New,6986.1
-Tesla,Model 3,2001,39015,Electric,Automatic,New,95395.26
-Audi,Q5,2016,203877,Diesel,Manual,Used,73838.03
-BMW,X5,2010,145109,Hybrid,Manual,New,80995.07
-BMW,X3,2010,262063,Electric,Manual,Used,98187.18
-Ford,Explorer,2020,88754,Hybrid,Automatic,New,93504.73
-Ford,Explorer,2015,221775,Hybrid,Automatic,New,75006.75
-BMW,5 Series,2001,203225,Diesel,Automatic,Used,70928.77
-Audi,Q7,2001,152606,Petrol,Manual,Like New,37000.75
-BMW,X3,2022,222067,Diesel,Manual,Like New,14881.64
-Tesla,Model Y,2007,56879,Diesel,Manual,Used,59503.64
-Audi,Q5,2012,119894,Electric,Automatic,Used,59744.06
-Ford,Explorer,2009,65839,Diesel,Manual,Like New,95462.54
-Toyota,Prius,2007,29756,Petrol,Manual,Like New,47044.23
-Mercedes,C-Class,2003,143755,Hybrid,Automatic,Like New,70626.72
-Tesla,Model X,2014,180557,Diesel,Manual,Used,59622.21
-Tesla,Model 3,2000,229303,Hybrid,Automatic,New,21792.22
-Ford,Explorer,2010,149787,Diesel,Manual,Used,61246.11
-Ford,Focus,2006,92943,Hybrid,Automatic,Like New,56311.09
-Honda,CR-V,2016,218188,Diesel,Automatic,New,51921.07
-Tesla,Model X,2019,148188,Electric,Automatic,Used,53775.18
-Honda,Accord,2023,36744,Hybrid,Automatic,Like New,20578.86
-Honda,Civic,2017,124697,Diesel,Automatic,Used,49030.38
-Mercedes,C-Class,2021,116072,Diesel,Manual,New,62537.06
-Honda,Fit,2021,236028,Electric,Automatic,Like New,51497.67
-Audi,Q5,2011,169123,Electric,Automatic,Used,51425.19
-BMW,X3,2008,7176,Electric,Automatic,New,12364.18
-Toyota,RAV4,2004,252365,Hybrid,Automatic,New,23123.54
-Ford,Fiesta,2009,149748,Hybrid,Manual,Used,35492.41
-Audi,A4,2003,45177,Electric,Automatic,New,44837.96
-Toyota,Corolla,2004,110623,Petrol,Manual,Like New,61424.06
-Tesla,Model S,2009,997,Petrol,Automatic,New,87017.78
-Tesla,Model Y,2010,120179,Diesel,Automatic,Used,20120.65
-Tesla,Model X,2020,247439,Petrol,Manual,Like New,6433.36
-Audi,A4,2023,120403,Diesel,Manual,New,47677.53
-Audi,A4,2009,95287,Hybrid,Manual,New,46049.78
-Ford,Fiesta,2007,119574,Hybrid,Automatic,Like New,57430.62
-BMW,X5,2001,256463,Petrol,Manual,Like New,84156.07
-Honda,CR-V,2022,121509,Hybrid,Automatic,New,81224.25
-Tesla,Model Y,2007,248505,Electric,Manual,Like New,14504.11
-Mercedes,E-Class,2015,192589,Electric,Manual,Used,93729.56
-BMW,5 Series,2021,289531,Petrol,Automatic,New,15489.37
-Mercedes,GLA,2004,4090,Petrol,Manual,Used,65284.2
-Ford,Mustang,2002,3743,Diesel,Manual,New,68878.6
-Ford,Fiesta,2011,30924,Hybrid,Automatic,Used,69588.36
-Ford,Fiesta,2012,141268,Diesel,Automatic,Used,30208.36
-Toyota,RAV4,2012,105312,Diesel,Automatic,Like New,36382.78
-Mercedes,E-Class,2009,216249,Electric,Manual,New,57124.3
-BMW,5 Series,2003,224090,Electric,Manual,Like New,23960.81
-BMW,X3,2008,229602,Electric,Manual,Like New,6929.49
-Audi,A4,2021,103976,Electric,Manual,New,58403.72
-Audi,A3,2023,155183,Diesel,Manual,Used,49201.46
-Tesla,Model X,2022,113566,Electric,Automatic,New,67389.46
-Audi,A3,2001,257443,Hybrid,Manual,New,18936.55
-Ford,Focus,2018,119968,Electric,Automatic,New,84887.86
-BMW,X5,2000,61600,Electric,Manual,Like New,18891.04
-Mercedes,GLA,2006,50022,Electric,Automatic,New,89677.64
-Ford,Focus,2016,134271,Petrol,Manual,New,47704.51
-Toyota,Prius,2002,123323,Hybrid,Manual,New,57231.5
-Audi,A3,2019,186110,Hybrid,Automatic,Used,90175.23
-Ford,Explorer,2019,120278,Diesel,Manual,Used,33491.74
-Ford,Explorer,2020,270041,Diesel,Automatic,Used,22273.56
-Toyota,Corolla,2002,64541,Electric,Manual,Used,47346.4
-Honda,CR-V,2002,106968,Petrol,Manual,Like New,28214.89
-BMW,5 Series,2016,14892,Diesel,Automatic,Like New,55145.17
-Mercedes,GLC,2006,24815,Diesel,Manual,New,31149.5
-Tesla,Model X,2013,278411,Electric,Automatic,Like New,87126.51
-Honda,Civic,2016,280412,Electric,Manual,Used,62695.84
-Audi,A3,2017,114463,Diesel,Manual,New,5022.86
-Ford,Fiesta,2012,190732,Diesel,Manual,New,81520.0
-Toyota,Prius,2019,196599,Hybrid,Manual,Used,36370.17
-Toyota,Camry,2019,194451,Petrol,Manual,Used,35419.76
-BMW,5 Series,2020,172343,Hybrid,Manual,Used,41390.97
-Honda,Fit,2017,138307,Diesel,Manual,Like New,64874.94
-Tesla,Model S,2003,88757,Hybrid,Automatic,New,46995.77
-BMW,3 Series,2000,296753,Hybrid,Manual,Used,64720.38
-Ford,Fiesta,2017,254200,Diesel,Manual,New,18944.17
-BMW,5 Series,2000,23645,Electric,Manual,New,97165.62
-Mercedes,GLC,2012,195630,Diesel,Automatic,Like New,74312.6
-Toyota,Prius,2019,154473,Electric,Automatic,New,28769.68
-Toyota,Camry,2019,269915,Diesel,Manual,Used,73796.14
-Audi,Q5,2022,151460,Diesel,Manual,Used,59627.42
-Audi,A3,2009,83251,Diesel,Manual,New,15372.95
-Tesla,Model 3,2010,57042,Petrol,Automatic,New,21928.66
-Ford,Fiesta,2008,196945,Electric,Manual,Like New,8924.27
-Mercedes,GLC,2008,47024,Petrol,Automatic,Used,81877.62
-Honda,CR-V,2004,154522,Diesel,Manual,Used,57411.95
-BMW,X3,2000,56965,Hybrid,Automatic,New,35091.12
-Tesla,Model X,2016,272201,Petrol,Automatic,New,17002.77
-Ford,Fiesta,2021,224321,Electric,Manual,New,50984.36
-Audi,A4,2001,271127,Diesel,Manual,Used,54899.83
-BMW,3 Series,2023,19995,Petrol,Manual,New,71685.11
-Audi,Q5,2012,114587,Hybrid,Manual,Like New,97144.03
-BMW,X5,2008,233076,Petrol,Manual,Like New,46319.83
-Honda,Accord,2003,222700,Electric,Manual,New,43573.25
-Ford,Focus,2004,38886,Petrol,Manual,Like New,40143.35
-BMW,X3,2010,95149,Hybrid,Automatic,Like New,83557.77
-Mercedes,C-Class,2023,94020,Hybrid,Manual,Like New,19850.14
-Tesla,Model Y,2018,2673,Electric,Manual,Like New,37662.23
-Toyota,Corolla,2020,23466,Hybrid,Automatic,Like New,73872.23
-Mercedes,GLA,2002,237626,Diesel,Manual,Used,6491.02
-Mercedes,C-Class,2011,50406,Hybrid,Manual,New,32491.17
-Tesla,Model X,2018,69284,Diesel,Manual,Like New,65937.48
-Toyota,Corolla,2018,235718,Petrol,Manual,New,22665.45
-Mercedes,GLC,2012,13665,Diesel,Automatic,Like New,33757.5
-BMW,X3,2006,20641,Diesel,Automatic,Used,51174.28
-BMW,X5,2014,35797,Petrol,Manual,Used,45092.24
-BMW,5 Series,2022,215838,Hybrid,Manual,Like New,15072.58
-Toyota,RAV4,2006,102339,Diesel,Automatic,Like New,94132.36
-Mercedes,C-Class,2007,113431,Hybrid,Manual,Like New,9207.81
-Toyota,Prius,2004,232275,Petrol,Automatic,Used,76225.56
-BMW,X3,2020,283317,Electric,Automatic,Used,11785.16
-Tesla,Model X,2013,144294,Hybrid,Automatic,New,49393.1
-Mercedes,C-Class,2003,181136,Hybrid,Manual,Used,21664.07
-Mercedes,GLA,2022,168082,Electric,Manual,Like New,18404.29
-Audi,Q5,2009,253301,Electric,Manual,New,16960.31
-Audi,A3,2019,18095,Petrol,Automatic,Used,48014.73
-Honda,Accord,2014,123554,Hybrid,Manual,Used,53971.07
-Ford,Explorer,2017,234989,Hybrid,Manual,Like New,17671.53
-Audi,Q7,2019,89023,Petrol,Automatic,New,98042.59
-Toyota,Corolla,2012,107181,Hybrid,Manual,Used,29487.76
-Audi,A3,2007,222310,Diesel,Manual,Used,48589.93
-Honda,CR-V,2008,282744,Diesel,Manual,Like New,25545.61
-Mercedes,GLA,2015,264610,Diesel,Automatic,New,51922.65
-Honda,Civic,2018,256349,Hybrid,Manual,New,76821.58
-Mercedes,E-Class,2015,176169,Diesel,Automatic,New,54504.69
-Tesla,Model X,2006,53276,Diesel,Automatic,New,32136.64
-Tesla,Model 3,2013,269072,Petrol,Automatic,Like New,28597.68
-Mercedes,C-Class,2013,205719,Petrol,Manual,Used,77098.77
-Ford,Explorer,2003,171960,Electric,Manual,Used,16232.63
-Audi,Q7,2014,226097,Electric,Manual,New,40146.82
-Toyota,Prius,2002,174904,Electric,Automatic,New,19390.86
-Toyota,Camry,2004,116196,Electric,Automatic,New,29507.7
-BMW,X5,2000,9404,Petrol,Manual,Used,19504.91
-Mercedes,E-Class,2002,209190,Petrol,Automatic,Used,89243.39
-Toyota,Prius,2014,113187,Petrol,Manual,New,74530.9
-Ford,Fiesta,2023,27684,Diesel,Manual,Like New,58288.09
-Mercedes,GLA,2007,68591,Diesel,Manual,Used,26320.4
-Ford,Fiesta,2003,208794,Electric,Manual,Used,53471.55
-Toyota,RAV4,2001,264826,Diesel,Manual,New,54479.15
-Toyota,Corolla,2023,111186,Hybrid,Manual,Like New,61088.35
-BMW,3 Series,2023,243181,Petrol,Manual,New,10708.09
-Toyota,Prius,2009,21832,Electric,Automatic,New,97425.69
-Mercedes,GLC,2003,16997,Electric,Manual,Like New,49216.7
-Tesla,Model Y,2002,296784,Hybrid,Automatic,Like New,93020.52
-Mercedes,E-Class,2001,40491,Diesel,Automatic,Like New,5931.77
-Mercedes,E-Class,2016,63043,Electric,Manual,Used,28518.05
-BMW,3 Series,2022,128568,Diesel,Automatic,New,14879.58
-BMW,3 Series,2020,72725,Diesel,Automatic,Used,78113.54
-Toyota,RAV4,2023,128131,Hybrid,Automatic,Like New,35411.88
-Honda,Fit,2019,45520,Electric,Manual,Used,84846.79
-Honda,Civic,2022,109869,Diesel,Manual,Like New,84076.61
-BMW,5 Series,2012,64442,Diesel,Manual,Like New,68440.51
-Toyota,Camry,2004,261025,Hybrid,Manual,New,68249.27
-Honda,CR-V,2020,152842,Hybrid,Manual,New,71515.17
-Toyota,Corolla,2008,178570,Diesel,Automatic,New,69007.56
-Toyota,RAV4,2021,123447,Hybrid,Automatic,Used,41756.29
-Toyota,Corolla,2005,61477,Diesel,Manual,New,69868.63
-Audi,Q7,2004,244,Electric,Automatic,Like New,90253.66
-Mercedes,GLA,2009,177561,Petrol,Automatic,New,36594.48
-Toyota,Camry,2007,290534,Hybrid,Automatic,Used,94764.46
-Audi,Q7,2006,10247,Petrol,Automatic,New,6290.25
-BMW,3 Series,2006,200123,Diesel,Manual,New,38162.84
-Honda,Accord,2005,190791,Diesel,Manual,New,17549.35
-Mercedes,GLA,2020,207358,Diesel,Manual,Used,17028.88
-Tesla,Model S,2019,291727,Petrol,Automatic,Like New,82465.8
-Honda,Accord,2002,139148,Diesel,Automatic,Like New,92244.99
-Mercedes,E-Class,2018,146123,Hybrid,Manual,Like New,78887.03
-Tesla,Model Y,2021,28670,Electric,Manual,New,97778.49
-Honda,Civic,2014,10236,Electric,Automatic,New,25551.25
-Mercedes,E-Class,2003,35568,Hybrid,Manual,Used,18375.99
-Honda,Accord,2011,107327,Electric,Manual,Like New,54466.86
-Honda,Fit,2005,255745,Petrol,Automatic,New,83758.57
-Tesla,Model Y,2018,278496,Diesel,Automatic,New,8784.71
-Honda,CR-V,2003,125721,Diesel,Manual,New,99578.74
-Honda,CR-V,2014,259291,Diesel,Automatic,Used,62213.36
-Tesla,Model 3,2008,156228,Petrol,Manual,Like New,97999.47
-BMW,X3,2004,55904,Petrol,Automatic,Used,39682.76
-Toyota,Camry,2012,278252,Petrol,Automatic,Like New,48512.26
-Ford,Fiesta,2022,264997,Hybrid,Manual,Like New,76474.34
-Audi,A4,2017,266320,Petrol,Automatic,New,80306.54
-Ford,Explorer,2004,100459,Electric,Manual,New,27138.14
-Ford,Mustang,2015,185922,Hybrid,Automatic,New,93331.1
-Mercedes,E-Class,2018,137901,Hybrid,Manual,New,87405.2
-Toyota,RAV4,2013,123225,Hybrid,Automatic,New,6729.5
-Mercedes,GLA,2015,235847,Petrol,Automatic,Like New,17213.97
-Toyota,Corolla,2014,221738,Hybrid,Manual,New,52129.23
-Tesla,Model S,2021,110893,Petrol,Automatic,New,48790.77
-Tesla,Model X,2003,242726,Petrol,Manual,Used,72297.13
-Toyota,Camry,2006,196914,Hybrid,Automatic,Used,13522.58
-Honda,Civic,2015,181880,Diesel,Automatic,Like New,66261.25
-BMW,3 Series,2023,6611,Diesel,Manual,Like New,63555.14
-Honda,CR-V,2021,247524,Hybrid,Automatic,Used,27193.86
-BMW,X3,2020,295187,Diesel,Automatic,Used,56527.43
-Mercedes,E-Class,2021,136343,Electric,Manual,New,26109.68
-BMW,X3,2020,190191,Electric,Automatic,New,18957.69
-Mercedes,GLA,2007,142645,Petrol,Manual,Like New,59447.82
-Tesla,Model Y,2016,152481,Diesel,Manual,Used,97860.06
-Ford,Mustang,2015,286608,Electric,Manual,Like New,27508.67
-Tesla,Model 3,2022,249220,Hybrid,Automatic,New,38756.93
-Tesla,Model 3,2009,118523,Diesel,Automatic,Like New,29374.46
-Ford,Explorer,2009,20662,Electric,Manual,Like New,30313.68
-BMW,X3,2001,280372,Electric,Automatic,Like New,43398.25
-BMW,3 Series,2008,60721,Hybrid,Manual,New,71676.27
-Mercedes,GLC,2016,138458,Petrol,Automatic,Like New,8686.43
-Honda,Fit,2010,269006,Hybrid,Manual,New,95926.8
-Mercedes,C-Class,2009,40108,Petrol,Manual,Used,9396.59
-Honda,Civic,2021,91788,Electric,Automatic,Like New,88719.05
-Tesla,Model Y,2016,244437,Petrol,Manual,Like New,89965.92
-Ford,Focus,2003,237011,Electric,Manual,New,54826.47
-Tesla,Model S,2015,158273,Electric,Automatic,Like New,18014.7
-Toyota,Camry,2019,49966,Diesel,Manual,New,58688.87
-BMW,3 Series,2014,185846,Petrol,Manual,Like New,64720.06
-Honda,Accord,2020,272530,Petrol,Automatic,Used,86487.1
-Mercedes,C-Class,2004,77228,Petrol,Manual,Used,57335.06
-Ford,Focus,2005,146297,Hybrid,Manual,Used,44017.39
-Honda,Fit,2016,43021,Diesel,Manual,Like New,84637.66
-Mercedes,E-Class,2000,149333,Diesel,Manual,Like New,98190.42
-BMW,X5,2018,252646,Diesel,Manual,Used,66284.8
-Tesla,Model Y,2003,86755,Hybrid,Manual,Used,88066.77
-BMW,3 Series,2016,66330,Petrol,Manual,New,61879.84
-Audi,A3,2008,178438,Petrol,Manual,New,70529.86
-Toyota,Prius,2023,45313,Petrol,Automatic,Used,70375.88
-Audi,Q5,2001,234729,Diesel,Manual,Used,71954.76
-Ford,Focus,2007,232783,Diesel,Manual,Like New,35496.28
-Honda,Civic,2014,289176,Electric,Automatic,Used,59687.83
-Ford,Focus,2006,148430,Hybrid,Manual,New,61442.88
-Tesla,Model Y,2005,28365,Hybrid,Manual,New,34931.8
-Mercedes,GLC,2000,275333,Diesel,Manual,New,38235.97
-BMW,3 Series,2014,7248,Electric,Manual,New,77413.44
-Audi,Q7,2022,4369,Petrol,Manual,New,60358.76
-Audi,A3,2006,290749,Diesel,Manual,New,19175.06
-Tesla,Model X,2016,171955,Hybrid,Automatic,Used,84575.51
-Audi,Q5,2001,33055,Hybrid,Automatic,New,88895.86
-Tesla,Model 3,2008,199803,Hybrid,Automatic,New,49283.41
-Ford,Focus,2008,269594,Petrol,Automatic,New,24846.21
-BMW,5 Series,2012,133997,Hybrid,Automatic,New,95022.62
-Honda,Civic,2005,50272,Petrol,Manual,Used,88815.61
-Mercedes,GLA,2005,5310,Petrol,Manual,Like New,28216.27
-Honda,Fit,2019,31817,Petrol,Manual,Like New,14081.4
-Ford,Mustang,2019,215888,Diesel,Manual,Like New,46862.09
-Mercedes,C-Class,2020,82641,Petrol,Manual,Like New,69257.71
-Audi,Q7,2002,215155,Electric,Automatic,New,21661.92
-Toyota,Corolla,2016,207382,Hybrid,Automatic,Like New,53755.2
-Ford,Explorer,2016,15457,Diesel,Manual,Like New,45414.47
-Ford,Mustang,2011,42311,Hybrid,Manual,Used,89602.36
-BMW,X5,2015,151958,Petrol,Manual,Used,45808.83
-Honda,Accord,2014,123573,Diesel,Automatic,Used,55708.76
-Ford,Fiesta,2012,298325,Electric,Automatic,New,95752.19
-Ford,Focus,2022,164334,Petrol,Manual,New,33470.72
-Audi,A3,2000,263272,Hybrid,Automatic,New,32454.14
-Audi,A3,2016,79522,Electric,Manual,Used,80961.53
-Mercedes,E-Class,2002,163394,Petrol,Automatic,Like New,31366.2
-Tesla,Model 3,2014,48929,Electric,Automatic,Used,84027.26
-Tesla,Model 3,2003,81696,Petrol,Manual,New,14075.88
-Toyota,Corolla,2003,271952,Diesel,Automatic,Used,15569.82
-Tesla,Model X,2017,95148,Petrol,Automatic,Like New,90625.72
-BMW,5 Series,2016,283869,Diesel,Manual,New,56377.17
-Toyota,Camry,2018,220026,Petrol,Automatic,Like New,73287.36
-Mercedes,C-Class,2010,83576,Petrol,Manual,Like New,26402.44
-Audi,A4,2019,20557,Hybrid,Automatic,New,20796.06
-Tesla,Model Y,2002,21825,Electric,Manual,Like New,84320.65
-Honda,Fit,2007,271142,Electric,Manual,Used,39069.22
-Audi,A3,2013,36080,Electric,Automatic,Like New,48228.1
-BMW,X5,2000,258815,Petrol,Automatic,Like New,7657.33
-Audi,Q5,2013,188869,Petrol,Manual,Like New,41658.67
-BMW,5 Series,2001,146874,Petrol,Automatic,Used,78191.59
-BMW,3 Series,2022,42407,Diesel,Automatic,Like New,83021.14
-BMW,X5,2003,120283,Diesel,Automatic,Like New,71381.7
-Mercedes,GLC,2023,13338,Hybrid,Manual,Used,70757.07
-BMW,X5,2018,76289,Petrol,Manual,New,53092.73
-BMW,X3,2005,149967,Electric,Manual,New,56141.29
-Honda,CR-V,2000,178982,Electric,Automatic,New,75550.02
-Toyota,Camry,2016,109367,Hybrid,Automatic,Like New,28493.67
-Ford,Fiesta,2007,117486,Electric,Manual,New,26994.12
-Toyota,Corolla,2018,214209,Hybrid,Manual,Used,95242.86
-BMW,3 Series,2020,256055,Petrol,Automatic,Like New,7630.54
-Honda,Fit,2000,136421,Electric,Automatic,Like New,18249.22
-Audi,Q5,2004,153535,Petrol,Automatic,Like New,59181.58
-Honda,Fit,2015,74935,Diesel,Automatic,New,75094.31
-BMW,X3,2005,189864,Electric,Manual,New,56099.65
-Honda,Civic,2007,275830,Diesel,Automatic,New,38731.08
-Tesla,Model S,2012,63528,Electric,Automatic,Like New,97907.73
-Honda,Fit,2015,99811,Petrol,Manual,Used,71866.01
-BMW,3 Series,2002,284931,Hybrid,Manual,Like New,83982.13
-Mercedes,E-Class,2018,188499,Petrol,Automatic,Used,8823.45
-Tesla,Model S,2011,260141,Petrol,Manual,Like New,27412.41
-Honda,Accord,2015,104887,Petrol,Automatic,Used,40546.25
-Ford,Mustang,2010,61086,Electric,Automatic,Like New,22347.13
-Ford,Focus,2009,255494,Hybrid,Manual,Like New,11925.43
-Honda,CR-V,2019,63308,Diesel,Manual,Used,26383.71
-Mercedes,E-Class,2003,277941,Petrol,Automatic,Used,55695.38
-Audi,Q7,2011,267446,Electric,Manual,Used,71095.8
-BMW,X3,2022,38059,Diesel,Automatic,Used,78531.99
-Ford,Explorer,2001,131980,Petrol,Automatic,Used,9078.93
-Audi,Q7,2023,191324,Diesel,Automatic,Used,45658.69
-Honda,Accord,2021,143949,Petrol,Manual,Used,16610.1
-Audi,Q7,2018,276383,Diesel,Automatic,Used,45964.04
-Tesla,Model Y,2004,27313,Diesel,Automatic,Like New,46227.71
-Toyota,RAV4,2007,42103,Hybrid,Automatic,Used,52330.11
-Ford,Focus,2006,179480,Hybrid,Manual,Used,89818.91
-Honda,CR-V,2013,88771,Petrol,Automatic,Like New,81484.07
-BMW,X3,2023,126228,Electric,Automatic,Like New,65488.48
-Mercedes,C-Class,2022,91665,Hybrid,Automatic,New,89113.7
-Tesla,Model X,2002,272678,Diesel,Manual,New,69454.52
-Honda,CR-V,2017,279333,Hybrid,Automatic,Used,82791.22
-BMW,5 Series,2015,86067,Hybrid,Automatic,Used,58558.94
-Mercedes,C-Class,2022,273111,Petrol,Manual,New,54895.73
-Mercedes,GLC,2018,213063,Hybrid,Manual,New,73789.24
-Honda,Fit,2018,270804,Hybrid,Automatic,Used,6870.48
-Tesla,Model 3,2017,129909,Diesel,Automatic,New,70585.87
-Audi,A4,2019,140688,Hybrid,Automatic,Used,93779.23
-Audi,A4,2015,75976,Diesel,Manual,Like New,72824.5
-Mercedes,C-Class,2007,233208,Hybrid,Manual,Like New,8495.4
-Audi,A3,2000,179810,Hybrid,Automatic,New,40899.14
-Toyota,Corolla,2016,275251,Electric,Manual,Like New,81910.22
-Mercedes,E-Class,2011,192476,Hybrid,Automatic,Like New,96067.81
-Mercedes,C-Class,2020,94182,Diesel,Automatic,Like New,40165.52
-BMW,5 Series,2010,243153,Diesel,Manual,Like New,84913.44
-Audi,Q5,2004,278098,Petrol,Automatic,Used,87061.94
-Tesla,Model X,2011,279087,Petrol,Manual,Used,16712.21
-Mercedes,C-Class,2016,40725,Electric,Manual,New,85349.9
-Tesla,Model X,2005,10110,Diesel,Automatic,Like New,35803.74
-Toyota,Corolla,2000,278606,Diesel,Manual,Like New,61357.58
-BMW,X5,2004,185153,Diesel,Automatic,Like New,56201.4
-Honda,CR-V,2013,66567,Electric,Manual,New,67990.12
-Tesla,Model 3,2004,182296,Diesel,Automatic,Used,75344.14
-Mercedes,E-Class,2021,113394,Petrol,Automatic,Like New,46883.7
-Toyota,RAV4,2023,148940,Electric,Automatic,Used,89389.53
-Ford,Explorer,2000,22222,Petrol,Manual,New,81902.35
-Toyota,Corolla,2017,79794,Petrol,Automatic,Used,79615.0
-Toyota,Corolla,2015,63924,Electric,Manual,Like New,48533.45
-BMW,3 Series,2008,99854,Hybrid,Manual,Used,8569.42
-Honda,Civic,2018,260038,Hybrid,Manual,Used,51764.36
-Ford,Mustang,2021,243815,Petrol,Manual,New,90352.33
-Audi,A3,2004,233127,Hybrid,Manual,New,23092.76
-Audi,Q7,2001,141295,Diesel,Automatic,New,98346.28
-Tesla,Model Y,2014,179238,Electric,Manual,New,81730.61
-Toyota,Camry,2006,39369,Petrol,Automatic,Used,72433.83
-BMW,3 Series,2003,274805,Diesel,Automatic,Used,69330.2
-BMW,X5,2000,146663,Hybrid,Manual,New,60767.46
-Audi,A3,2012,186307,Diesel,Automatic,New,73463.68
-Tesla,Model X,2019,270114,Hybrid,Automatic,Like New,45081.03
-Tesla,Model Y,2021,47922,Petrol,Manual,Like New,85302.37
-Tesla,Model S,2006,292899,Diesel,Automatic,New,71152.87
-Ford,Explorer,2014,120926,Electric,Manual,Used,78269.05
-Honda,Civic,2022,19416,Petrol,Manual,New,80286.31
-Ford,Explorer,2013,13672,Diesel,Manual,Used,13746.65
-Mercedes,GLA,2022,128145,Diesel,Automatic,Used,10285.87
-Mercedes,C-Class,2018,178068,Hybrid,Automatic,Like New,81093.66
-Honda,Accord,2021,64,Petrol,Automatic,New,29641.48
-Audi,A3,2023,68835,Petrol,Automatic,New,60287.13
-Honda,CR-V,2019,201457,Petrol,Manual,Used,47152.53
-BMW,X3,2023,247795,Petrol,Manual,New,7093.72
-Mercedes,C-Class,2017,116916,Hybrid,Automatic,Like New,8826.72
-Toyota,Corolla,2009,195346,Electric,Manual,Like New,83576.9
-Toyota,Prius,2008,273010,Petrol,Automatic,New,62729.37
-Audi,Q7,2007,3889,Hybrid,Manual,New,54765.09
-BMW,5 Series,2009,118194,Electric,Manual,Like New,94713.45
-Ford,Explorer,2016,124714,Electric,Manual,New,21445.93
-BMW,5 Series,2001,31335,Hybrid,Manual,Used,29507.23
-Toyota,Corolla,2005,50547,Petrol,Manual,New,76890.21
-Toyota,Prius,2004,157234,Electric,Automatic,Used,78647.35
-Mercedes,E-Class,2008,220521,Petrol,Automatic,New,43465.23
-BMW,X3,2004,155759,Petrol,Manual,New,95342.95
-BMW,3 Series,2017,273139,Diesel,Automatic,Like New,94134.18
-Toyota,Prius,2019,2631,Petrol,Manual,Used,6178.92
-Ford,Explorer,2008,137039,Diesel,Manual,Like New,21371.15
-Audi,Q7,2016,64471,Electric,Manual,New,82920.85
-Tesla,Model Y,2016,299260,Hybrid,Manual,Like New,36845.59
-Audi,Q7,2011,133014,Diesel,Automatic,New,14068.95
-BMW,X3,2006,47664,Hybrid,Manual,New,79574.92
-Audi,Q7,2002,159141,Electric,Automatic,New,48185.43
-Toyota,Corolla,2009,87342,Petrol,Manual,Used,51779.02
-Toyota,Prius,2001,14407,Electric,Manual,Used,22705.09
-BMW,X3,2002,113926,Hybrid,Automatic,Used,67785.03
-BMW,X3,2015,213053,Electric,Manual,Like New,57367.93
-Tesla,Model X,2001,17878,Petrol,Manual,New,24633.93
-Tesla,Model X,2023,83100,Electric,Automatic,Like New,37331.49
-Mercedes,GLC,2009,223059,Petrol,Automatic,Like New,61703.53
-BMW,X3,2005,43168,Diesel,Automatic,New,92862.86
-Ford,Focus,2021,250396,Hybrid,Manual,Like New,92435.75
-Audi,A4,2010,250481,Petrol,Manual,New,32351.06
-BMW,3 Series,2022,28004,Petrol,Automatic,New,74883.99
-Honda,Civic,2006,282615,Electric,Automatic,New,78674.31
-Mercedes,GLA,2014,91820,Diesel,Manual,New,81838.19
-Honda,Civic,2005,191239,Petrol,Manual,Like New,59222.42
-Toyota,Prius,2019,102229,Diesel,Automatic,Like New,5998.26
-Tesla,Model 3,2008,14568,Diesel,Automatic,Like New,77359.25
-Audi,A3,2021,9466,Electric,Automatic,Used,15126.76
-BMW,X3,2019,222129,Petrol,Automatic,Like New,16102.78
-Honda,Fit,2011,57324,Electric,Manual,Like New,62534.36
-Audi,Q5,2018,146539,Hybrid,Manual,Used,98434.45
-Toyota,Prius,2019,75955,Hybrid,Manual,New,28041.25
-Tesla,Model X,2002,147748,Petrol,Manual,New,66352.03
-Ford,Focus,2014,94791,Diesel,Automatic,New,33847.1
-Mercedes,E-Class,2001,162586,Petrol,Manual,Used,90378.98
-Audi,Q5,2020,22650,Petrol,Automatic,Like New,61384.1
-Audi,A3,2001,77701,Hybrid,Manual,Like New,24710.35
-Ford,Fiesta,2021,272827,Hybrid,Manual,Like New,29902.45
-Audi,Q5,2002,229164,Diesel,Manual,Like New,46085.67
-Toyota,RAV4,2005,80978,Diesel,Automatic,Used,16594.14
+year,mileage,price
+2016,114832,26613.92
+2018,143190,14679.61
+2013,181601,44402.61
+2011,68682,86374.33
+2009,223009,73577.1
+2019,246553,88969.76
+2020,135486,63498.75
+2017,83030,17381.19
+2023,120360,15905.62
+2010,135009,9560.22
+2001,298875,58872.6
+2017,169737,28074.19
+2006,114360,74766.45
+2023,263894,70193.74
+2014,65018,35220.52
+2010,240904,21796.16
+2017,136817,14728.03
+2022,192803,75044.95
+2011,86984,47791.89
+2005,290595,35735.34
+2019,192608,86382.04
+2022,12150,61393.26
+2012,275550,54210.22
+2019,150853,75621.02
+2015,188489,82480.4
+2017,18325,70176.95
+2009,199756,46800.6
+2022,204541,41033.39
+2007,17669,78308.17
+2017,207836,54201.18
+2020,132915,71916.68
+2000,196681,89587.88
+2022,50812,92009.61
+2007,278203,31382.99
+2005,252862,22849.55
+2004,171840,29822.3
+2014,25395,76380.32
+2021,282346,40155.51
+2014,229707,21471.98
+2001,247181,14346.62
+2000,204120,36094.75
+2022,224839,17932.96
+2022,219882,19855.49
+2010,103235,69968.98
+2009,45510,6874.55
+2017,87945,16167.56
+2017,242802,85214.72
+2016,250168,85266.84
+2007,2881,36278.13
+2014,111860,13355.54
+2007,166415,71972.18
+2016,139728,39212.51
+2011,267885,9319.14
+2007,147733,19993.56
+2013,290834,18035.41
+2003,294977,60966.05
+2000,102566,90321.17
+2000,71240,80341.84
+2018,106898,56919.02
+2015,209304,45104.74
+2013,80522,63774.29
+2020,145512,47162.21
+2015,119107,28379.42
+2004,22462,69523.76
+2008,279965,87958.17
+2001,92889,40422.68
+2017,88952,84946.15
+2005,193596,45952.79
+2008,177505,43126.91
+2000,221576,7690.81
+2008,219393,71051.5
+2015,275455,81712.74
+2012,254084,68037.91
+2008,129466,19379.29
+2020,30531,14812.88
+2012,14588,59421.58
+2008,143452,43144.04
+2010,173717,45764.29
+2003,161929,96941.02
+2001,21711,73772.65
+2005,136169,44119.84
+2013,159465,6814.43
+2003,284220,8239.09
+2005,160389,70056.35
+2018,58480,84585.18
+2005,269188,72231.75
+2001,250309,43559.34
+2017,55486,7957.9
+2012,55162,96903.15
+2008,210359,98701.93
+2022,29882,57189.63
+2018,54078,11713.74
+2012,238680,56392.39
+2010,108730,89772.15
+2000,174898,69598.62
+2023,98938,73398.98
+2021,118319,13072.13
+2006,32543,15118.61
+2020,124279,17098.13
+2014,29362,90915.8
+2000,158818,54955.72
+2011,242721,80199.63
+2006,165229,15952.67
+2014,142394,93126.06
+2020,69812,83008.5
+2018,296161,26352.59
+2000,228208,88047.31
+2016,279773,30027.06
+2016,128614,24507.29
+2002,96950,30103.17
+2011,174942,91445.73
+2005,64829,91981.24
+2010,245602,36254.6
+2002,10588,72016.25
+2007,168217,69195.8
+2013,272743,81623.45
+2013,208502,33168.4
+2009,134011,53463.16
+2001,252856,68429.03
+2013,284293,7494.4
+2008,197639,40790.18
+2002,141280,71109.39
+2020,197170,28996.53
+2007,180564,95981.89
+2015,20951,7865.33
+2001,179992,96018.28
+2005,46766,25592.57
+2020,159423,9638.09
+2011,87122,32785.03
+2004,271452,79696.82
+2001,83211,76481.99
+2015,126534,24839.84
+2004,8720,23695.06
+2014,79993,66045.09
+2011,219973,48517.86
+2003,25905,80267.55
+2014,204580,7292.61
+2010,50385,62989.13
+2015,30653,74413.84
+2022,91865,99371.68
+2005,125813,69484.26
+2013,145871,27025.29
+2017,191175,15277.69
+2011,248535,65887.09
+2010,15052,54702.39
+2012,137116,90418.8
+2020,150943,74027.76
+2022,220375,53425.53
+2010,21381,43341.0
+2022,148346,43415.6
+2015,243234,26498.91
+2014,256017,6645.97
+2020,235020,59616.51
+2014,49892,25179.4
+2003,181593,24791.06
+2010,214992,16911.22
+2018,280064,23011.57
+2014,278846,8019.97
+2003,256216,69051.99
+2020,264038,43132.73
+2012,293129,58344.84
+2021,159359,65510.97
+2018,258771,97386.03
+2001,125702,11485.26
+2013,73527,44702.18
+2003,146511,28360.3
+2015,225692,50287.63
+2020,158731,92444.87
+2019,287120,73778.51
+2013,235311,67885.21
+2014,198937,46918.36
+2002,199378,68755.69
+2007,56697,8075.66
+2015,70382,60692.67
+2009,278795,57608.77
+2003,180116,37930.84
+2017,14633,24143.84
+2001,79164,81717.78
+2016,262713,10116.9
+2012,123425,11618.92
+2003,250220,46849.57
+2010,295182,28992.68
+2006,180160,75817.98
+2011,204249,65248.06
+2009,205538,78390.81
+2006,197865,35844.5
+2012,201466,75349.3
+2006,187223,86918.81
+2023,111174,37801.08
+2016,137980,37290.1
+2009,68447,90495.38
+2009,205599,9730.07
+2023,226301,38267.99
+2003,279778,16273.89
+2019,286705,7753.16
+2003,55063,15722.59
+2021,288065,45968.35
+2006,19340,70260.83
+2021,62781,32481.83
+2000,277045,85719.15
+2011,10638,46573.48
+2023,217986,96981.66
+2012,221668,95644.79
+2009,294786,78461.24
+2014,25378,93578.52
+2012,118171,72174.13
+2022,214801,90080.4
+2021,64377,27465.0
+2021,260339,37814.92
+2020,54691,76528.36
+2021,91782,45333.32
+2008,259896,84546.11
+2008,78343,88375.69
+2014,121399,33474.3
+2009,31357,83227.83
+2023,294458,19655.11
+2009,70283,36748.69
+2007,59567,54206.67
+2023,237778,26512.16
+2015,141758,60030.44
+2016,61606,59976.03
+2004,281035,24655.78
+2003,101732,80585.93
+2017,191791,65006.23
+2023,292021,35187.25
+2018,249465,27057.55
+2003,224589,88481.26
+2006,14026,84395.51
+2009,282566,26827.26
+2017,295625,8382.5
+2018,109384,81430.6
+2003,252771,63473.31
+2009,58031,14583.79
+2000,68232,60799.03
+2022,143084,47957.36
+2017,236503,78582.28
+2004,292104,24863.06
+2014,87695,48049.89
+2016,130066,19843.19
+2002,138982,95965.09
+2011,264837,78980.12
+2001,115313,74988.63
+2000,28810,70569.63
+2022,20092,45216.96
+2020,58105,92711.83
+2016,161577,11927.12
+2021,204300,81309.61
+2015,290699,25447.11
+2004,71934,35782.66
+2014,72788,54345.82
+2002,280083,79352.23
+2006,155223,84660.82
+2010,128068,60454.56
+2009,36,43288.37
+2008,39051,94917.73
+2013,80738,28419.52
+2012,60071,81293.98
+2001,130613,63144.71
+2002,73601,40805.03
+2006,29873,5129.96
+2020,167720,47426.93
+2017,71468,31288.4
+2002,288614,14912.93
+2009,196201,12140.06
+2021,8328,38018.04
+2006,137405,63401.95
+2008,251519,84564.33
+2016,121173,22438.51
+2010,46638,45341.18
+2006,273412,42235.83
+2023,201675,53772.43
+2013,113920,81910.79
+2018,171813,57596.3
+2003,7887,85432.22
+2005,228978,54262.42
+2009,24918,62365.5
+2006,297641,46551.41
+2012,192081,83194.08
+2013,274073,92763.58
+2003,102201,65718.75
+2007,210171,82974.33
+2004,290690,10605.32
+2000,209496,91080.62
+2003,168410,22947.88
+2002,82494,29369.44
+2008,215859,10066.36
+2007,233853,96713.01
+2000,128279,85941.03
+2005,81991,91752.54
+2008,290157,85485.54
+2006,52132,50555.4
+2003,255069,92787.78
+2012,159156,97099.92
+2016,152215,52743.86
+2001,91627,21684.35
+2004,122772,67569.14
+2011,229415,97666.64
+2020,141294,87853.95
+2007,259013,86872.44
+2005,16116,93712.71
+2007,182124,89925.46
+2017,51369,78746.76
+2002,179889,73235.92
+2021,233982,30152.88
+2011,214275,64027.3
+2002,205383,54541.42
+2021,291799,86884.69
+2005,188874,51712.69
+2001,47632,17135.56
+2022,211284,5472.39
+2011,161848,69397.95
+2001,191082,57241.3
+2005,213807,36441.48
+2016,196523,21052.35
+2002,179884,49337.96
+2001,281039,14527.21
+2022,235892,36930.31
+2019,213408,41025.13
+2007,242718,49233.78
+2021,192879,49328.97
+2011,23086,29415.54
+2003,85637,85770.04
+2004,158279,38776.63
+2012,151969,26810.79
+2014,63083,21701.94
+2022,95028,35644.95
+2015,97551,11417.52
+2009,138355,8126.21
+2022,94024,62488.51
+2015,262399,63818.98
+2011,207627,55310.88
+2016,15487,77417.09
+2015,19346,8719.3
+2011,297194,93917.45
+2007,270888,14031.19
+2019,61596,69032.18
+2002,214469,17672.68
+2015,177175,88591.02
+2012,153048,53517.76
+2022,6277,12817.89
+2018,133332,63588.79
+2007,240515,5865.44
+2021,260577,78722.11
+2004,196955,66805.57
+2019,286885,25199.35
+2007,299355,40601.34
+2023,240464,5741.64
+2011,258445,70899.96
+2000,269013,35653.47
+2020,94515,59300.95
+2019,150494,95889.12
+2005,166685,33449.34
+2021,188088,99072.6
+2017,60110,65109.2
+2007,219601,27998.42
+2006,208994,46493.9
+2000,296177,75343.05
+2020,260705,47415.4
+2015,12938,11508.22
+2011,130842,21017.35
+2005,264418,80173.29
+2019,150033,66595.44
+2001,20044,59133.42
+2013,99372,20924.09
+2003,276850,84586.96
+2000,137046,96270.31
+2022,21213,8884.27
+2017,1950,12413.03
+2012,254043,89048.83
+2001,216085,82477.46
+2008,272555,63703.77
+2020,148843,94771.69
+2001,297197,66410.9
+2008,248966,25518.6
+2000,138117,74221.02
+2010,29714,66342.48
+2002,165458,98645.75
+2019,270706,25320.09
+2022,12026,61799.07
+2003,106147,79115.91
+2017,31589,37203.39
+2022,108199,41069.56
+2005,288988,89350.67
+2002,208574,43398.51
+2021,214340,64349.62
+2010,54708,89477.62
+2014,70825,24933.53
+2021,51574,98278.34
+2004,232409,71685.59
+2019,186381,52131.56
+2009,64230,45937.45
+2011,254451,95664.64
+2014,247174,24543.86
+2016,219700,34609.91
+2009,287249,34240.31
+2005,246514,32455.6
+2017,264491,49511.11
+2012,226094,98972.03
+2002,148182,89434.74
+2023,193242,36155.21
+2009,182873,45172.66
+2013,124926,68600.67
+2005,81147,6629.41
+2002,19199,82914.6
+2015,183208,88580.82
+2006,220868,86434.03
+2019,120787,40630.17
+2013,114427,48889.95
+2008,148063,6176.89
+2014,153625,42942.56
+2020,220782,48740.55
+2002,87493,91162.56
+2001,274915,89928.83
+2001,125607,96779.22
+2002,246834,89084.97
+2017,79876,5779.07
+2013,167071,65938.78
+2019,202959,11482.58
+2017,243722,30896.46
+2009,44440,59939.22
+2001,31655,71558.31
+2021,43039,67190.04
+2000,72219,9660.54
+2003,186061,14842.37
+2013,273388,17215.75
+2000,94594,13684.37
+2013,170623,21932.27
+2015,194302,70406.34
+2021,290515,83929.54
+2013,159950,43837.32
+2019,167229,70814.24
+2002,5914,24001.54
+2002,214772,97461.61
+2008,289324,38249.76
+2005,227561,85357.36
+2012,187435,94809.81
+2020,95213,87147.83
+2001,37805,11371.43
+2007,126599,66779.18
+2020,153775,16408.62
+2001,190093,5537.99
+2003,74176,9919.43
+2014,94799,92034.17
+2003,98385,91304.03
+2012,235654,26453.32
+2011,88919,56970.82
+2012,81462,95727.68
+2013,179340,52187.08
+2019,165320,42389.89
+2017,31159,50908.63
+2005,42039,80070.5
+2010,232974,50341.38
+2001,47800,79411.38
+2022,94626,46011.26
+2018,118368,28940.54
+2018,174735,36014.91
+2004,80903,12393.23
+2018,118998,52251.21
+2001,241324,19070.54
+2009,233229,82096.97
+2001,61748,44956.1
+2010,41190,77675.22
+2017,40318,95673.74
+2023,168090,85700.41
+2014,124078,95389.05
+2008,39759,58953.97
+2022,278642,20705.82
+2018,25989,93862.62
+2008,156640,87507.92
+2002,161171,87119.23
+2020,285626,70861.07
+2008,292192,64367.04
+2013,35814,6398.77
+2018,190766,76065.14
+2006,60204,13695.84
+2015,32844,29676.34
+2015,248827,57391.58
+2000,245256,47914.6
+2003,21518,6498.57
+2003,23052,83278.58
+2006,256346,88486.09
+2007,69803,69777.93
+2016,71524,56401.45
+2004,224582,96270.09
+2006,67021,16395.84
+2019,211321,75101.46
+2019,282187,17194.26
+2003,2419,41275.26
+2005,187964,60621.03
+2006,121831,75023.33
+2017,244688,5353.03
+2004,101799,29756.8
+2019,194941,56129.04
+2002,176282,55623.0
+2006,108611,65574.51
+2021,137559,33866.09
+2013,62112,56350.28
+2006,239040,23029.74
+2004,278504,22752.86
+2021,233451,59773.58
+2004,221490,70119.9
+2022,265161,16438.0
+2001,191196,16665.04
+2020,247418,58703.76
+2021,221370,30659.1
+2005,189340,42277.91
+2014,66320,43071.1
+2020,235067,21962.52
+2009,212373,5124.89
+2022,293271,86049.42
+2023,180786,72925.19
+2006,294065,70601.16
+2004,266890,56917.99
+2000,65350,71592.12
+2012,181417,93890.4
+2020,240678,68239.0
+2017,22063,30183.68
+2012,117116,59203.2
+2020,177043,47020.82
+2020,134670,57859.82
+2017,10564,54173.0
+2004,242124,86583.65
+2012,227506,66921.01
+2003,86134,22932.06
+2016,105940,10986.59
+2002,62085,45314.56
+2016,17862,6483.01
+2010,272409,35238.25
+2020,140777,39962.04
+2019,186351,40680.94
+2022,62471,98038.25
+2020,91080,33870.58
+2003,108007,30196.61
+2001,46104,17291.19
+2019,40934,53545.84
+2015,254606,19599.06
+2017,6050,63548.0
+2007,175024,19740.18
+2002,270628,59783.97
+2008,184750,83495.58
+2019,31323,9039.84
+2005,86332,44875.96
+2009,255540,48799.65
+2020,254547,80151.85
+2009,272459,49451.99
+2012,157591,58915.9
+2016,271251,80164.4
+2008,55781,58177.06
+2016,266013,39038.44
+2023,7971,13155.02
+2008,254927,74341.98
+2008,287795,87758.12
+2000,23446,97156.13
+2001,257419,93026.99
+2015,169180,80754.7
+2000,3823,66129.83
+2009,144526,79238.71
+2017,135004,46047.95
+2007,205162,61503.74
+2020,67965,38126.48
+2010,272654,36037.38
+2022,141609,76885.72
+2001,105935,48123.61
+2007,233705,25155.32
+2021,253978,24184.13
+2007,144854,86621.37
+2016,78004,69387.25
+2014,22072,56874.38
+2016,81015,43089.18
+2022,225075,45927.65
+2023,220010,10456.34
+2012,72746,48216.46
+2018,176774,80568.22
+2004,128259,41858.72
+2011,30916,41440.22
+2000,27268,6493.08
+2022,175050,48494.35
+2004,243966,7407.08
+2007,23259,59183.2
+2012,79400,53144.42
+2007,296437,84800.81
+2022,111581,60269.16
+2010,7043,35725.6
+2000,181502,54041.95
+2012,107009,71472.1
+2018,209137,13926.56
+2023,161940,64002.04
+2002,288453,92079.5
+2023,285428,33417.38
+2016,113259,64529.38
+2004,100804,83026.3
+2019,69000,53621.61
+2020,84179,73208.06
+2007,291409,34545.98
+2013,260226,34075.55
+2003,23880,68420.48
+2010,201264,72013.84
+2019,172438,94015.92
+2014,245352,26359.66
+2018,67396,49480.67
+2006,279250,28798.78
+2018,56731,12608.76
+2018,75010,43306.9
+2010,249091,40537.67
+2004,294743,30691.24
+2004,71326,33214.51
+2021,248876,39239.12
+2007,9004,98939.58
+2009,115018,79380.99
+2005,25792,11783.11
+2014,54645,87879.25
+2015,7232,65163.82
+2016,54766,89606.41
+2007,120601,37462.42
+2007,81588,49129.29
+2008,179614,90141.57
+2001,5913,30894.45
+2014,112406,91972.58
+2017,113693,83707.47
+2002,93449,98153.0
+2016,10567,35804.47
+2003,38379,27396.55
+2003,206040,36432.36
+2013,262463,95691.73
+2008,90005,36641.96
+2008,223098,58695.12
+2022,4791,43349.53
+2017,131401,42640.91
+2009,205459,23370.97
+2020,61032,56022.56
+2003,175150,85693.4
+2011,21300,9701.08
+2007,55609,89476.53
+2001,191634,68219.93
+2021,90045,63590.12
+2012,267847,64460.52
+2020,223717,33145.63
+2015,219162,44438.73
+2001,27676,80932.55
+2010,220412,34106.2
+2009,176512,49651.92
+2014,167995,6865.07
+2016,291946,74688.04
+2007,124786,44681.71
+2017,68147,54909.08
+2022,22075,15895.49
+2008,205788,99212.85
+2007,9304,33734.44
+2013,129851,65324.02
+2017,59622,60217.45
+2021,108654,79583.76
+2019,249109,32914.51
+2019,286172,76813.1
+2020,39328,41337.66
+2011,289445,44060.29
+2018,218348,68907.69
+2013,36845,79507.15
+2016,76394,68352.33
+2023,175231,90488.55
+2020,80722,32090.11
+2002,287374,90558.59
+2022,92554,17432.03
+2006,49262,67655.38
+2016,41722,57024.91
+2011,171231,51990.41
+2008,240740,34536.64
+2014,87052,52854.61
+2017,100808,20368.47
+2020,255416,40085.49
+2012,262128,14374.69
+2020,221281,59325.43
+2007,246052,14097.95
+2013,104697,20232.74
+2007,231572,13119.35
+2013,232842,41224.51
+2006,96299,84986.05
+2022,165746,91155.16
+2011,149177,11829.5
+2010,160811,65282.26
+2021,163041,70016.62
+2021,14497,55708.14
+2010,254204,68363.56
+2021,257471,27200.62
+2012,92019,51516.2
+2017,190326,42133.21
+2001,109017,13522.26
+2020,218220,64427.86
+2014,105153,52045.44
+2019,33826,31141.53
+2017,110034,50000.1
+2014,84242,78653.31
+2018,50100,81157.49
+2022,221171,66704.98
+2023,12809,49436.04
+2011,64450,59696.22
+2012,111126,41576.46
+2021,264237,17022.85
+2010,44498,41633.96
+2004,116251,55381.61
+2000,40985,61889.23
+2023,294153,93901.09
+2002,17718,78846.68
+2021,278849,19439.29
+2018,62598,21547.31
+2022,274383,14547.0
+2006,46665,75127.26
+2011,294418,72081.62
+2014,146075,98704.48
+2004,161938,54592.22
+2014,153060,83509.42
+2007,221516,59761.79
+2009,136746,88038.24
+2015,201610,73497.0
+2007,66446,66073.98
+2000,29072,58686.65
+2011,33717,73682.2
+2004,218417,44867.12
+2002,157723,14174.78
+2000,109525,8798.68
+2003,213092,50507.25
+2007,4646,61932.7
+2002,175403,12490.66
+2009,284329,32255.84
+2001,229728,35593.06
+2010,52107,58465.58
+2009,244865,31455.83
+2020,279707,14086.62
+2013,70729,20661.39
+2006,277845,21525.04
+2001,200144,85056.02
+2008,215494,32010.37
+2015,252615,72895.71
+2012,128331,58944.68
+2008,160482,97818.68
+2019,99280,30918.15
+2003,189787,20045.44
+2021,38665,9943.59
+2009,278101,27891.17
+2021,259285,69986.73
+2011,163947,13099.53
+2016,113828,28246.68
+2013,132698,86254.29
+2013,90815,60380.53
+2001,194894,11604.55
+2020,203485,9529.9
+2019,164714,10806.67
+2010,32356,94478.13
+2015,265953,85737.79
+2018,297019,85269.3
+2022,241121,92800.59
+2005,271609,52999.26
+2023,197167,28497.74
+2018,196322,43128.06
+2004,15250,73292.09
+2003,46023,88223.12
+2014,101350,46333.64
+2003,177696,55861.19
+2019,16427,93519.38
+2009,210084,15212.37
+2023,134511,86918.43
+2021,218403,20134.21
+2002,78672,50966.83
+2004,17300,25750.2
+2005,19659,62280.02
+2020,162475,58064.48
+2021,245259,41100.7
+2007,10360,87013.83
+2006,283568,67682.27
+2020,98035,73514.49
+2009,48791,19312.68
+2005,199867,88900.74
+2013,274444,20868.82
+2003,33370,26164.57
+2012,200903,17165.24
+2019,27209,46834.12
+2016,283071,89332.38
+2022,34579,28982.51
+2006,271176,40506.57
+2003,93254,85376.31
+2013,113528,63692.45
+2002,223274,76403.56
+2023,238292,25330.0
+2004,181026,73066.54
+2015,248342,26623.0
+2022,219437,98794.83
+2019,278076,58189.18
+2003,287858,71085.73
+2023,57803,16248.15
+2023,133624,28812.32
+2001,56627,18275.36
+2017,177059,42066.22
+2018,45380,31992.91
+2018,160322,74627.61
+2016,199416,15327.35
+2013,146367,76445.64
+2018,272667,9341.96
+2021,259125,24191.69
+2023,13769,80236.67
+2012,112035,75563.78
+2011,175717,50250.98
+2005,221815,9748.36
+2020,231832,62939.91
+2003,156629,43638.79
+2018,234799,35070.17
+2015,168157,65839.01
+2012,144542,46478.38
+2003,118643,13780.0
+2022,210154,92015.29
+2016,137877,78956.84
+2022,213396,10355.93
+2000,225956,54881.07
+2017,181844,12920.87
+2019,101422,84542.54
+2016,268774,63236.33
+2014,277845,21382.67
+2010,145931,6970.43
+2021,117556,8000.2
+2012,228495,53199.72
+2000,254809,74765.48
+2016,205384,16479.84
+2005,15021,26021.99
+2003,200935,36089.69
+2019,204222,25717.29
+2015,64361,42176.97
+2014,272499,58163.43
+2014,98841,70068.99
+2005,180076,96558.64
+2014,246300,93430.15
+2013,160786,59162.06
+2010,17198,74744.26
+2006,258466,95332.86
+2008,18740,12929.83
+2015,265954,5535.3
+2004,258308,7830.98
+2019,99855,58518.19
+2009,210192,77469.18
+2017,288927,39872.12
+2002,121701,56797.72
+2012,271615,54054.8
+2010,110771,14003.23
+2016,6163,35550.89
+2021,16065,6846.34
+2012,241262,15517.04
+2005,248924,82126.53
+2016,179420,83794.28
+2012,281298,81184.9
+2018,20229,74047.77
+2020,250470,80364.72
+2018,158069,68743.32
+2009,21101,68634.17
+2002,40391,68399.37
+2013,206935,53834.07
+2018,72723,39517.99
+2004,226293,74368.55
+2004,190477,33371.37
+2019,166020,56575.7
+2016,290604,46168.78
+2020,197190,31279.12
+2009,179354,97595.54
+2004,91725,29581.41
+2003,212139,34382.84
+2005,85779,20350.81
+2003,3060,83183.16
+2006,125806,60725.99
+2006,275875,63238.73
+2017,115871,82953.33
+2002,20719,37577.37
+2000,49116,23395.18
+2023,26325,23848.51
+2003,14551,74598.88
+2005,286422,63340.94
+2008,15141,24602.19
+2021,295759,18781.21
+2013,122058,16465.29
+2011,193823,64640.87
+2019,112684,5011.27
+2023,289596,6740.34
+2003,50391,42007.55
+2020,120288,70678.24
+2023,206132,71028.74
+2011,113535,45861.24
+2009,142770,70651.99
+2021,239947,54504.14
+2006,86711,97808.48
+2002,264509,20433.72
+2022,228625,62063.39
+2013,43372,51667.68
+2023,44134,23474.3
+2009,299967,76249.09
+2015,71158,31173.26
+2015,237159,41262.43
+2021,133021,40608.9
+2009,49396,28199.42
+2012,31912,45917.01
+2005,56947,49967.86
+2011,44387,75701.06
+2008,278652,77681.51
+2012,109249,20062.82
+2003,1919,61313.37
+2023,140689,90138.79
+2010,33298,15334.73
+2019,237225,49926.83
+2017,233725,76283.55
+2010,276600,63091.68
+2020,109599,14555.64
+2003,83721,42677.58
+2017,286384,53187.75
+2000,271372,99605.33
+2006,283830,21967.75
+2005,11920,98330.26
+2014,7432,40734.23
+2017,110507,24030.45
+2023,224647,44340.36
+2010,164982,63329.54
+2019,121764,25282.25
+2023,161298,32686.71
+2014,204222,86181.92
+2015,112557,99905.9
+2006,18013,35226.41
+2020,21446,19141.4
+2009,201447,80351.23
+2011,102261,62043.29
+2023,262701,14538.11
+2013,168461,94943.29
+2004,178772,12414.71
+2020,130878,64408.86
+2017,99143,45274.04
+2004,24578,57879.27
+2002,74779,25255.35
+2022,140668,70370.49
+2004,72534,96173.37
+2023,272273,48550.46
+2016,197118,54681.04
+2018,273740,27782.11
+2018,65355,89727.46
+2020,12974,97261.57
+2011,197745,79698.2
+2008,251366,56563.48
+2000,74442,95895.7
+2017,152890,19615.76
+2020,55598,50456.63
+2003,133726,56072.54
+2009,33758,51732.06
+2006,286348,81229.74
+2021,127309,68688.27
+2022,166000,17032.55
+2000,184681,37912.87
+2016,30552,37212.3
+2023,147278,58735.06
+2001,34831,32688.55
+2010,43563,16140.82
+2008,18361,67099.85
+2006,74469,85848.51
+2021,25816,93502.77
+2016,257422,97394.95
+2016,146691,79206.1
+2001,234295,18271.73
+2005,92479,86045.62
+2013,26819,42996.21
+2005,8798,74341.57
+2001,156215,55470.46
+2000,243942,83717.58
+2009,230259,45423.04
+2020,129544,10870.41
+2004,152254,57898.25
+2001,253800,21272.6
+2021,9415,96724.18
+2015,87638,55061.49
+2001,18452,57588.09
+2009,195457,91190.24
+2001,110205,64335.6
+2015,18170,33759.29
+2015,16259,33128.99
+2018,284243,52649.97
+2006,140721,87327.78
+2021,129394,80499.29
+2011,172109,96460.36
+2023,273949,11829.18
+2014,254599,30490.98
+2007,43147,12619.73
+2005,74280,76352.52
+2009,177125,18379.2
+2002,97841,14489.2
+2018,124726,58358.86
+2016,76215,44091.05
+2006,112909,72934.63
+2020,273129,51266.46
+2019,274535,45406.79
+2003,4861,45422.54
+2013,261968,87828.26
+2019,183000,42546.44
+2021,296508,36672.73
+2014,249072,37160.83
+2023,224402,23677.08
+2007,42923,86765.44
+2020,186968,18929.93
+2014,165912,91318.02
+2021,173327,31929.43
+2019,128165,90445.55
+2013,230314,80127.96
+2008,295673,60288.81
+2007,144013,68599.65
+2016,1669,35955.19
+2001,216854,59551.72
+2023,55786,32778.28
+2002,182155,43215.92
+2007,20323,77642.94
+2011,230502,28173.59
+2000,257249,84690.37
+2009,6021,40708.87
+2019,113415,55556.15
+2002,270855,94486.25
+2005,7904,69719.28
+2006,64033,66332.39
+2019,231659,72602.73
+2022,120035,92220.58
+2017,220859,28608.8
+2010,186168,63257.91
+2018,221666,43037.42
+2004,231853,6126.25
+2018,265237,16903.59
+2010,287062,35874.23
+2023,193708,58675.0
+2011,189878,88740.1
+2009,140466,80155.84
+2007,124501,57566.7
+2023,260228,12017.69
+2008,92510,32161.1
+2003,93708,39837.32
+2004,97819,64063.13
+2020,235603,11167.74
+2007,36303,55368.39
+2022,27453,90639.13
+2008,199521,72016.11
+2014,156837,80722.3
+2014,222787,69759.19
+2015,38057,24625.97
+2013,189060,15495.96
+2007,94655,83801.61
+2017,277169,71072.92
+2009,269289,59630.85
+2019,101206,22981.87
+2005,186869,62317.77
+2011,73230,7975.57
+2001,155002,16289.72
+2006,108138,34629.56
+2015,207097,47155.14
+2002,212376,16453.63
+2012,62040,16394.32
+2002,108668,73959.9
+2017,198768,59123.34
+2010,56815,55705.49
+2007,216741,47981.28
+2005,112789,97771.6
+2000,219478,9731.03
+2000,167644,22159.58
+2022,185102,66513.24
+2007,244533,17954.74
+2004,237469,60991.19
+2015,233308,58937.32
+2010,160275,97245.49
+2004,77088,88921.72
+2003,5608,94827.57
+2005,45667,15792.23
+2013,55547,87474.1
+2021,234907,17263.61
+2018,57560,65128.56
+2008,214601,73407.43
+2011,159487,20281.08
+2010,184286,65102.64
+2013,280141,9983.75
+2022,121266,32860.28
+2015,3679,92510.06
+2000,40308,21314.46
+2012,206096,11200.65
+2022,170914,47149.43
+2020,5695,85808.73
+2020,226812,12283.88
+2012,58499,38775.86
+2001,23382,90478.61
+2003,276379,16224.78
+2005,193295,34513.51
+2022,133438,78949.96
+2004,158539,56605.04
+2002,6764,84071.65
+2000,221968,15601.56
+2003,113831,92452.65
+2019,61836,93816.62
+2001,294067,19754.74
+2004,255033,8218.17
+2002,16292,99034.93
+2008,283083,50813.9
+2019,243772,59347.16
+2005,18800,63510.95
+2017,56440,80018.5
+2005,127521,82138.86
+2018,121327,23422.9
+2011,49648,27480.49
+2010,291908,88299.14
+2001,294614,82854.17
+2014,256160,63673.84
+2011,169573,99496.42
+2011,57207,74842.47
+2008,62157,25504.49
+2020,134288,85431.19
+2023,153144,44399.6
+2001,93778,8434.5
+2021,130016,35535.02
+2002,124288,77537.37
+2011,168204,96219.59
+2015,110573,31232.96
+2020,120730,28419.05
+2023,64186,58543.58
+2000,267104,82109.97
+2020,18781,75919.94
+2002,237677,58196.1
+2019,257506,64982.02
+2001,31126,27999.4
+2008,238217,46094.56
+2018,280027,29259.73
+2014,29782,89019.71
+2017,148051,15692.68
+2010,295890,69575.35
+2022,261161,29726.9
+2015,66266,50179.85
+2021,56,33444.21
+2016,293601,35708.31
+2004,132773,29737.34
+2011,187453,76515.33
+2010,181510,39743.01
+2014,80636,74003.92
+2002,66483,48326.64
+2000,20505,56988.37
+2019,33525,56612.31
+2015,211474,97705.95
+2001,96008,39870.93
+2001,44348,24729.99
+2002,202259,91620.23
+2007,269417,21609.73
+2023,206641,84270.17
+2014,134607,19270.42
+2006,214096,67578.81
+2005,107157,19301.38
+2008,908,92693.15
+2019,252299,58675.79
+2000,201225,36281.01
+2007,108352,18330.66
+2022,95967,40263.26
+2022,35079,71976.9
+2002,212628,41570.33
+2003,111889,28378.94
+2014,262063,59853.9
+2005,46105,44693.08
+2014,132957,20751.59
+2020,1049,19628.86
+2002,53281,72208.89
+2020,66697,97593.83
+2020,36534,27143.94
+2013,93034,78449.12
+2019,58097,13322.64
+2013,184885,41249.71
+2003,287181,53135.37
+2011,27278,30530.96
+2016,139344,55309.95
+2006,73277,88848.37
+2008,4694,94721.61
+2002,58150,14552.91
+2012,67470,30825.36
+2014,21556,98017.72
+2017,195543,30689.75
+2018,49086,70807.2
+2000,149979,29078.1
+2005,248399,38854.73
+2022,179559,23171.5
+2001,99468,86348.52
+2023,295531,88851.63
+2013,68602,33206.69
+2005,2460,83241.03
+2013,72356,39032.96
+2003,259925,14406.85
+2020,16191,77017.26
+2007,84631,61662.39
+2002,245702,31066.33
+2018,272673,29034.98
+2013,32175,97684.22
+2019,279819,86937.6
+2016,157048,81930.84
+2007,194188,17161.68
+2023,62821,76742.79
+2013,12204,25381.32
+2005,269538,97851.95
+2022,246464,9948.47
+2021,33593,38453.16
+2015,208260,45721.54
+2018,115064,83299.28
+2013,53365,77791.17
+2018,240644,40624.25
+2002,220511,58728.23
+2009,206971,84381.54
+2018,103700,6728.96
+2008,68247,81206.92
+2019,182631,94955.12
+2012,156270,8046.13
+2006,153560,9330.19
+2013,169587,37728.83
+2008,290042,13338.11
+2022,181142,50531.23
+2018,62613,74227.52
+2014,96707,58855.43
+2019,47003,23661.03
+2013,48478,67207.07
+2023,59030,70061.18
+2005,184133,93582.37
+2020,145921,18945.71
+2003,246160,70771.94
+2007,267589,91585.59
+2016,149112,52648.59
+2008,262390,39370.97
+2000,31153,21221.2
+2023,267356,87344.75
+2019,134411,42453.41
+2013,56238,92863.83
+2010,296751,85537.04
+2020,52055,40780.79
+2002,104509,59521.86
+2008,135467,7581.53
+2013,127378,30006.03
+2008,87687,72475.92
+2003,102652,69401.54
+2003,55773,38570.1
+2007,202668,81817.76
+2001,27584,27404.42
+2008,244901,48820.7
+2013,265482,49890.41
+2021,62601,37377.59
+2008,136559,95693.28
+2023,36282,71184.98
+2022,226137,56223.94
+2015,95798,53498.93
+2016,130963,20133.13
+2015,159876,40357.76
+2011,140987,68913.46
+2002,273302,92834.17
+2010,205229,82564.09
+2013,10547,33537.03
+2017,264603,46225.88
+2020,63146,12877.16
+2020,107761,14706.37
+2004,82970,49671.89
+2015,191889,55370.84
+2019,169319,30082.57
+2004,15419,66064.36
+2002,35577,71821.17
+2011,2921,33416.03
+2000,144535,77050.35
+2020,156546,24532.47
+2008,125534,56703.88
+2008,256872,81406.7
+2003,72828,56015.86
+2002,123649,91256.46
+2016,55152,10557.62
+2001,220073,60889.82
+2023,223393,58366.77
+2000,86569,67733.57
+2007,156844,84173.65
+2012,159562,73956.04
+2022,122537,80076.86
+2014,53806,32437.59
+2007,75992,41812.25
+2011,284464,64543.81
+2021,258852,57578.84
+2011,173217,96304.87
+2013,194760,22749.28
+2014,20754,38371.45
+2014,69837,59411.75
+2008,138279,87456.56
+2018,218811,93288.11
+2019,114780,36923.45
+2021,87081,11375.3
+2007,286160,45053.87
+2020,112099,42462.69
+2018,151174,98716.27
+2005,264068,45950.82
+2019,85015,34043.68
+2018,104987,39710.85
+2003,54333,42708.0
+2022,215530,83046.34
+2006,177171,12696.41
+2003,188418,35068.17
+2021,126372,96800.26
+2011,206553,19544.74
+2012,69767,75547.13
+2002,104332,38857.38
+2021,143279,60269.62
+2011,6336,14457.06
+2001,206238,34109.11
+2023,279400,52582.17
+2001,230517,27011.56
+2022,180889,56477.64
+2008,295863,25877.13
+2000,45704,66759.55
+2007,292157,90913.66
+2022,226884,13121.42
+2005,167848,25578.52
+2005,272204,85220.19
+2021,219182,64997.58
+2017,78563,12477.35
+2016,135102,51203.26
+2011,89779,24927.06
+2005,164361,23914.16
+2007,99704,94361.31
+2018,261757,77346.45
+2009,110234,71141.91
+2000,36491,27698.24
+2012,226621,16264.48
+2016,20448,87729.1
+2002,49294,5558.56
+2007,283590,41869.16
+2013,216461,31373.19
+2002,85615,59185.74
+2015,17101,28798.3
+2012,290160,34564.51
+2019,150004,85753.79
+2023,90481,62302.94
+2016,52802,18839.84
+2012,269693,74014.8
+2005,210005,24708.62
+2016,156434,46135.47
+2013,47842,66427.69
+2016,46539,30833.31
+2007,33717,41490.15
+2010,246281,74744.21
+2019,186272,94101.54
+2000,115042,55278.28
+2006,127922,5947.24
+2020,92447,37154.06
+2020,158693,42870.26
+2016,12823,37221.49
+2009,29986,46445.54
+2010,121682,65103.29
+2021,64325,16507.16
+2008,250476,30899.9
+2008,57771,53226.57
+2023,54973,34979.46
+2004,145762,99153.11
+2016,57888,45985.99
+2008,10956,87630.92
+2016,86839,90168.43
+2023,167605,84420.66
+2020,101131,9455.33
+2018,187973,95035.94
+2006,11519,17230.54
+2022,162187,8268.34
+2008,1832,44365.11
+2006,113922,23490.23
+2012,105474,22498.67
+2010,69715,32342.86
+2013,73366,28598.53
+2018,37570,70055.56
+2010,137687,22743.84
+2012,38311,56596.24
+2013,103187,98710.52
+2012,285578,46076.33
+2000,86879,65977.95
+2007,15739,97090.31
+2011,66202,18075.7
+2018,98580,44767.67
+2011,224491,85768.28
+2007,79599,93569.04
+2007,164721,62117.43
+2020,231436,18624.96
+2012,116770,90639.8
+2011,179693,21572.42
+2015,261051,38523.4
+2000,114300,40673.26
+2012,191012,47492.7
+2006,171796,80065.75
+2004,162776,81203.72
+2007,241942,73367.23
+2013,2526,7102.22
+2022,268718,58660.28
+2012,270877,76011.83
+2014,36051,47239.4
+2022,15909,94768.92
+2016,77338,83262.0
+2014,290277,65624.73
+2019,182643,10930.39
+2017,79062,66972.89
+2017,181980,91600.06
+2001,51458,41047.31
+2003,222159,84622.59
+2000,287442,34750.31
+2003,231946,59159.81
+2017,153263,66600.32
+2004,164164,69409.53
+2018,89407,88842.18
+2014,206329,27289.12
+2007,62513,29925.11
+2019,145476,71883.89
+2016,35198,21833.41
+2000,225295,49105.69
+2011,264323,6903.27
+2018,2019,18393.04
+2014,81455,69490.41
+2008,216311,76008.85
+2006,149776,15955.31
+2001,149102,26632.41
+2008,3420,14395.92
+2009,178725,46174.22
+2001,16740,16981.03
+2018,105789,46543.12
+2010,19465,74549.33
+2012,4131,69921.92
+2009,10652,31643.75
+2013,218115,69007.44
+2017,245289,93132.65
+2018,89342,38014.82
+2021,281315,36266.32
+2008,217201,59286.67
+2006,259820,28322.67
+2002,186764,66900.0
+2019,58541,84064.87
+2005,9470,48635.26
+2020,192416,69553.2
+2001,44308,66929.12
+2005,135669,8673.23
+2002,102840,22424.55
+2015,161860,89885.35
+2007,49477,94194.75
+2001,108261,79141.77
+2016,102466,92518.57
+2008,295215,34084.12
+2011,70560,28532.54
+2002,255392,41508.52
+2010,261278,10257.49
+2000,166471,81937.8
+2022,244413,98496.67
+2012,188511,83282.78
+2014,2369,57722.66
+2004,228629,33051.79
+2020,262672,23781.3
+2016,108806,39585.97
+2022,161386,68362.11
+2023,102979,47470.85
+2005,281892,93735.68
+2020,35109,86150.93
+2021,13919,14728.06
+2010,211864,17494.9
+2017,70441,69242.72
+2003,66896,26923.0
+2002,103431,80147.84
+2012,47020,61179.02
+2022,205338,26833.9
+2008,284305,50475.25
+2020,27738,43577.25
+2005,134997,87950.14
+2011,57153,8055.44
+2001,214020,90105.17
+2002,61009,66947.85
+2002,172624,75066.13
+2011,271941,5247.71
+2014,71942,64682.75
+2008,118065,60906.19
+2022,276109,56034.53
+2007,275877,79657.35
+2010,157998,57807.75
+2015,159855,86424.23
+2021,83360,27099.99
+2003,167466,81568.35
+2000,195868,22034.71
+2023,290431,82246.19
+2006,82104,94344.03
+2001,161508,36890.94
+2023,221404,55339.2
+2004,265332,67541.26
+2006,91205,12549.81
+2003,232321,51937.67
+2004,137837,39255.57
+2023,219779,87883.28
+2000,141879,88284.55
+2000,10204,71574.06
+2014,223674,67293.83
+2019,189016,74700.4
+2018,102903,39768.76
+2009,299225,43429.33
+2017,256687,57601.95
+2002,34986,94112.67
+2010,50304,73779.99
+2014,39986,57343.98
+2010,91594,78189.24
+2016,66151,40234.58
+2016,290358,74394.34
+2005,173620,44014.24
+2004,141753,31567.83
+2007,138056,62923.78
+2001,158651,70253.37
+2015,234347,48632.89
+2019,186005,58722.57
+2023,162553,70936.28
+2011,944,77932.45
+2005,93993,90079.29
+2000,271258,38681.7
+2003,214738,95390.34
+2016,208920,65541.58
+2012,256805,79831.68
+2017,294740,71478.06
+2004,104087,24529.31
+2023,269051,11786.65
+2023,255035,73997.21
+2002,159186,53550.0
+2010,287153,71710.27
+2012,166797,50300.07
+2003,281140,34662.28
+2013,290911,32076.7
+2021,278491,74400.55
+2010,102063,31294.11
+2009,24102,72894.3
+2018,4263,41476.21
+2017,67438,78235.35
+2005,96359,18566.94
+2014,130251,24473.09
+2020,171915,70161.6
+2009,27690,58221.96
+2004,2994,24368.44
+2004,103533,90768.57
+2009,67546,31214.69
+2004,26467,45001.78
+2002,246590,24217.35
+2022,131120,41862.62
+2005,168050,51706.44
+2003,73414,33048.47
+2017,180294,78063.9
+2008,48115,42423.63
+2016,40647,74303.45
+2012,54607,24671.86
+2014,21996,40818.37
+2019,83697,5765.54
+2016,67764,77070.57
+2012,239190,64459.23
+2015,8888,82693.22
+2021,219738,48283.02
+2003,221432,80975.36
+2004,279477,66520.34
+2004,36355,5343.23
+2008,230487,29100.96
+2016,129686,51919.68
+2012,162217,63775.3
+2001,249602,11231.13
+2012,249434,71982.59
+2021,180926,56635.93
+2020,67664,54949.03
+2022,86153,32744.33
+2018,93616,61508.19
+2002,297429,7611.82
+2009,256349,11146.53
+2001,46996,74717.66
+2012,128344,35579.68
+2018,229685,37961.87
+2016,128019,24796.59
+2020,135024,47333.97
+2013,183273,9939.38
+2011,120454,33534.51
+2020,124444,55076.77
+2011,153868,49235.03
+2010,162818,99968.62
+2006,15,41932.64
+2003,157029,41764.91
+2018,81541,52840.27
+2000,21292,23078.8
+2023,162948,88248.92
+2002,191799,59365.44
+2012,47046,23250.23
+2014,14817,80376.95
+2001,9759,8261.56
+2010,179504,98343.6
+2003,268556,87189.19
+2018,282648,60065.75
+2016,270651,15573.09
+2002,21050,25450.91
+2017,100153,31546.34
+2007,275731,27898.02
+2021,231329,52264.4
+2023,57732,94733.24
+2018,51921,47196.4
+2004,117734,67848.63
+2006,137912,70415.4
+2020,31440,87800.17
+2007,35183,8213.02
+2004,133461,43411.36
+2016,114515,79549.84
+2004,220533,82412.37
+2003,115503,93096.6
+2021,39023,71765.46
+2018,181101,28289.62
+2020,218031,53038.25
+2001,76054,8072.8
+2010,61742,66458.19
+2021,45215,57658.05
+2012,159245,68349.45
+2014,241443,93363.35
+2011,103591,70291.28
+2021,249045,35442.74
+2020,46229,23879.98
+2021,62583,86190.44
+2010,255931,23461.55
+2006,159996,20352.91
+2004,126011,24628.15
+2016,292248,53339.88
+2023,240660,16797.81
+2019,299738,94121.24
+2008,265808,96794.1
+2013,272672,97511.18
+2011,159262,8716.86
+2005,197105,94888.77
+2016,204249,99754.42
+2018,128404,94530.77
+2018,201664,68739.2
+2015,295043,71616.86
+2011,17241,16614.03
+2011,63472,88058.22
+2019,205320,10665.76
+2005,31346,35184.4
+2022,81196,99159.41
+2003,208196,45121.15
+2005,149014,17459.84
+2010,298517,97082.99
+2000,120623,98493.27
+2023,2016,22769.06
+2022,7274,87156.36
+2014,15748,42090.22
+2010,11826,41230.0
+2018,129288,29956.28
+2017,201081,9247.48
+2016,251054,30460.85
+2018,172507,10108.81
+2020,206089,92815.34
+2013,223023,67863.46
+2017,192949,89229.15
+2018,69072,73142.61
+2014,67309,17472.25
+2014,160966,94355.25
+2003,185639,90489.84
+2006,35326,38067.23
+2012,186131,15595.67
+2002,267223,71894.7
+2015,87340,74194.32
+2008,167364,90198.76
+2007,118192,10002.3
+2019,251749,18461.86
+2012,51818,61833.64
+2016,13429,63817.5
+2016,57748,8192.92
+2016,48807,42708.54
+2000,269284,60495.36
+2007,238161,75101.58
+2018,290669,35034.32
+2005,282635,50970.83
+2002,199888,82335.21
+2004,166052,95620.03
+2012,226597,26879.89
+2014,8078,29039.01
+2013,91654,94282.73
+2022,129101,42611.56
+2015,16997,73243.09
+2017,131940,63165.2
+2021,212650,32130.83
+2021,283390,67088.41
+2010,151633,67278.76
+2002,34512,61282.1
+2021,225226,14467.78
+2009,208467,99541.32
+2009,72144,43039.56
+2020,173557,65633.84
+2015,117363,89147.36
+2011,201484,45212.41
+2001,181675,78522.88
+2008,152110,97323.32
+2023,93542,39098.8
+2002,276469,43500.61
+2023,166964,91029.73
+2014,149068,20166.07
+2002,205355,7716.51
+2018,116737,91344.46
+2017,262968,83051.2
+2007,240417,97395.39
+2016,117718,10532.59
+2007,273661,19836.85
+2006,152755,15004.69
+2006,207791,69924.53
+2002,249120,62570.96
+2000,254322,39136.84
+2003,209485,10455.23
+2004,272126,65767.89
+2000,145711,59161.45
+2014,70210,15725.81
+2004,69852,91346.42
+2012,255139,23900.22
+2007,9695,75633.37
+2007,48582,89082.21
+2004,293238,60050.12
+2008,191707,28450.65
+2000,284331,34378.61
+2003,128721,89146.02
+2002,106683,33334.43
+2001,263358,75888.1
+2007,286084,99065.7
+2022,44406,99982.59
+2008,147049,55680.58
+2001,235994,83522.8
+2013,187313,99073.74
+2013,204573,40593.92
+2003,206205,28978.91
+2005,60481,15852.17
+2010,238084,18385.47
+2002,289884,86087.85
+2007,274025,60928.69
+2002,299140,88002.37
+2013,163249,79998.23
+2012,122196,69005.74
+2012,37177,62884.66
+2001,66126,9592.2
+2012,26119,87866.14
+2018,117744,44695.0
+2005,116894,58179.75
+2015,158987,7085.58
+2001,44989,93926.98
+2007,284250,90760.34
+2016,279275,56611.41
+2022,6553,59844.61
+2001,17881,71976.64
+2009,1379,30146.02
+2015,69306,26081.98
+2005,243825,69032.18
+2001,104512,14920.13
+2001,278494,48135.89
+2012,99599,51812.24
+2023,81397,41227.01
+2014,17769,22600.48
+2001,178321,38755.05
+2006,101584,37067.94
+2002,133858,52430.24
+2007,231609,69094.68
+2022,126525,96982.34
+2013,36303,18695.51
+2023,19589,87936.63
+2022,265026,31996.91
+2021,180394,61180.41
+2006,129236,56940.01
+2020,271889,57910.1
+2006,15861,73719.07
+2000,91707,41260.39
+2016,255043,35314.5
+2008,133909,86019.28
+2020,54380,25909.03
+2012,105025,22123.37
+2020,180903,6482.71
+2018,220421,25004.89
+2020,244497,54260.49
+2018,160592,56158.34
+2021,44397,29169.95
+2016,277132,11866.05
+2022,158795,75740.88
+2022,33800,77007.66
+2009,158502,99794.46
+2009,199548,90502.81
+2003,257653,92975.9
+2007,52284,80829.36
+2021,56232,63472.77
+2019,44420,17211.87
+2019,299854,64119.76
+2017,92035,10315.81
+2013,293427,89103.42
+2017,197241,50773.03
+2013,193529,71259.92
+2019,249863,9963.15
+2020,25968,55753.6
+2023,62508,33620.02
+2014,235863,32071.99
+2021,194292,42017.31
+2003,85366,5060.75
+2012,5738,49332.78
+2022,3098,51223.83
+2007,95424,86997.44
+2017,204705,47609.93
+2011,78672,39537.85
+2022,139325,99500.97
+2013,125349,59265.27
+2001,50969,49898.25
+2017,90744,52113.9
+2023,201495,81872.22
+2001,117286,37364.26
+2010,75028,41970.24
+2008,297565,76807.97
+2011,38575,11933.46
+2016,3192,87191.07
+2014,111116,45869.26
+2016,81311,60222.83
+2017,80781,76960.24
+2021,36527,30274.93
+2005,52181,89579.85
+2016,91472,98026.37
+2022,81219,51956.06
+2023,119783,94009.05
+2017,161554,5107.22
+2007,179300,89952.59
+2008,83265,34549.31
+2005,50126,34592.07
+2004,282689,26668.44
+2011,55114,35116.32
+2010,206422,25281.04
+2000,188873,91057.57
+2010,276034,90407.25
+2018,121284,14710.07
+2008,194469,18571.55
+2001,142290,86891.77
+2011,88241,42899.09
+2003,296866,21080.81
+2003,182615,53513.59
+2017,30921,44583.46
+2014,161686,25820.35
+2018,192261,73471.46
+2012,17601,64972.48
+2018,93332,14467.85
+2016,202615,92911.74
+2005,235572,58054.65
+2015,290144,28769.43
+2023,130439,24597.72
+2011,239691,17915.06
+2018,119277,45340.55
+2004,292527,17876.4
+2016,142857,44502.56
+2022,40910,19133.19
+2000,170100,67396.71
+2023,155927,79597.99
+2022,286425,57204.66
+2009,4841,69605.4
+2014,97204,94145.98
+2022,60155,65645.3
+2020,259589,39595.03
+2020,261140,47700.62
+2010,148515,86749.9
+2012,132994,17418.43
+2004,294120,35945.02
+2000,143063,59841.61
+2023,104405,69257.01
+2011,53744,77532.41
+2010,2473,35229.65
+2016,139180,18856.62
+2003,28715,95709.72
+2014,244826,12257.26
+2008,253856,14101.51
+2020,239419,52019.54
+2019,252508,82830.75
+2018,299461,78577.89
+2018,164434,94081.43
+2011,54604,18452.24
+2004,4889,40694.09
+2009,220629,31803.5
+2016,294115,86782.66
+2004,50551,51393.69
+2021,134273,7550.55
+2015,237230,72256.62
+2006,236139,41926.32
+2008,108957,55458.94
+2002,89882,89909.81
+2014,210323,29390.09
+2015,267825,27825.14
+2017,101982,30003.29
+2013,46870,37120.26
+2002,213328,15198.63
+2011,159224,71235.87
+2008,50061,24702.88
+2006,188691,92983.85
+2008,58235,25490.2
+2012,90073,29285.99
+2017,11217,33216.92
+2004,295885,78011.12
+2012,192386,45622.62
+2003,263552,82836.79
+2001,42903,79561.1
+2015,215280,93301.59
+2008,107042,76877.39
+2008,243725,9931.56
+2005,132290,84541.72
+2010,181644,94116.9
+2021,109268,99400.47
+2023,30105,16900.42
+2021,69634,63260.96
+2000,138691,23948.57
+2003,18226,29938.42
+2012,25322,75830.51
+2022,167284,97878.43
+2012,94835,61511.27
+2012,255027,85805.52
+2001,73079,5843.96
+2008,23946,8480.01
+2023,162812,61688.81
+2007,7253,41953.39
+2006,79311,89526.99
+2003,294957,33688.28
+2017,67593,46044.85
+2002,149485,55151.37
+2005,226833,30938.69
+2011,38485,91307.01
+2011,199304,49130.69
+2020,278245,45294.78
+2007,8831,85726.54
+2021,5004,34637.95
+2021,37170,82659.21
+2000,43555,16615.92
+2003,118115,22364.91
+2020,178475,95329.96
+2010,298509,85032.51
+2002,207132,41850.4
+2012,63471,65653.36
+2016,57287,94582.17
+2021,116475,25126.6
+2021,50151,10605.99
+2009,67384,56059.47
+2020,33541,18546.7
+2011,72847,22795.31
+2014,218171,89696.22
+2020,211811,5703.33
+2009,213739,82597.9
+2013,167813,54110.32
+2012,99919,58132.97
+2004,216746,68817.96
+2005,194020,45987.27
+2023,61768,15983.13
+2001,43262,14767.92
+2021,20605,76664.41
+2016,78590,25998.34
+2003,290375,7669.66
+2013,79397,98063.32
+2009,77123,98137.19
+2002,275659,40923.43
+2002,278744,7424.77
+2014,158964,74090.14
+2005,168767,83946.15
+2016,135501,16876.3
+2011,135678,17868.57
+2021,114380,83111.28
+2019,171206,92581.2
+2023,156547,80121.71
+2010,152802,24070.77
+2003,152185,44094.52
+2005,151083,62080.03
+2000,55746,20227.88
+2019,173925,25007.24
+2022,298962,31874.18
+2015,168393,53403.76
+2014,283453,53526.46
+2016,290320,82357.98
+2007,68879,76535.97
+2011,67592,91804.89
+2021,220084,84125.66
+2020,197494,29118.37
+2009,270728,36473.19
+2014,124555,52540.21
+2008,18830,6355.76
+2001,216897,90870.69
+2004,252234,9212.7
+2005,265735,35631.92
+2006,93878,59071.61
+2020,125407,54194.93
+2000,116869,67173.69
+2022,257716,55114.42
+2006,283539,26755.14
+2019,16738,24102.43
+2011,133703,91188.47
+2015,148977,30076.84
+2015,19056,31692.84
+2010,240746,44230.53
+2020,115316,18246.64
+2003,166519,53190.92
+2012,54418,68178.02
+2006,299334,79670.05
+2003,26014,72588.15
+2014,204071,19025.42
+2018,238989,48326.38
+2008,181350,8665.69
+2010,263924,6690.81
+2007,190330,46812.39
+2000,42192,29031.25
+2022,43923,69919.28
+2023,89196,73802.87
+2007,2395,90063.35
+2012,228456,77264.84
+2021,71028,9583.19
+2003,242463,40304.19
+2007,141056,30937.22
+2002,203400,41682.58
+2008,255315,20207.19
+2001,289068,14281.89
+2001,294721,54493.53
+2012,138783,73436.22
+2014,85548,71681.54
+2022,257288,47839.71
+2011,125093,54616.5
+2003,235835,54051.23
+2007,206084,70699.19
+2008,270398,9552.89
+2022,229027,72440.13
+2004,208072,60309.09
+2023,248029,23820.33
+2019,209047,9660.59
+2017,130509,15310.14
+2010,237784,54845.68
+2014,295107,77048.81
+2021,3273,36792.44
+2008,15330,41016.77
+2016,152566,93743.91
+2011,76422,25236.24
+2006,3212,14856.2
+2009,232131,37623.96
+2009,87594,75862.6
+2012,132152,64477.34
+2018,294819,44500.57
+2010,22007,96651.49
+2012,113805,74824.66
+2020,95815,10876.84
+2007,262783,75739.99
+2007,78038,7283.66
+2003,265880,66780.72
+2014,253506,24995.87
+2010,16473,71162.01
+2010,128771,34429.06
+2000,125801,87935.6
+2016,86623,37006.81
+2014,225097,63871.11
+2019,298964,32163.12
+2005,215933,92136.05
+2023,196879,79194.62
+2021,280558,28113.77
+2014,24220,95135.69
+2008,60531,38929.97
+2013,173497,66927.17
+2017,9387,75571.06
+2016,245752,7175.71
+2017,76815,96101.9
+2004,27584,37721.92
+2019,44783,23028.99
+2019,170881,85817.24
+2008,185399,71775.43
+2010,124494,13240.61
+2023,115814,16119.24
+2021,250139,72943.23
+2000,141929,12104.41
+2017,173333,92131.67
+2005,246509,75446.31
+2001,13580,36871.76
+2014,18240,39479.18
+2020,254351,53117.13
+2013,254271,39292.09
+2004,80974,79429.51
+2005,73401,97600.01
+2005,213165,60529.54
+2021,164340,47373.55
+2017,265790,26163.54
+2013,186443,67076.17
+2009,248123,70129.8
+2013,89460,70093.11
+2012,51048,7563.58
+2002,206518,90416.6
+2005,132850,37120.12
+2007,211912,75695.75
+2011,266891,77181.66
+2012,45,66802.72
+2010,7758,42512.32
+2011,255397,62796.5
+2000,154509,8818.88
+2016,150657,77380.1
+2015,140926,14460.92
+2010,183148,42691.34
+2012,148421,14843.78
+2017,227300,84522.07
+2010,152420,57278.73
+2011,165368,70640.74
+2005,19455,69845.31
+2008,209896,84952.59
+2015,231897,17594.09
+2003,88552,67674.17
+2002,40484,59637.74
+2015,134476,7935.23
+2023,168332,24135.18
+2011,100647,30419.3
+2010,65642,11892.86
+2004,211803,38698.38
+2017,128824,7584.24
+2018,248914,57552.43
+2022,291749,25092.59
+2022,110879,32265.3
+2005,120827,91494.8
+2021,267724,52767.6
+2017,267544,30556.32
+2005,170715,61853.87
+2003,227257,24158.79
+2011,127319,12067.59
+2018,106960,6986.1
+2001,39015,95395.26
+2016,203877,73838.03
+2010,145109,80995.07
+2010,262063,98187.18
+2020,88754,93504.73
+2015,221775,75006.75
+2001,203225,70928.77
+2001,152606,37000.75
+2022,222067,14881.64
+2007,56879,59503.64
+2012,119894,59744.06
+2009,65839,95462.54
+2007,29756,47044.23
+2003,143755,70626.72
+2014,180557,59622.21
+2000,229303,21792.22
+2010,149787,61246.11
+2006,92943,56311.09
+2016,218188,51921.07
+2019,148188,53775.18
+2023,36744,20578.86
+2017,124697,49030.38
+2021,116072,62537.06
+2021,236028,51497.67
+2011,169123,51425.19
+2008,7176,12364.18
+2004,252365,23123.54
+2009,149748,35492.41
+2003,45177,44837.96
+2004,110623,61424.06
+2009,997,87017.78
+2010,120179,20120.65
+2020,247439,6433.36
+2023,120403,47677.53
+2009,95287,46049.78
+2007,119574,57430.62
+2001,256463,84156.07
+2022,121509,81224.25
+2007,248505,14504.11
+2015,192589,93729.56
+2021,289531,15489.37
+2004,4090,65284.2
+2002,3743,68878.6
+2011,30924,69588.36
+2012,141268,30208.36
+2012,105312,36382.78
+2009,216249,57124.3
+2003,224090,23960.81
+2008,229602,6929.49
+2021,103976,58403.72
+2023,155183,49201.46
+2022,113566,67389.46
+2001,257443,18936.55
+2018,119968,84887.86
+2000,61600,18891.04
+2006,50022,89677.64
+2016,134271,47704.51
+2002,123323,57231.5
+2019,186110,90175.23
+2019,120278,33491.74
+2020,270041,22273.56
+2002,64541,47346.4
+2002,106968,28214.89
+2016,14892,55145.17
+2006,24815,31149.5
+2013,278411,87126.51
+2016,280412,62695.84
+2017,114463,5022.86
+2012,190732,81520.0
+2019,196599,36370.17
+2019,194451,35419.76
+2020,172343,41390.97
+2017,138307,64874.94
+2003,88757,46995.77
+2000,296753,64720.38
+2017,254200,18944.17
+2000,23645,97165.62
+2012,195630,74312.6
+2019,154473,28769.68
+2019,269915,73796.14
+2022,151460,59627.42
+2009,83251,15372.95
+2010,57042,21928.66
+2008,196945,8924.27
+2008,47024,81877.62
+2004,154522,57411.95
+2000,56965,35091.12
+2016,272201,17002.77
+2021,224321,50984.36
+2001,271127,54899.83
+2023,19995,71685.11
+2012,114587,97144.03
+2008,233076,46319.83
+2003,222700,43573.25
+2004,38886,40143.35
+2010,95149,83557.77
+2023,94020,19850.14
+2018,2673,37662.23
+2020,23466,73872.23
+2002,237626,6491.02
+2011,50406,32491.17
+2018,69284,65937.48
+2018,235718,22665.45
+2012,13665,33757.5
+2006,20641,51174.28
+2014,35797,45092.24
+2022,215838,15072.58
+2006,102339,94132.36
+2007,113431,9207.81
+2004,232275,76225.56
+2020,283317,11785.16
+2013,144294,49393.1
+2003,181136,21664.07
+2022,168082,18404.29
+2009,253301,16960.31
+2019,18095,48014.73
+2014,123554,53971.07
+2017,234989,17671.53
+2019,89023,98042.59
+2012,107181,29487.76
+2007,222310,48589.93
+2008,282744,25545.61
+2015,264610,51922.65
+2018,256349,76821.58
+2015,176169,54504.69
+2006,53276,32136.64
+2013,269072,28597.68
+2013,205719,77098.77
+2003,171960,16232.63
+2014,226097,40146.82
+2002,174904,19390.86
+2004,116196,29507.7
+2000,9404,19504.91
+2002,209190,89243.39
+2014,113187,74530.9
+2023,27684,58288.09
+2007,68591,26320.4
+2003,208794,53471.55
+2001,264826,54479.15
+2023,111186,61088.35
+2023,243181,10708.09
+2009,21832,97425.69
+2003,16997,49216.7
+2002,296784,93020.52
+2001,40491,5931.77
+2016,63043,28518.05
+2022,128568,14879.58
+2020,72725,78113.54
+2023,128131,35411.88
+2019,45520,84846.79
+2022,109869,84076.61
+2012,64442,68440.51
+2004,261025,68249.27
+2020,152842,71515.17
+2008,178570,69007.56
+2021,123447,41756.29
+2005,61477,69868.63
+2004,244,90253.66
+2009,177561,36594.48
+2007,290534,94764.46
+2006,10247,6290.25
+2006,200123,38162.84
+2005,190791,17549.35
+2020,207358,17028.88
+2019,291727,82465.8
+2002,139148,92244.99
+2018,146123,78887.03
+2021,28670,97778.49
+2014,10236,25551.25
+2003,35568,18375.99
+2011,107327,54466.86
+2005,255745,83758.57
+2018,278496,8784.71
+2003,125721,99578.74
+2014,259291,62213.36
+2008,156228,97999.47
+2004,55904,39682.76
+2012,278252,48512.26
+2022,264997,76474.34
+2017,266320,80306.54
+2004,100459,27138.14
+2015,185922,93331.1
+2018,137901,87405.2
+2013,123225,6729.5
+2015,235847,17213.97
+2014,221738,52129.23
+2021,110893,48790.77
+2003,242726,72297.13
+2006,196914,13522.58
+2015,181880,66261.25
+2023,6611,63555.14
+2021,247524,27193.86
+2020,295187,56527.43
+2021,136343,26109.68
+2020,190191,18957.69
+2007,142645,59447.82
+2016,152481,97860.06
+2015,286608,27508.67
+2022,249220,38756.93
+2009,118523,29374.46
+2009,20662,30313.68
+2001,280372,43398.25
+2008,60721,71676.27
+2016,138458,8686.43
+2010,269006,95926.8
+2009,40108,9396.59
+2021,91788,88719.05
+2016,244437,89965.92
+2003,237011,54826.47
+2015,158273,18014.7
+2019,49966,58688.87
+2014,185846,64720.06
+2020,272530,86487.1
+2004,77228,57335.06
+2005,146297,44017.39
+2016,43021,84637.66
+2000,149333,98190.42
+2018,252646,66284.8
+2003,86755,88066.77
+2016,66330,61879.84
+2008,178438,70529.86
+2023,45313,70375.88
+2001,234729,71954.76
+2007,232783,35496.28
+2014,289176,59687.83
+2006,148430,61442.88
+2005,28365,34931.8
+2000,275333,38235.97
+2014,7248,77413.44
+2022,4369,60358.76
+2006,290749,19175.06
+2016,171955,84575.51
+2001,33055,88895.86
+2008,199803,49283.41
+2008,269594,24846.21
+2012,133997,95022.62
+2005,50272,88815.61
+2005,5310,28216.27
+2019,31817,14081.4
+2019,215888,46862.09
+2020,82641,69257.71
+2002,215155,21661.92
+2016,207382,53755.2
+2016,15457,45414.47
+2011,42311,89602.36
+2015,151958,45808.83
+2014,123573,55708.76
+2012,298325,95752.19
+2022,164334,33470.72
+2000,263272,32454.14
+2016,79522,80961.53
+2002,163394,31366.2
+2014,48929,84027.26
+2003,81696,14075.88
+2003,271952,15569.82
+2017,95148,90625.72
+2016,283869,56377.17
+2018,220026,73287.36
+2010,83576,26402.44
+2019,20557,20796.06
+2002,21825,84320.65
+2007,271142,39069.22
+2013,36080,48228.1
+2000,258815,7657.33
+2013,188869,41658.67
+2001,146874,78191.59
+2022,42407,83021.14
+2003,120283,71381.7
+2023,13338,70757.07
+2018,76289,53092.73
+2005,149967,56141.29
+2000,178982,75550.02
+2016,109367,28493.67
+2007,117486,26994.12
+2018,214209,95242.86
+2020,256055,7630.54
+2000,136421,18249.22
+2004,153535,59181.58
+2015,74935,75094.31
+2005,189864,56099.65
+2007,275830,38731.08
+2012,63528,97907.73
+2015,99811,71866.01
+2002,284931,83982.13
+2018,188499,8823.45
+2011,260141,27412.41
+2015,104887,40546.25
+2010,61086,22347.13
+2009,255494,11925.43
+2019,63308,26383.71
+2003,277941,55695.38
+2011,267446,71095.8
+2022,38059,78531.99
+2001,131980,9078.93
+2023,191324,45658.69
+2021,143949,16610.1
+2018,276383,45964.04
+2004,27313,46227.71
+2007,42103,52330.11
+2006,179480,89818.91
+2013,88771,81484.07
+2023,126228,65488.48
+2022,91665,89113.7
+2002,272678,69454.52
+2017,279333,82791.22
+2015,86067,58558.94
+2022,273111,54895.73
+2018,213063,73789.24
+2018,270804,6870.48
+2017,129909,70585.87
+2019,140688,93779.23
+2015,75976,72824.5
+2007,233208,8495.4
+2000,179810,40899.14
+2016,275251,81910.22
+2011,192476,96067.81
+2020,94182,40165.52
+2010,243153,84913.44
+2004,278098,87061.94
+2011,279087,16712.21
+2016,40725,85349.9
+2005,10110,35803.74
+2000,278606,61357.58
+2004,185153,56201.4
+2013,66567,67990.12
+2004,182296,75344.14
+2021,113394,46883.7
+2023,148940,89389.53
+2000,22222,81902.35
+2017,79794,79615.0
+2015,63924,48533.45
+2008,99854,8569.42
+2018,260038,51764.36
+2021,243815,90352.33
+2004,233127,23092.76
+2001,141295,98346.28
+2014,179238,81730.61
+2006,39369,72433.83
+2003,274805,69330.2
+2000,146663,60767.46
+2012,186307,73463.68
+2019,270114,45081.03
+2021,47922,85302.37
+2006,292899,71152.87
+2014,120926,78269.05
+2022,19416,80286.31
+2013,13672,13746.65
+2022,128145,10285.87
+2018,178068,81093.66
+2021,64,29641.48
+2023,68835,60287.13
+2019,201457,47152.53
+2023,247795,7093.72
+2017,116916,8826.72
+2009,195346,83576.9
+2008,273010,62729.37
+2007,3889,54765.09
+2009,118194,94713.45
+2016,124714,21445.93
+2001,31335,29507.23
+2005,50547,76890.21
+2004,157234,78647.35
+2008,220521,43465.23
+2004,155759,95342.95
+2017,273139,94134.18
+2019,2631,6178.92
+2008,137039,21371.15
+2016,64471,82920.85
+2016,299260,36845.59
+2011,133014,14068.95
+2006,47664,79574.92
+2002,159141,48185.43
+2009,87342,51779.02
+2001,14407,22705.09
+2002,113926,67785.03
+2015,213053,57367.93
+2001,17878,24633.93
+2023,83100,37331.49
+2009,223059,61703.53
+2005,43168,92862.86
+2021,250396,92435.75
+2010,250481,32351.06
+2022,28004,74883.99
+2006,282615,78674.31
+2014,91820,81838.19
+2005,191239,59222.42
+2019,102229,5998.26
+2008,14568,77359.25
+2021,9466,15126.76
+2019,222129,16102.78
+2011,57324,62534.36
+2018,146539,98434.45
+2019,75955,28041.25
+2002,147748,66352.03
+2014,94791,33847.1
+2001,162586,90378.98
+2020,22650,61384.1
+2001,77701,24710.35
+2021,272827,29902.45
+2002,229164,46085.67
+2005,80978,16594.14
