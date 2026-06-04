@@ -25,18 +25,45 @@
           <form id="prediction-form" class="panel form-panel">
             <div class="panel-heading">
               <h2>Predict Used Car Price</h2>
-              <p>Enter two numeric values. The model was trained from real CSV examples using NumPy.</p>
+              <p>Choose a car profile. Flask sends it to a NumPy linear regression model.</p>
             </div>
 
             <div class="field-grid">
               <label>
+                Make
+                <select name="make" required>
+                  <option value="">Select make</option>
+                  {% for make in makes %}
+                  <option value="{{ make }}">{{ make }}</option>
+                  {% endfor %}
+                </select>
+              </label>
+
+              <label>
+                Model
+                <select name="model" required>
+                  <option value="">Select model</option>
+                </select>
+              </label>
+
+              <label>
                 Year
-                <input name="year" type="number" min="1970" max="2026" placeholder="0" required />
+                <input name="year" type="number" min="{{ min_year }}" max="{{ max_year }}" placeholder="0" required />
               </label>
 
               <label>
                 Mileage
-                <input name="mileage" type="number" min="0" max="300000" placeholder="0" required />
+                <input name="mileage" type="number" min="{{ min_mileage }}" max="{{ max_mileage }}" placeholder="0" required />
+              </label>
+
+              <label>
+                Condition
+                <select name="condition" required>
+                  <option value="">Select condition</option>
+                  {% for condition in conditions %}
+                  <option value="{{ condition }}">{{ condition }}</option>
+                  {% endfor %}
+                </select>
               </label>
             </div>
 
@@ -46,7 +73,7 @@
           <section class="panel result-panel">
             <div class="panel-heading">
               <h2>Prediction</h2>
-              <p>Flask sends your inputs to the NumPy model and returns a price.</p>
+              <p>The point on the curve shows your entered car.</p>
             </div>
             <div class="price-display" id="price-display">$0</div>
             <p class="result-copy" id="result-copy">Complete the form to generate a prediction.</p>
@@ -54,6 +81,22 @@
         </section>
 
         <section class="dashboard-grid">
+          <section class="panel prediction-chart-panel">
+            <div class="panel-heading">
+              <h2>Prediction Curve</h2>
+              <p>The curve changes by make, model, year, and condition. The dot is your mileage.</p>
+            </div>
+            <canvas id="prediction-chart"></canvas>
+          </section>
+
+          <section class="panel">
+            <div class="panel-heading">
+              <h2>Feature Impact</h2>
+              <p>Higher bars mean that input changes model error more when shuffled.</p>
+            </div>
+            <canvas id="impact-chart"></canvas>
+          </section>
+
           <section class="panel">
             <div class="panel-heading">
               <h2>Cost Function</h2>
@@ -62,7 +105,7 @@
             <dl class="data-facts">
               <div>
                 <dt>Final cost</dt>
-                <dd id="final-cost">${{ "{:,.2f}".format(final_cost) }}</dd>
+                <dd>${{ "{:,.2f}".format(final_cost) }}</dd>
               </div>
               <div>
                 <dt>MAE</dt>
@@ -75,20 +118,12 @@
             </dl>
           </section>
 
-          <section class="panel">
-            <div class="panel-heading">
-              <h2>Training Cost</h2>
-              <p>The line shows the cost getting smaller while gradient descent trains.</p>
-            </div>
-            <canvas id="cost-chart"></canvas>
-          </section>
-
           <section class="panel data-panel">
             <div class="panel-heading">
               <h2>Training Data</h2>
               <p>
-                The app trains from a real used-car CSV and keeps the project simple by using only
-                <strong>year</strong>, <strong>mileage</strong>, and <strong>price</strong>.
+                The app keeps the real source CSV in <strong>data/source_car_prices.csv</strong> and trains
+                from the cleaned copy in <strong>data/car_prices.csv</strong>.
               </p>
             </div>
             <dl class="data-facts">
@@ -100,12 +135,20 @@
                 <dt>Current source</dt>
                 <dd>{{ data_source }}</dd>
               </div>
+              <div>
+                <dt>Feature engineering</dt>
+                <dd>{{ feature_note }}</dd>
+              </div>
             </dl>
           </section>
         </section>
       </section>
     </main>
 
+    <script>
+      window.makeModelMap = {{ make_model_map | tojson }};
+      window.featureImpacts = {{ feature_impacts | tojson }};
+    </script>
     <script src="{{ url_for('static', filename='js/app.js') }}"></script>
   </body>
 </html>

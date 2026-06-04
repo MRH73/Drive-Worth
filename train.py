@@ -2,10 +2,10 @@ from src.training import train_and_save
 
 
 if __name__ == "__main__":
-    # Train all models and save the best one.
+    # Train the NumPy regression model and save it to models/linear_model.json.
     bundle = train_and_save()
 
-    # Print the winner in the terminal.
+    # Print simple training results in the terminal.
     print(f"Model: {bundle['model_name']}")
     print(f"Data source: {bundle['data_source']}")
     print(f"Rows used: {bundle['row_count']}")
