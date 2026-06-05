@@ -206,7 +206,7 @@ This returns paginated rows from `data/car_prices.csv`, so users can see the exa
 - **HTML/CSS/JavaScript**: browser UI.
 - **Chart.js**: charts for the prediction curve and feature impact.
 
-No Docker, no pytest, and no scikit-learn are required for this version.
+
 
 ## Project Structure
 
@@ -322,15 +322,3 @@ Example response includes:
   ]
 }
 ```
-
-## Portfolio Talking Points
-
-- Built a full ML pipeline from CSV to deployed web prediction.
-- Cleaned raw data and saved a training-ready CSV.
-- Trained regression from scratch with NumPy.
-- Added nonlinear feature engineering while keeping the model simple.
-- Encoded text columns manually with one-hot encoding.
-- Built a Flask API for predictions.
-- Built a plain HTML/CSS/JavaScript UI.
-- Added charts to explain predictions and feature importance.
-- Documented honest model limitations instead of pretending the data is perfect.
