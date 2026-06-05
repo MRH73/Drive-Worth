@@ -20,6 +20,7 @@ real CSV data -> clean data -> train with NumPy -> save model -> Flask API -> we
 - Lets a user submit car details through a Flask API.
 - Shows a prediction curve and plots the entered car as a point.
 - Shows which input features affect the model most.
+- Lets users search and page through the cleaned training rows in the browser.
 
 ## Data Source
 
@@ -58,6 +59,8 @@ The original source has some rows that are not helpful for a beginner regression
 In this dataset:
 
 - Rows used: `2385`
+- Makes: `25`
+- Models: `120`
 - Minimum year: `2001`
 - Maximum year: `2020`
 - Minimum mileage: `122`
@@ -65,6 +68,14 @@ In this dataset:
 - Conditions: `Clean Vehicle`, `Salvage Insurance`
 
 This source works better than the first dataset because price has a real relationship with year and mileage. Newer cars usually cost more, and higher-mileage cars usually cost less.
+
+## Data Expansion Note
+
+I checked for larger public used-car datasets. A stronger candidate is the Kaggle/Gigasheet Used Car Price Prediction Dataset, which has `4009` rows and `13` columns, including brand, model, year, mileage, fuel type, engine, transmission, accident history, title status, and price.
+
+I did not wire it in automatically because Kaggle/Gigasheet download access is not a stable raw CSV link like the current GitHub CSV. For a beginner-friendly project, the current source is better because it downloads directly with `pandas.read_csv()` and does not require account setup.
+
+If you manually download that larger `used_cars.csv`, the project can be expanded later by adapting `src/data.py` to merge it with the current cleaned CSV.
 
 ## How The Model Works
 
@@ -169,6 +180,22 @@ The curve changes based on:
 - selected year
 
 When the user submits a car, the app plots that car as a dot on the curve.
+
+## Training Data Viewer
+
+The UI includes an `Explore Training Data` table. It calls:
+
+```text
+/api/training-data
+```
+
+Optional query parameters:
+
+```text
+/api/training-data?page=1&per_page=10&search=ford
+```
+
+This returns paginated rows from `data/car_prices.csv`, so users can see the exact data the model learned from.
 
 ## Tech Stack
 

@@ -67,7 +67,7 @@
               </label>
             </div>
 
-            <button type="submit">Predict Price</button>
+            <button class="primary-action" type="submit">Predict Price</button>
           </form>
 
           <section class="panel result-panel">
@@ -132,6 +132,14 @@
                 <dd>{{ row_count }}</dd>
               </div>
               <div>
+                <dt>Makes</dt>
+                <dd>{{ make_count }}</dd>
+              </div>
+              <div>
+                <dt>Models</dt>
+                <dd>{{ model_count }}</dd>
+              </div>
+              <div>
                 <dt>Current source</dt>
                 <dd>{{ data_source }}</dd>
               </div>
@@ -140,6 +148,43 @@
                 <dd>{{ feature_note }}</dd>
               </div>
             </dl>
+          </section>
+
+          <section class="panel training-table-panel">
+            <div class="panel-heading table-heading">
+              <div>
+                <h2>Explore Training Data</h2>
+                <p>Search and preview the cleaned CSV rows the model learned from.</p>
+              </div>
+              <div class="table-controls">
+                <input id="training-search" type="search" placeholder="Search make, model, condition" />
+                <button id="training-search-button" class="secondary-action" type="button">Search</button>
+              </div>
+            </div>
+
+            <div class="table-summary" id="training-summary">Loading training rows...</div>
+
+            <div class="table-wrap">
+              <table>
+                <thead>
+                  <tr>
+                    <th>Make</th>
+                    <th>Model</th>
+                    <th>Year</th>
+                    <th>Mileage</th>
+                    <th>Condition</th>
+                    <th>Price</th>
+                  </tr>
+                </thead>
+                <tbody id="training-table-body"></tbody>
+              </table>
+            </div>
+
+            <div class="pagination">
+              <button id="training-prev" class="secondary-action" type="button">Previous</button>
+              <span id="training-page-label">Page 1 of 1</span>
+              <button id="training-next" class="secondary-action" type="button">Next</button>
+            </div>
           </section>
         </section>
       </section>

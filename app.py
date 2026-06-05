@@ -1,6 +1,12 @@
+from pathlib import Path
+
+import pandas as pd
 from flask import Flask, jsonify, render_template, request
 
 from src.training import load_or_train_model, predict_price, prediction_line
+
+
+TRAINING_DATA_PATH = Path("data/car_prices.csv")
 
 
 # Flask creates the web application object.
@@ -9,6 +15,16 @@ app = Flask(__name__)
 # Load the trained model when the server starts.
 # If the model file does not exist yet, the app will train one automatically.
 model_bundle = load_or_train_model()
+
+
+def positive_int_arg(name: str, default: int, minimum: int, maximum: int) -> int:
+    # Read a query parameter like ?page=2 and keep it inside a safe range.
+    try:
+        value = int(request.args.get(name, default))
+    except (TypeError, ValueError):
+        value = default
+
+    return min(max(value, minimum), maximum)
 
 
 @app.route("/")
@@ -27,6 +43,8 @@ def index():
         max_mileage=model_bundle["mileage_range"][1],
         data_source=model_bundle.get("data_source", "unknown"),
         row_count=model_bundle.get("row_count", 0),
+        make_count=len(model_bundle["make_categories"]),
+        model_count=len(model_bundle["model_categories"]),
         final_cost=model_bundle["final_cost"],
         cost_function=model_bundle["cost_function"],
         metrics=model_bundle["metrics"],
@@ -96,6 +114,42 @@ def metrics():
             "feature_impacts": model_bundle.get("feature_impacts", []),
             "data_source": model_bundle.get("data_source", "unknown"),
             "row_count": model_bundle.get("row_count", 0),
+        }
+    )
+
+
+@app.route("/api/training-data")
+def training_data():
+    # This endpoint lets the UI show the same cleaned CSV rows used for training.
+    page = positive_int_arg("page", default=1, minimum=1, maximum=10_000)
+    per_page = positive_int_arg("per_page", default=10, minimum=5, maximum=50)
+    search = request.args.get("search", "").strip().lower()
+
+    data = pd.read_csv(TRAINING_DATA_PATH)
+
+    if search:
+        # Simple search across the text columns that users recognize in the UI.
+        search_mask = (
+            data["make"].astype(str).str.lower().str.contains(search, na=False)
+            | data["model"].astype(str).str.lower().str.contains(search, na=False)
+            | data["condition"].astype(str).str.lower().str.contains(search, na=False)
+        )
+        data = data[search_mask]
+
+    total_rows = len(data)
+    total_pages = max((total_rows + per_page - 1) // per_page, 1)
+    page = min(page, total_pages)
+    start_index = (page - 1) * per_page
+    page_rows = data.iloc[start_index : start_index + per_page]
+
+    return jsonify(
+        {
+            "columns": ["make", "model", "year", "mileage", "condition", "price"],
+            "rows": page_rows.to_dict(orient="records"),
+            "page": page,
+            "per_page": per_page,
+            "total_rows": total_rows,
+            "total_pages": total_pages,
         }
     )
 
